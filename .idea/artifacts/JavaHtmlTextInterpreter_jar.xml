@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="JavaHtmlTextInterpreter:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/JavaHtmlTextInterpreter_jar</output-path>
+    <root id="archive" name="JavaHtmlTextInterpreter.jar">
+      <element id="module-output" name="JavaHtmlTextInterpreter" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/jsoup/jsoup/1.13.1/jsoup-1.13.1.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
