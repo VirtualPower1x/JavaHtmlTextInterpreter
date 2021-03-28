@@ -8,11 +8,8 @@ public class Main {
         Scanner scanner = new Scanner(System.in);
         System.out.println("Введите адрес требуемой страницы: ");
         String url = scanner.nextLine();
-        String textFromUrl = TextInterpreter.getTextFromUrl(url);
-        if (!textFromUrl.equals("")) {
-            System.out.println("Статистика использования уникальных слов: ");
-            printTreeMap(TextInterpreter.parseText(textFromUrl));
-        }
+        System.out.println("Статистика использования уникальных слов: ");
+        printTreeMap(WordStatistics.getFromUrl(url));
     }
 
     public static void printTreeMap (TreeMap<String, Integer> treeMap) {

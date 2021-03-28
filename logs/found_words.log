@@ -1,0 +1,2680 @@
+29.03.2021 01:25:59.792 [main] INFO  FoundWords - Actual words found on the page https://monolit-pro.ucoz.ru/test-pages/test_distorted.htm:
+29.03.2021 01:25:59.792 [main] INFO  FoundWords - Экспресс-тест
+29.03.2021 01:25:59.792 [main] INFO  FoundWords - Ехал
+29.03.2021 01:25:59.792 [main] INFO  FoundWords - зомби
+29.03.2021 01:25:59.792 [main] INFO  FoundWords - через
+29.03.2021 01:25:59.792 [main] INFO  FoundWords - зомби
+29.03.2021 01:25:59.792 [main] INFO  FoundWords - Видит
+29.03.2021 01:25:59.792 [main] INFO  FoundWords - зомби
+29.03.2021 01:25:59.792 [main] INFO  FoundWords - -
+29.03.2021 01:25:59.792 [main] INFO  FoundWords - в
+29.03.2021 01:25:59.792 [main] INFO  FoundWords - зомби
+29.03.2021 01:25:59.792 [main] INFO  FoundWords - зомби
+29.03.2021 01:25:59.792 [main] INFO  FoundWords - Сунул
+29.03.2021 01:25:59.792 [main] INFO  FoundWords - зомби
+29.03.2021 01:25:59.792 [main] INFO  FoundWords - в
+29.03.2021 01:25:59.792 [main] INFO  FoundWords - зомби
+29.03.2021 01:25:59.792 [main] INFO  FoundWords - зомби
+29.03.2021 01:25:59.792 [main] INFO  FoundWords - Зомби
+29.03.2021 01:25:59.792 [main] INFO  FoundWords - зомби
+29.03.2021 01:25:59.792 [main] INFO  FoundWords - зомби
+29.03.2021 01:25:59.792 [main] INFO  FoundWords - зомби
+29.03.2021 01:25:59.792 [main] INFO  FoundWords - Продам
+29.03.2021 01:25:59.792 [main] INFO  FoundWords - гараж$1024
+29.03.2021 01:25:59.792 [main] INFO  FoundWords - телефон
+29.03.2021 01:25:59.792 [main] INFO  FoundWords - 8-800-555-35-35
+29.03.2021 01:25:59.792 [main] INFO  FoundWords - к^т&у|лх#у
+29.03.2021 01:25:59.792 [main] INFO  FoundWords - ук24*7рал
+29.03.2021 01:25:59.792 [main] INFO  FoundWords - тЕКСТ
+29.03.2021 01:25:59.824 [main] INFO  FoundWords - Unique words usage statistics for page https://monolit-pro.ucoz.ru/test-pages/test_distorted.htm:
+29.03.2021 01:25:59.824 [main] INFO  FoundWords - в - 2
+29.03.2021 01:25:59.824 [main] INFO  FoundWords - видит - 1
+29.03.2021 01:25:59.824 [main] INFO  FoundWords - гараж - 1
+29.03.2021 01:25:59.824 [main] INFO  FoundWords - ехал - 1
+29.03.2021 01:25:59.824 [main] INFO  FoundWords - зомби - 12
+29.03.2021 01:25:59.824 [main] INFO  FoundWords - ктулху - 1
+29.03.2021 01:25:59.824 [main] INFO  FoundWords - продам - 1
+29.03.2021 01:25:59.824 [main] INFO  FoundWords - сунул - 1
+29.03.2021 01:25:59.824 [main] INFO  FoundWords - текст - 1
+29.03.2021 01:25:59.824 [main] INFO  FoundWords - телефон - 1
+29.03.2021 01:25:59.824 [main] INFO  FoundWords - украл - 1
+29.03.2021 01:25:59.824 [main] INFO  FoundWords - через - 1
+29.03.2021 01:25:59.824 [main] INFO  FoundWords - экспресс-тест - 1
+29.03.2021 01:26:04.390 [main] INFO  FoundWords - Actual words found on the page https://monolit-pro.ucoz.ru/test-pages/test.htm:
+29.03.2021 01:26:04.390 [main] INFO  FoundWords - Экспресс-тест
+29.03.2021 01:26:04.390 [main] INFO  FoundWords - Ехал
+29.03.2021 01:26:04.390 [main] INFO  FoundWords - зомби
+29.03.2021 01:26:04.390 [main] INFO  FoundWords - через
+29.03.2021 01:26:04.390 [main] INFO  FoundWords - зомби
+29.03.2021 01:26:04.390 [main] INFO  FoundWords - Видит
+29.03.2021 01:26:04.390 [main] INFO  FoundWords - зомби
+29.03.2021 01:26:04.390 [main] INFO  FoundWords - -
+29.03.2021 01:26:04.390 [main] INFO  FoundWords - в
+29.03.2021 01:26:04.390 [main] INFO  FoundWords - зомби
+29.03.2021 01:26:04.390 [main] INFO  FoundWords - зомби
+29.03.2021 01:26:04.390 [main] INFO  FoundWords - Сунул
+29.03.2021 01:26:04.390 [main] INFO  FoundWords - зомби
+29.03.2021 01:26:04.390 [main] INFO  FoundWords - в
+29.03.2021 01:26:04.390 [main] INFO  FoundWords - зомби
+29.03.2021 01:26:04.390 [main] INFO  FoundWords - зомби
+29.03.2021 01:26:04.390 [main] INFO  FoundWords - Зомби
+29.03.2021 01:26:04.390 [main] INFO  FoundWords - зомби
+29.03.2021 01:26:04.390 [main] INFO  FoundWords - зомби
+29.03.2021 01:26:04.390 [main] INFO  FoundWords - зомби
+29.03.2021 01:26:04.406 [main] INFO  FoundWords - Unique words usage statistics for page https://monolit-pro.ucoz.ru/test-pages/test.htm:
+29.03.2021 01:26:04.406 [main] INFO  FoundWords - в - 2
+29.03.2021 01:26:04.406 [main] INFO  FoundWords - видит - 1
+29.03.2021 01:26:04.406 [main] INFO  FoundWords - ехал - 1
+29.03.2021 01:26:04.406 [main] INFO  FoundWords - зомби - 12
+29.03.2021 01:26:04.406 [main] INFO  FoundWords - сунул - 1
+29.03.2021 01:26:04.406 [main] INFO  FoundWords - через - 1
+29.03.2021 01:26:04.406 [main] INFO  FoundWords - экспресс-тест - 1
+29.03.2021 01:26:57.630 [main] INFO  FoundWords - Actual words found on the page skillbox.ru:
+29.03.2021 01:26:57.630 [main] INFO  FoundWords - Skillbox
+29.03.2021 01:26:57.630 [main] INFO  FoundWords - –
+29.03.2021 01:26:57.630 [main] INFO  FoundWords - онлайн-университет
+29.03.2021 01:26:57.630 [main] INFO  FoundWords - один
+29.03.2021 01:26:57.630 [main] INFO  FoundWords - из
+29.03.2021 01:26:57.630 [main] INFO  FoundWords - лидеров
+29.03.2021 01:26:57.630 [main] INFO  FoundWords - российского
+29.03.2021 01:26:57.630 [main] INFO  FoundWords - рынка
+29.03.2021 01:26:57.630 [main] INFO  FoundWords - онлайн-образования
+29.03.2021 01:26:57.630 [main] INFO  FoundWords - Все
+29.03.2021 01:26:57.630 [main] INFO  FoundWords - курсы
+29.03.2021 01:26:57.630 [main] INFO  FoundWords - О
+29.03.2021 01:26:57.630 [main] INFO  FoundWords - Skillbox
+29.03.2021 01:26:57.630 [main] INFO  FoundWords - Вебинары
+29.03.2021 01:26:57.630 [main] INFO  FoundWords - Журнал
+29.03.2021 01:26:57.630 [main] INFO  FoundWords - Войти
+29.03.2021 01:26:57.630 [main] INFO  FoundWords - Онлайн-университет
+29.03.2021 01:26:57.630 [main] INFO  FoundWords - востребованных
+29.03.2021 01:26:57.630 [main] INFO  FoundWords - профессий
+29.03.2021 01:26:57.630 [main] INFO  FoundWords - Наши
+29.03.2021 01:26:57.630 [main] INFO  FoundWords - направления
+29.03.2021 01:26:57.630 [main] INFO  FoundWords - Программирование
+29.03.2021 01:26:57.630 [main] INFO  FoundWords - Дизайн
+29.03.2021 01:26:57.630 [main] INFO  FoundWords - Маркетинг
+29.03.2021 01:26:57.630 [main] INFO  FoundWords - Управление
+29.03.2021 01:26:57.630 [main] INFO  FoundWords - Игры
+29.03.2021 01:26:57.630 [main] INFO  FoundWords - Мультимедиа
+29.03.2021 01:26:57.630 [main] INFO  FoundWords - Для
+29.03.2021 01:26:57.630 [main] INFO  FoundWords - бизнеса
+29.03.2021 01:26:57.630 [main] INFO  FoundWords - Профессии
+29.03.2021 01:26:57.630 [main] INFO  FoundWords - с
+29.03.2021 01:26:57.630 [main] INFO  FoundWords - трудоустройством
+29.03.2021 01:26:57.630 [main] INFO  FoundWords - Большие
+29.03.2021 01:26:57.630 [main] INFO  FoundWords - образовательные
+29.03.2021 01:26:57.630 [main] INFO  FoundWords - программы
+29.03.2021 01:26:57.630 [main] INFO  FoundWords - чтобы
+29.03.2021 01:26:57.630 [main] INFO  FoundWords - освоить
+29.03.2021 01:26:57.630 [main] INFO  FoundWords - новую
+29.03.2021 01:26:57.630 [main] INFO  FoundWords - специальность
+29.03.2021 01:26:57.630 [main] INFO  FoundWords - с
+29.03.2021 01:26:57.630 [main] INFO  FoundWords - самого
+29.03.2021 01:26:57.630 [main] INFO  FoundWords - нуля
+29.03.2021 01:26:57.630 [main] INFO  FoundWords - Во
+29.03.2021 01:26:57.646 [main] INFO  FoundWords - время
+29.03.2021 01:26:57.646 [main] INFO  FoundWords - обучения
+29.03.2021 01:26:57.646 [main] INFO  FoundWords - мы
+29.03.2021 01:26:57.646 [main] INFO  FoundWords - поможем
+29.03.2021 01:26:57.646 [main] INFO  FoundWords - вам
+29.03.2021 01:26:57.646 [main] INFO  FoundWords - найти
+29.03.2021 01:26:57.646 [main] INFO  FoundWords - работу
+29.03.2021 01:26:57.646 [main] INFO  FoundWords - Профессия
+29.03.2021 01:26:57.646 [main] INFO  FoundWords - Data
+29.03.2021 01:26:57.646 [main] INFO  FoundWords - Scientist
+29.03.2021 01:26:57.646 [main] INFO  FoundWords - 18
+29.03.2021 01:26:57.646 [main] INFO  FoundWords - месяцев
+29.03.2021 01:26:57.646 [main] INFO  FoundWords - Профессия
+29.03.2021 01:26:57.646 [main] INFO  FoundWords - Графический
+29.03.2021 01:26:57.646 [main] INFO  FoundWords - дизайнер
+29.03.2021 01:26:57.646 [main] INFO  FoundWords - 24
+29.03.2021 01:26:57.646 [main] INFO  FoundWords - месяца
+29.03.2021 01:26:57.646 [main] INFO  FoundWords - Профессия
+29.03.2021 01:26:57.646 [main] INFO  FoundWords - 3D-дженералист
+29.03.2021 01:26:57.646 [main] INFO  FoundWords - 24
+29.03.2021 01:26:57.646 [main] INFO  FoundWords - месяца
+29.03.2021 01:26:57.646 [main] INFO  FoundWords - Профессия
+29.03.2021 01:26:57.646 [main] INFO  FoundWords - Интернет-маркетолог
+29.03.2021 01:26:57.646 [main] INFO  FoundWords - 24
+29.03.2021 01:26:57.646 [main] INFO  FoundWords - месяца
+29.03.2021 01:26:57.646 [main] INFO  FoundWords - Профессия
+29.03.2021 01:26:57.646 [main] INFO  FoundWords - Бизнес-аналитик
+29.03.2021 01:26:57.646 [main] INFO  FoundWords - 12
+29.03.2021 01:26:57.646 [main] INFO  FoundWords - месяцев
+29.03.2021 01:26:57.646 [main] INFO  FoundWords - Профессия
+29.03.2021 01:26:57.646 [main] INFO  FoundWords - Python-разработчик
+29.03.2021 01:26:57.646 [main] INFO  FoundWords - 12
+29.03.2021 01:26:57.646 [main] INFO  FoundWords - месяцев
+29.03.2021 01:26:57.652 [main] INFO  FoundWords - Показать
+29.03.2021 01:26:57.652 [main] INFO  FoundWords - еще
+29.03.2021 01:26:57.652 [main] INFO  FoundWords - 144
+29.03.2021 01:26:57.652 [main] INFO  FoundWords - профессии
+29.03.2021 01:26:57.652 [main] INFO  FoundWords - Курсы
+29.03.2021 01:26:57.652 [main] INFO  FoundWords - Короткие
+29.03.2021 01:26:57.652 [main] INFO  FoundWords - программы
+29.03.2021 01:26:57.652 [main] INFO  FoundWords - чтобы
+29.03.2021 01:26:57.652 [main] INFO  FoundWords - изучить
+29.03.2021 01:26:57.652 [main] INFO  FoundWords - один
+29.03.2021 01:26:57.652 [main] INFO  FoundWords - конкретный
+29.03.2021 01:26:57.652 [main] INFO  FoundWords - навык
+29.03.2021 01:26:57.652 [main] INFO  FoundWords - Курс
+29.03.2021 01:26:57.652 [main] INFO  FoundWords - Интернет-маркетолог
+29.03.2021 01:26:57.652 [main] INFO  FoundWords - с
+29.03.2021 01:26:57.652 [main] INFO  FoundWords - нуля
+29.03.2021 01:26:57.652 [main] INFO  FoundWords - 6
+29.03.2021 01:26:57.652 [main] INFO  FoundWords - месяцев
+29.03.2021 01:26:57.652 [main] INFO  FoundWords - Курс
+29.03.2021 01:26:57.652 [main] INFO  FoundWords - Кройка
+29.03.2021 01:26:57.652 [main] INFO  FoundWords - и
+29.03.2021 01:26:57.652 [main] INFO  FoundWords - шитьё
+29.03.2021 01:26:57.652 [main] INFO  FoundWords - 8
+29.03.2021 01:26:57.652 [main] INFO  FoundWords - месяцев
+29.03.2021 01:26:57.652 [main] INFO  FoundWords - Курс
+29.03.2021 01:26:57.652 [main] INFO  FoundWords - Основы
+29.03.2021 01:26:57.652 [main] INFO  FoundWords - видеопроизводства
+29.03.2021 01:26:57.652 [main] INFO  FoundWords - 6
+29.03.2021 01:26:57.652 [main] INFO  FoundWords - месяцев
+29.03.2021 01:26:57.652 [main] INFO  FoundWords - Курс
+29.03.2021 01:26:57.652 [main] INFO  FoundWords - Старт
+29.03.2021 01:26:57.652 [main] INFO  FoundWords - в
+29.03.2021 01:26:57.652 [main] INFO  FoundWords - DevOps
+29.03.2021 01:26:57.652 [main] INFO  FoundWords - системное
+29.03.2021 01:26:57.652 [main] INFO  FoundWords - администрирование
+29.03.2021 01:26:57.652 [main] INFO  FoundWords - для
+29.03.2021 01:26:57.652 [main] INFO  FoundWords - начинающих
+29.03.2021 01:26:57.652 [main] INFO  FoundWords - 12
+29.03.2021 01:26:57.652 [main] INFO  FoundWords - месяцев
+29.03.2021 01:26:57.652 [main] INFO  FoundWords - Курс
+29.03.2021 01:26:57.652 [main] INFO  FoundWords - Методист
+29.03.2021 01:26:57.652 [main] INFO  FoundWords - образовательных
+29.03.2021 01:26:57.652 [main] INFO  FoundWords - программ
+29.03.2021 01:26:57.652 [main] INFO  FoundWords - 4
+29.03.2021 01:26:57.652 [main] INFO  FoundWords - месяца
+29.03.2021 01:26:57.652 [main] INFO  FoundWords - Курс
+29.03.2021 01:26:57.652 [main] INFO  FoundWords - SMM-специалист
+29.03.2021 01:26:57.652 [main] INFO  FoundWords - с
+29.03.2021 01:26:57.652 [main] INFO  FoundWords - нуля
+29.03.2021 01:26:57.652 [main] INFO  FoundWords - 4
+29.03.2021 01:26:57.652 [main] INFO  FoundWords - месяца
+29.03.2021 01:26:57.652 [main] INFO  FoundWords - Показать
+29.03.2021 01:26:57.652 [main] INFO  FoundWords - еще
+29.03.2021 01:26:57.652 [main] INFO  FoundWords - 297
+29.03.2021 01:26:57.652 [main] INFO  FoundWords - курсов
+29.03.2021 01:26:57.652 [main] INFO  FoundWords - Высшее
+29.03.2021 01:26:57.652 [main] INFO  FoundWords - образование
+29.03.2021 01:26:57.652 [main] INFO  FoundWords - в
+29.03.2021 01:26:57.652 [main] INFO  FoundWords - Skillbox
+29.03.2021 01:26:57.652 [main] INFO  FoundWords - Программы
+29.03.2021 01:26:57.652 [main] INFO  FoundWords - бакалавриата
+29.03.2021 01:26:57.652 [main] INFO  FoundWords - и
+29.03.2021 01:26:57.652 [main] INFO  FoundWords - магистратуры
+29.03.2021 01:26:57.652 [main] INFO  FoundWords - Совместно
+29.03.2021 01:26:57.652 [main] INFO  FoundWords - с
+29.03.2021 01:26:57.652 [main] INFO  FoundWords - ведущими
+29.03.2021 01:26:57.652 [main] INFO  FoundWords - вузами
+29.03.2021 01:26:57.652 [main] INFO  FoundWords - России
+29.03.2021 01:26:57.652 [main] INFO  FoundWords - Диплом
+29.03.2021 01:26:57.652 [main] INFO  FoundWords - государственного
+29.03.2021 01:26:57.652 [main] INFO  FoundWords - образца
+29.03.2021 01:26:57.652 [main] INFO  FoundWords - Перейти
+29.03.2021 01:26:57.652 [main] INFO  FoundWords - к
+29.03.2021 01:26:57.652 [main] INFO  FoundWords - программам
+29.03.2021 01:26:57.652 [main] INFO  FoundWords - Системный
+29.03.2021 01:26:57.652 [main] INFO  FoundWords - подход
+29.03.2021 01:26:57.652 [main] INFO  FoundWords - к
+29.03.2021 01:26:57.652 [main] INFO  FoundWords - образованию
+29.03.2021 01:26:57.652 [main] INFO  FoundWords - Подробнее
+29.03.2021 01:26:57.652 [main] INFO  FoundWords - об
+29.03.2021 01:26:57.652 [main] INFO  FoundWords - обучении
+29.03.2021 01:26:57.652 [main] INFO  FoundWords - Видеолекции
+29.03.2021 01:26:57.652 [main] INFO  FoundWords - Смотреть
+29.03.2021 01:26:57.652 [main] INFO  FoundWords - видеоуроки
+29.03.2021 01:26:57.652 [main] INFO  FoundWords - можно
+29.03.2021 01:26:57.652 [main] INFO  FoundWords - в
+29.03.2021 01:26:57.652 [main] INFO  FoundWords - любое
+29.03.2021 01:26:57.668 [main] INFO  FoundWords - время
+29.03.2021 01:26:57.668 [main] INFO  FoundWords - доступ
+29.03.2021 01:26:57.668 [main] INFO  FoundWords - к
+29.03.2021 01:26:57.668 [main] INFO  FoundWords - учебным
+29.03.2021 01:26:57.668 [main] INFO  FoundWords - материалам
+29.03.2021 01:26:57.668 [main] INFO  FoundWords - предоставляется
+29.03.2021 01:26:57.668 [main] INFO  FoundWords - бессрочно
+29.03.2021 01:26:57.668 [main] INFO  FoundWords - Практика
+29.03.2021 01:26:57.668 [main] INFO  FoundWords - Новый
+29.03.2021 01:26:57.668 [main] INFO  FoundWords - материал
+29.03.2021 01:26:57.668 [main] INFO  FoundWords - закрепляется
+29.03.2021 01:26:57.668 [main] INFO  FoundWords - с
+29.03.2021 01:26:57.668 [main] INFO  FoundWords - помощью
+29.03.2021 01:26:57.668 [main] INFO  FoundWords - практического
+29.03.2021 01:26:57.668 [main] INFO  FoundWords - задания
+29.03.2021 01:26:57.668 [main] INFO  FoundWords - которое
+29.03.2021 01:26:57.668 [main] INFO  FoundWords - будет
+29.03.2021 01:26:57.668 [main] INFO  FoundWords - проверено
+29.03.2021 01:26:57.668 [main] INFO  FoundWords - за
+29.03.2021 01:26:57.668 [main] INFO  FoundWords - 48
+29.03.2021 01:26:57.668 [main] INFO  FoundWords - часов
+29.03.2021 01:26:57.668 [main] INFO  FoundWords - Консультации
+29.03.2021 01:26:57.668 [main] INFO  FoundWords - Живое
+29.03.2021 01:26:57.668 [main] INFO  FoundWords - общение
+29.03.2021 01:26:57.668 [main] INFO  FoundWords - с
+29.03.2021 01:26:57.668 [main] INFO  FoundWords - преподавателями
+29.03.2021 01:26:57.668 [main] INFO  FoundWords - и
+29.03.2021 01:26:57.668 [main] INFO  FoundWords - другими
+29.03.2021 01:26:57.668 [main] INFO  FoundWords - студентами
+29.03.2021 01:26:57.668 [main] INFO  FoundWords - в
+29.03.2021 01:26:57.668 [main] INFO  FoundWords - мессенджерах
+29.03.2021 01:26:57.668 [main] INFO  FoundWords - для
+29.03.2021 01:26:57.668 [main] INFO  FoundWords - обсуждения
+29.03.2021 01:26:57.668 [main] INFO  FoundWords - заданий
+29.03.2021 01:26:57.668 [main] INFO  FoundWords - и
+29.03.2021 01:26:57.668 [main] INFO  FoundWords - обмена
+29.03.2021 01:26:57.668 [main] INFO  FoundWords - опытом
+29.03.2021 01:26:57.668 [main] INFO  FoundWords - Диплом
+29.03.2021 01:26:57.668 [main] INFO  FoundWords - Итоговая
+29.03.2021 01:26:57.668 [main] INFO  FoundWords - работа
+29.03.2021 01:26:57.668 [main] INFO  FoundWords - по
+29.03.2021 01:26:57.668 [main] INFO  FoundWords - заданию
+29.03.2021 01:26:57.668 [main] INFO  FoundWords - от
+29.03.2021 01:26:57.668 [main] INFO  FoundWords - реальных
+29.03.2021 01:26:57.668 [main] INFO  FoundWords - заказчиков
+29.03.2021 01:26:57.668 [main] INFO  FoundWords - позволяет
+29.03.2021 01:26:57.668 [main] INFO  FoundWords - применить
+29.03.2021 01:26:57.668 [main] INFO  FoundWords - свои
+29.03.2021 01:26:57.668 [main] INFO  FoundWords - навыки
+29.03.2021 01:26:57.668 [main] INFO  FoundWords - для
+29.03.2021 01:26:57.668 [main] INFO  FoundWords - решения
+29.03.2021 01:26:57.668 [main] INFO  FoundWords - существующих
+29.03.2021 01:26:57.668 [main] INFO  FoundWords - бизнес-задач
+29.03.2021 01:26:57.668 [main] INFO  FoundWords - Трудоустройство
+29.03.2021 01:26:57.668 [main] INFO  FoundWords - Опыт
+29.03.2021 01:26:57.668 [main] INFO  FoundWords - полученный
+29.03.2021 01:26:57.668 [main] INFO  FoundWords - у
+29.03.2021 01:26:57.668 [main] INFO  FoundWords - нас
+29.03.2021 01:26:57.668 [main] INFO  FoundWords - в
+29.03.2021 01:26:57.668 [main] INFO  FoundWords - ходе
+29.03.2021 01:26:57.668 [main] INFO  FoundWords - обучения
+29.03.2021 01:26:57.668 [main] INFO  FoundWords - позволяет
+29.03.2021 01:26:57.668 [main] INFO  FoundWords - значительно
+29.03.2021 01:26:57.668 [main] INFO  FoundWords - проще
+29.03.2021 01:26:57.668 [main] INFO  FoundWords - найти
+29.03.2021 01:26:57.668 [main] INFO  FoundWords - работу
+29.03.2021 01:26:57.668 [main] INFO  FoundWords - Наши
+29.03.2021 01:26:57.668 [main] INFO  FoundWords - студенты
+29.03.2021 01:26:57.668 [main] INFO  FoundWords - работают
+29.03.2021 01:26:57.668 [main] INFO  FoundWords - в
+29.03.2021 01:26:57.668 [main] INFO  FoundWords - ведущих
+29.03.2021 01:26:57.668 [main] INFO  FoundWords - компаниях
+29.03.2021 01:26:57.668 [main] INFO  FoundWords - Мы
+29.03.2021 01:26:57.668 [main] INFO  FoundWords - знаем
+29.03.2021 01:26:57.668 [main] INFO  FoundWords - о
+29.03.2021 01:26:57.668 [main] INFO  FoundWords - лучших
+29.03.2021 01:26:57.668 [main] INFO  FoundWords - вакансиях
+29.03.2021 01:26:57.668 [main] INFO  FoundWords - в
+29.03.2021 01:26:57.668 [main] INFO  FoundWords - отрасли
+29.03.2021 01:26:57.668 [main] INFO  FoundWords - и
+29.03.2021 01:26:57.668 [main] INFO  FoundWords - рекомендуем
+29.03.2021 01:26:57.668 [main] INFO  FoundWords - наших
+29.03.2021 01:26:57.668 [main] INFO  FoundWords - студентов
+29.03.2021 01:26:57.668 [main] INFO  FoundWords - Поможем
+29.03.2021 01:26:57.668 [main] INFO  FoundWords - в
+29.03.2021 01:26:57.668 [main] INFO  FoundWords - выборе
+29.03.2021 01:26:57.668 [main] INFO  FoundWords - Если
+29.03.2021 01:26:57.668 [main] INFO  FoundWords - у
+29.03.2021 01:26:57.668 [main] INFO  FoundWords - вас
+29.03.2021 01:26:57.668 [main] INFO  FoundWords - есть
+29.03.2021 01:26:57.668 [main] INFO  FoundWords - вопросы
+29.03.2021 01:26:57.668 [main] INFO  FoundWords - о
+29.03.2021 01:26:57.668 [main] INFO  FoundWords - формате
+29.03.2021 01:26:57.668 [main] INFO  FoundWords - или
+29.03.2021 01:26:57.668 [main] INFO  FoundWords - вы
+29.03.2021 01:26:57.668 [main] INFO  FoundWords - не
+29.03.2021 01:26:57.668 [main] INFO  FoundWords - знаете
+29.03.2021 01:26:57.668 [main] INFO  FoundWords - что
+29.03.2021 01:26:57.668 [main] INFO  FoundWords - выбрать
+29.03.2021 01:26:57.668 [main] INFO  FoundWords - оставьте
+29.03.2021 01:26:57.684 [main] INFO  FoundWords - свой
+29.03.2021 01:26:57.684 [main] INFO  FoundWords - номер
+29.03.2021 01:26:57.684 [main] INFO  FoundWords - мы
+29.03.2021 01:26:57.684 [main] INFO  FoundWords - позвоним
+29.03.2021 01:26:57.684 [main] INFO  FoundWords - чтобы
+29.03.2021 01:26:57.684 [main] INFO  FoundWords - ответить
+29.03.2021 01:26:57.684 [main] INFO  FoundWords - на
+29.03.2021 01:26:57.684 [main] INFO  FoundWords - все
+29.03.2021 01:26:57.684 [main] INFO  FoundWords - ваши
+29.03.2021 01:26:57.684 [main] INFO  FoundWords - вопросы
+29.03.2021 01:26:57.684 [main] INFO  FoundWords - Имя
+29.03.2021 01:26:57.684 [main] INFO  FoundWords - Телефон
+29.03.2021 01:26:57.684 [main] INFO  FoundWords - Электронная
+29.03.2021 01:26:57.684 [main] INFO  FoundWords - почта
+29.03.2021 01:26:57.684 [main] INFO  FoundWords - Отправить
+29.03.2021 01:26:57.684 [main] INFO  FoundWords - Нажимая
+29.03.2021 01:26:57.684 [main] INFO  FoundWords - на
+29.03.2021 01:26:57.684 [main] INFO  FoundWords - кнопку
+29.03.2021 01:26:57.684 [main] INFO  FoundWords - я
+29.03.2021 01:26:57.684 [main] INFO  FoundWords - соглашаюсь
+29.03.2021 01:26:57.684 [main] INFO  FoundWords - на
+29.03.2021 01:26:57.684 [main] INFO  FoundWords - обработку
+29.03.2021 01:26:57.684 [main] INFO  FoundWords - персональных
+29.03.2021 01:26:57.684 [main] INFO  FoundWords - данных
+29.03.2021 01:26:57.684 [main] INFO  FoundWords - +7
+29.03.2021 01:26:57.684 [main] INFO  FoundWords - 495
+29.03.2021 01:26:57.684 [main] INFO  FoundWords - 120-40-96
+29.03.2021 01:26:57.684 [main] INFO  FoundWords - Москва
+29.03.2021 01:26:57.684 [main] INFO  FoundWords - Ленинский
+29.03.2021 01:26:57.684 [main] INFO  FoundWords - проспект
+29.03.2021 01:26:57.684 [main] INFO  FoundWords - дом
+29.03.2021 01:26:57.684 [main] INFO  FoundWords - 6
+29.03.2021 01:26:57.684 [main] INFO  FoundWords - строение
+29.03.2021 01:26:57.684 [main] INFO  FoundWords - 20
+29.03.2021 01:26:57.684 [main] INFO  FoundWords - Курсы
+29.03.2021 01:26:57.684 [main] INFO  FoundWords - Программирование
+29.03.2021 01:26:57.684 [main] INFO  FoundWords - Дизайн
+29.03.2021 01:26:57.684 [main] INFO  FoundWords - Маркетинг
+29.03.2021 01:26:57.684 [main] INFO  FoundWords - Управление
+29.03.2021 01:26:57.684 [main] INFO  FoundWords - Игры
+29.03.2021 01:26:57.684 [main] INFO  FoundWords - Мультимедиа
+29.03.2021 01:26:57.684 [main] INFO  FoundWords - Для
+29.03.2021 01:26:57.684 [main] INFO  FoundWords - бизнеса
+29.03.2021 01:26:57.684 [main] INFO  FoundWords - О
+29.03.2021 01:26:57.684 [main] INFO  FoundWords - Skillbox
+29.03.2021 01:26:57.684 [main] INFO  FoundWords - Об
+29.03.2021 01:26:57.684 [main] INFO  FoundWords - университете
+29.03.2021 01:26:57.684 [main] INFO  FoundWords - Центр
+29.03.2021 01:26:57.684 [main] INFO  FoundWords - карьеры
+29.03.2021 01:26:57.684 [main] INFO  FoundWords - Отзывы
+29.03.2021 01:26:57.684 [main] INFO  FoundWords - Контакты
+29.03.2021 01:26:57.684 [main] INFO  FoundWords - Вакансии
+29.03.2021 01:26:57.684 [main] INFO  FoundWords - Школа
+29.03.2021 01:26:57.684 [main] INFO  FoundWords - преподавателей
+29.03.2021 01:26:57.684 [main] INFO  FoundWords - Вебинары
+29.03.2021 01:26:57.684 [main] INFO  FoundWords - Все
+29.03.2021 01:26:57.684 [main] INFO  FoundWords - вебинары
+29.03.2021 01:26:57.684 [main] INFO  FoundWords - Плейлисты
+29.03.2021 01:26:57.684 [main] INFO  FoundWords - Расписание
+29.03.2021 01:26:57.684 [main] INFO  FoundWords - Журнал
+29.03.2021 01:26:57.684 [main] INFO  FoundWords - Партнерская
+29.03.2021 01:26:57.684 [main] INFO  FoundWords - программа
+29.03.2021 01:26:57.684 [main] INFO  FoundWords - Лицензия
+29.03.2021 01:26:57.684 [main] INFO  FoundWords - Корпоративным
+29.03.2021 01:26:57.684 [main] INFO  FoundWords - клиентам
+29.03.2021 01:26:57.684 [main] INFO  FoundWords - Для
+29.03.2021 01:26:57.684 [main] INFO  FoundWords - работодателей
+29.03.2021 01:26:57.684 [main] INFO  FoundWords - Участник
+29.03.2021 01:26:57.684 [main] INFO  FoundWords - Skolkovo
+29.03.2021 01:26:57.684 [main] INFO  FoundWords - Премии
+29.03.2021 01:26:57.684 [main] INFO  FoundWords - Рунета
+29.03.2021 01:26:57.684 [main] INFO  FoundWords - 2018
+29.03.2021 01:26:57.684 [main] INFO  FoundWords - 2019
+29.03.2021 01:26:57.684 [main] INFO  FoundWords - 2020
+29.03.2021 01:26:57.684 [main] INFO  FoundWords - Договор
+29.03.2021 01:26:57.684 [main] INFO  FoundWords - оферты
+29.03.2021 01:26:57.684 [main] INFO  FoundWords - Оплата
+29.03.2021 01:26:57.684 [main] INFO  FoundWords - Политика
+29.03.2021 01:26:57.684 [main] INFO  FoundWords - конфиденциальности
+29.03.2021 01:26:57.684 [main] INFO  FoundWords - ©
+29.03.2021 01:26:57.684 [main] INFO  FoundWords - Skillbox
+29.03.2021 01:26:57.684 [main] INFO  FoundWords - 2021
+29.03.2021 01:26:57.800 [main] INFO  FoundWords - Unique words usage statistics for page skillbox.ru:
+29.03.2021 01:26:57.800 [main] INFO  FoundWords - d-дженералист - 1
+29.03.2021 01:26:57.800 [main] INFO  FoundWords - data - 1
+29.03.2021 01:26:57.800 [main] INFO  FoundWords - devops - 1
+29.03.2021 01:26:57.800 [main] INFO  FoundWords - python-разработчик - 1
+29.03.2021 01:26:57.800 [main] INFO  FoundWords - scientist - 1
+29.03.2021 01:26:57.800 [main] INFO  FoundWords - skillbox - 5
+29.03.2021 01:26:57.800 [main] INFO  FoundWords - skolkovo - 1
+29.03.2021 01:26:57.800 [main] INFO  FoundWords - smm-специалист - 1
+29.03.2021 01:26:57.800 [main] INFO  FoundWords - администрирование - 1
+29.03.2021 01:26:57.800 [main] INFO  FoundWords - бакалавриата - 1
+29.03.2021 01:26:57.800 [main] INFO  FoundWords - бессрочно - 1
+29.03.2021 01:26:57.800 [main] INFO  FoundWords - бизнес-аналитик - 1
+29.03.2021 01:26:57.800 [main] INFO  FoundWords - бизнес-задач - 1
+29.03.2021 01:26:57.800 [main] INFO  FoundWords - бизнеса - 2
+29.03.2021 01:26:57.800 [main] INFO  FoundWords - большие - 1
+29.03.2021 01:26:57.800 [main] INFO  FoundWords - будет - 1
+29.03.2021 01:26:57.800 [main] INFO  FoundWords - в - 8
+29.03.2021 01:26:57.800 [main] INFO  FoundWords - вакансии - 1
+29.03.2021 01:26:57.800 [main] INFO  FoundWords - вакансиях - 1
+29.03.2021 01:26:57.800 [main] INFO  FoundWords - вам - 1
+29.03.2021 01:26:57.800 [main] INFO  FoundWords - вас - 1
+29.03.2021 01:26:57.800 [main] INFO  FoundWords - ваши - 1
+29.03.2021 01:26:57.800 [main] INFO  FoundWords - вебинары - 3
+29.03.2021 01:26:57.800 [main] INFO  FoundWords - ведущими - 1
+29.03.2021 01:26:57.800 [main] INFO  FoundWords - ведущих - 1
+29.03.2021 01:26:57.815 [main] INFO  FoundWords - видеолекции - 1
+29.03.2021 01:26:57.815 [main] INFO  FoundWords - видеопроизводства - 1
+29.03.2021 01:26:57.815 [main] INFO  FoundWords - видеоуроки - 1
+29.03.2021 01:26:57.815 [main] INFO  FoundWords - во - 1
+29.03.2021 01:26:57.815 [main] INFO  FoundWords - войти - 1
+29.03.2021 01:26:57.815 [main] INFO  FoundWords - вопросы - 2
+29.03.2021 01:26:57.815 [main] INFO  FoundWords - востребованных - 1
+29.03.2021 01:26:57.815 [main] INFO  FoundWords - время - 2
+29.03.2021 01:26:57.815 [main] INFO  FoundWords - все - 3
+29.03.2021 01:26:57.815 [main] INFO  FoundWords - вузами - 1
+29.03.2021 01:26:57.815 [main] INFO  FoundWords - вы - 1
+29.03.2021 01:26:57.815 [main] INFO  FoundWords - выборе - 1
+29.03.2021 01:26:57.815 [main] INFO  FoundWords - выбрать - 1
+29.03.2021 01:26:57.815 [main] INFO  FoundWords - высшее - 1
+29.03.2021 01:26:57.815 [main] INFO  FoundWords - государственного - 1
+29.03.2021 01:26:57.815 [main] INFO  FoundWords - графический - 1
+29.03.2021 01:26:57.815 [main] INFO  FoundWords - данных - 1
+29.03.2021 01:26:57.815 [main] INFO  FoundWords - дизайн - 2
+29.03.2021 01:26:57.815 [main] INFO  FoundWords - дизайнер - 1
+29.03.2021 01:26:57.815 [main] INFO  FoundWords - диплом - 2
+29.03.2021 01:26:57.815 [main] INFO  FoundWords - для - 6
+29.03.2021 01:26:57.815 [main] INFO  FoundWords - договор - 1
+29.03.2021 01:26:57.815 [main] INFO  FoundWords - дом - 1
+29.03.2021 01:26:57.815 [main] INFO  FoundWords - доступ - 1
+29.03.2021 01:26:57.815 [main] INFO  FoundWords - другими - 1
+29.03.2021 01:26:57.815 [main] INFO  FoundWords - если - 1
+29.03.2021 01:26:57.815 [main] INFO  FoundWords - есть - 1
+29.03.2021 01:26:57.815 [main] INFO  FoundWords - еще - 2
+29.03.2021 01:26:57.815 [main] INFO  FoundWords - живое - 1
+29.03.2021 01:26:57.815 [main] INFO  FoundWords - журнал - 2
+29.03.2021 01:26:57.815 [main] INFO  FoundWords - за - 1
+29.03.2021 01:26:57.815 [main] INFO  FoundWords - заданий - 1
+29.03.2021 01:26:57.815 [main] INFO  FoundWords - заданию - 1
+29.03.2021 01:26:57.815 [main] INFO  FoundWords - задания - 1
+29.03.2021 01:26:57.815 [main] INFO  FoundWords - заказчиков - 1
+29.03.2021 01:26:57.815 [main] INFO  FoundWords - закрепляется - 1
+29.03.2021 01:26:57.815 [main] INFO  FoundWords - знаем - 1
+29.03.2021 01:26:57.815 [main] INFO  FoundWords - знаете - 1
+29.03.2021 01:26:57.815 [main] INFO  FoundWords - значительно - 1
+29.03.2021 01:26:57.815 [main] INFO  FoundWords - и - 5
+29.03.2021 01:26:57.815 [main] INFO  FoundWords - игры - 2
+29.03.2021 01:26:57.815 [main] INFO  FoundWords - из - 1
+29.03.2021 01:26:57.815 [main] INFO  FoundWords - изучить - 1
+29.03.2021 01:26:57.815 [main] INFO  FoundWords - или - 1
+29.03.2021 01:26:57.815 [main] INFO  FoundWords - имя - 1
+29.03.2021 01:26:57.815 [main] INFO  FoundWords - интернет-маркетолог - 2
+29.03.2021 01:26:57.815 [main] INFO  FoundWords - итоговая - 1
+29.03.2021 01:26:57.815 [main] INFO  FoundWords - к - 3
+29.03.2021 01:26:57.815 [main] INFO  FoundWords - карьеры - 1
+29.03.2021 01:26:57.815 [main] INFO  FoundWords - клиентам - 1
+29.03.2021 01:26:57.815 [main] INFO  FoundWords - кнопку - 1
+29.03.2021 01:26:57.815 [main] INFO  FoundWords - компаниях - 1
+29.03.2021 01:26:57.815 [main] INFO  FoundWords - конкретный - 1
+29.03.2021 01:26:57.815 [main] INFO  FoundWords - консультации - 1
+29.03.2021 01:26:57.815 [main] INFO  FoundWords - контакты - 1
+29.03.2021 01:26:57.815 [main] INFO  FoundWords - конфиденциальности - 1
+29.03.2021 01:26:57.815 [main] INFO  FoundWords - короткие - 1
+29.03.2021 01:26:57.815 [main] INFO  FoundWords - корпоративным - 1
+29.03.2021 01:26:57.815 [main] INFO  FoundWords - которое - 1
+29.03.2021 01:26:57.815 [main] INFO  FoundWords - кройка - 1
+29.03.2021 01:26:57.815 [main] INFO  FoundWords - курс - 6
+29.03.2021 01:26:57.815 [main] INFO  FoundWords - курсов - 1
+29.03.2021 01:26:57.815 [main] INFO  FoundWords - курсы - 3
+29.03.2021 01:26:57.815 [main] INFO  FoundWords - ленинский - 1
+29.03.2021 01:26:57.815 [main] INFO  FoundWords - лидеров - 1
+29.03.2021 01:26:57.815 [main] INFO  FoundWords - лицензия - 1
+29.03.2021 01:26:57.815 [main] INFO  FoundWords - лучших - 1
+29.03.2021 01:26:57.815 [main] INFO  FoundWords - любое - 1
+29.03.2021 01:26:57.815 [main] INFO  FoundWords - магистратуры - 1
+29.03.2021 01:26:57.815 [main] INFO  FoundWords - маркетинг - 2
+29.03.2021 01:26:57.815 [main] INFO  FoundWords - материал - 1
+29.03.2021 01:26:57.815 [main] INFO  FoundWords - материалам - 1
+29.03.2021 01:26:57.815 [main] INFO  FoundWords - мессенджерах - 1
+29.03.2021 01:26:57.815 [main] INFO  FoundWords - месяца - 5
+29.03.2021 01:26:57.815 [main] INFO  FoundWords - месяцев - 7
+29.03.2021 01:26:57.815 [main] INFO  FoundWords - методист - 1
+29.03.2021 01:26:57.815 [main] INFO  FoundWords - можно - 1
+29.03.2021 01:26:57.815 [main] INFO  FoundWords - москва - 1
+29.03.2021 01:26:57.815 [main] INFO  FoundWords - мультимедиа - 2
+29.03.2021 01:26:57.815 [main] INFO  FoundWords - мы - 3
+29.03.2021 01:26:57.815 [main] INFO  FoundWords - на - 3
+29.03.2021 01:26:57.815 [main] INFO  FoundWords - навык - 1
+29.03.2021 01:26:57.815 [main] INFO  FoundWords - навыки - 1
+29.03.2021 01:26:57.815 [main] INFO  FoundWords - нажимая - 1
+29.03.2021 01:26:57.815 [main] INFO  FoundWords - найти - 2
+29.03.2021 01:26:57.815 [main] INFO  FoundWords - направления - 1
+29.03.2021 01:26:57.815 [main] INFO  FoundWords - нас - 1
+29.03.2021 01:26:57.815 [main] INFO  FoundWords - начинающих - 1
+29.03.2021 01:26:57.815 [main] INFO  FoundWords - наши - 2
+29.03.2021 01:26:57.815 [main] INFO  FoundWords - наших - 1
+29.03.2021 01:26:57.815 [main] INFO  FoundWords - не - 1
+29.03.2021 01:26:57.815 [main] INFO  FoundWords - новую - 1
+29.03.2021 01:26:57.815 [main] INFO  FoundWords - новый - 1
+29.03.2021 01:26:57.815 [main] INFO  FoundWords - номер - 1
+29.03.2021 01:26:57.815 [main] INFO  FoundWords - нуля - 3
+29.03.2021 01:26:57.815 [main] INFO  FoundWords - о - 4
+29.03.2021 01:26:57.815 [main] INFO  FoundWords - об - 2
+29.03.2021 01:26:57.815 [main] INFO  FoundWords - обмена - 1
+29.03.2021 01:26:57.815 [main] INFO  FoundWords - обработку - 1
+29.03.2021 01:26:57.815 [main] INFO  FoundWords - образование - 1
+29.03.2021 01:26:57.815 [main] INFO  FoundWords - образованию - 1
+29.03.2021 01:26:57.815 [main] INFO  FoundWords - образовательные - 1
+29.03.2021 01:26:57.815 [main] INFO  FoundWords - образовательных - 1
+29.03.2021 01:26:57.815 [main] INFO  FoundWords - образца - 1
+29.03.2021 01:26:57.815 [main] INFO  FoundWords - обсуждения - 1
+29.03.2021 01:26:57.815 [main] INFO  FoundWords - обучении - 1
+29.03.2021 01:26:57.815 [main] INFO  FoundWords - обучения - 2
+29.03.2021 01:26:57.815 [main] INFO  FoundWords - общение - 1
+29.03.2021 01:26:57.815 [main] INFO  FoundWords - один - 2
+29.03.2021 01:26:57.815 [main] INFO  FoundWords - онлайн-образования - 1
+29.03.2021 01:26:57.815 [main] INFO  FoundWords - онлайн-университет - 2
+29.03.2021 01:26:57.815 [main] INFO  FoundWords - оплата - 1
+29.03.2021 01:26:57.815 [main] INFO  FoundWords - опыт - 1
+29.03.2021 01:26:57.815 [main] INFO  FoundWords - опытом - 1
+29.03.2021 01:26:57.815 [main] INFO  FoundWords - освоить - 1
+29.03.2021 01:26:57.815 [main] INFO  FoundWords - основы - 1
+29.03.2021 01:26:57.831 [main] INFO  FoundWords - оставьте - 1
+29.03.2021 01:26:57.831 [main] INFO  FoundWords - от - 1
+29.03.2021 01:26:57.831 [main] INFO  FoundWords - ответить - 1
+29.03.2021 01:26:57.831 [main] INFO  FoundWords - отзывы - 1
+29.03.2021 01:26:57.831 [main] INFO  FoundWords - отправить - 1
+29.03.2021 01:26:57.831 [main] INFO  FoundWords - отрасли - 1
+29.03.2021 01:26:57.831 [main] INFO  FoundWords - оферты - 1
+29.03.2021 01:26:57.831 [main] INFO  FoundWords - партнерская - 1
+29.03.2021 01:26:57.831 [main] INFO  FoundWords - перейти - 1
+29.03.2021 01:26:57.831 [main] INFO  FoundWords - персональных - 1
+29.03.2021 01:26:57.831 [main] INFO  FoundWords - плейлисты - 1
+29.03.2021 01:26:57.831 [main] INFO  FoundWords - по - 1
+29.03.2021 01:26:57.831 [main] INFO  FoundWords - подробнее - 1
+29.03.2021 01:26:57.831 [main] INFO  FoundWords - подход - 1
+29.03.2021 01:26:57.831 [main] INFO  FoundWords - позволяет - 2
+29.03.2021 01:26:57.831 [main] INFO  FoundWords - позвоним - 1
+29.03.2021 01:26:57.831 [main] INFO  FoundWords - показать - 2
+29.03.2021 01:26:57.831 [main] INFO  FoundWords - политика - 1
+29.03.2021 01:26:57.831 [main] INFO  FoundWords - полученный - 1
+29.03.2021 01:26:57.831 [main] INFO  FoundWords - поможем - 2
+29.03.2021 01:26:57.831 [main] INFO  FoundWords - помощью - 1
+29.03.2021 01:26:57.831 [main] INFO  FoundWords - почта - 1
+29.03.2021 01:26:57.831 [main] INFO  FoundWords - практика - 1
+29.03.2021 01:26:57.831 [main] INFO  FoundWords - практического - 1
+29.03.2021 01:26:57.831 [main] INFO  FoundWords - предоставляется - 1
+29.03.2021 01:26:57.831 [main] INFO  FoundWords - премии - 1
+29.03.2021 01:26:57.831 [main] INFO  FoundWords - преподавателей - 1
+29.03.2021 01:26:57.831 [main] INFO  FoundWords - преподавателями - 1
+29.03.2021 01:26:57.831 [main] INFO  FoundWords - применить - 1
+29.03.2021 01:26:57.831 [main] INFO  FoundWords - проверено - 1
+29.03.2021 01:26:57.831 [main] INFO  FoundWords - программ - 1
+29.03.2021 01:26:57.831 [main] INFO  FoundWords - программа - 1
+29.03.2021 01:26:57.831 [main] INFO  FoundWords - программам - 1
+29.03.2021 01:26:57.831 [main] INFO  FoundWords - программирование - 2
+29.03.2021 01:26:57.831 [main] INFO  FoundWords - программы - 3
+29.03.2021 01:26:57.831 [main] INFO  FoundWords - проспект - 1
+29.03.2021 01:26:57.831 [main] INFO  FoundWords - профессии - 2
+29.03.2021 01:26:57.831 [main] INFO  FoundWords - профессий - 1
+29.03.2021 01:26:57.831 [main] INFO  FoundWords - профессия - 6
+29.03.2021 01:26:57.831 [main] INFO  FoundWords - проще - 1
+29.03.2021 01:26:57.831 [main] INFO  FoundWords - работа - 1
+29.03.2021 01:26:57.831 [main] INFO  FoundWords - работают - 1
+29.03.2021 01:26:57.831 [main] INFO  FoundWords - работодателей - 1
+29.03.2021 01:26:57.831 [main] INFO  FoundWords - работу - 2
+29.03.2021 01:26:57.831 [main] INFO  FoundWords - расписание - 1
+29.03.2021 01:26:57.831 [main] INFO  FoundWords - реальных - 1
+29.03.2021 01:26:57.831 [main] INFO  FoundWords - рекомендуем - 1
+29.03.2021 01:26:57.831 [main] INFO  FoundWords - решения - 1
+29.03.2021 01:26:57.831 [main] INFO  FoundWords - россии - 1
+29.03.2021 01:26:57.831 [main] INFO  FoundWords - российского - 1
+29.03.2021 01:26:57.831 [main] INFO  FoundWords - рунета - 1
+29.03.2021 01:26:57.831 [main] INFO  FoundWords - рынка - 1
+29.03.2021 01:26:57.831 [main] INFO  FoundWords - с - 7
+29.03.2021 01:26:57.831 [main] INFO  FoundWords - самого - 1
+29.03.2021 01:26:57.831 [main] INFO  FoundWords - свои - 1
+29.03.2021 01:26:57.831 [main] INFO  FoundWords - свой - 1
+29.03.2021 01:26:57.831 [main] INFO  FoundWords - системное - 1
+29.03.2021 01:26:57.831 [main] INFO  FoundWords - системный - 1
+29.03.2021 01:26:57.831 [main] INFO  FoundWords - смотреть - 1
+29.03.2021 01:26:57.831 [main] INFO  FoundWords - совместно - 1
+29.03.2021 01:26:57.831 [main] INFO  FoundWords - соглашаюсь - 1
+29.03.2021 01:26:57.831 [main] INFO  FoundWords - специальность - 1
+29.03.2021 01:26:57.831 [main] INFO  FoundWords - старт - 1
+29.03.2021 01:26:57.831 [main] INFO  FoundWords - строение - 1
+29.03.2021 01:26:57.831 [main] INFO  FoundWords - студентами - 1
+29.03.2021 01:26:57.831 [main] INFO  FoundWords - студентов - 1
+29.03.2021 01:26:57.831 [main] INFO  FoundWords - студенты - 1
+29.03.2021 01:26:57.831 [main] INFO  FoundWords - существующих - 1
+29.03.2021 01:26:57.831 [main] INFO  FoundWords - телефон - 1
+29.03.2021 01:26:57.831 [main] INFO  FoundWords - трудоустройство - 1
+29.03.2021 01:26:57.831 [main] INFO  FoundWords - трудоустройством - 1
+29.03.2021 01:26:57.831 [main] INFO  FoundWords - у - 2
+29.03.2021 01:26:57.831 [main] INFO  FoundWords - университете - 1
+29.03.2021 01:26:57.831 [main] INFO  FoundWords - управление - 2
+29.03.2021 01:26:57.831 [main] INFO  FoundWords - участник - 1
+29.03.2021 01:26:57.831 [main] INFO  FoundWords - учебным - 1
+29.03.2021 01:26:57.831 [main] INFO  FoundWords - формате - 1
+29.03.2021 01:26:57.831 [main] INFO  FoundWords - ходе - 1
+29.03.2021 01:26:57.831 [main] INFO  FoundWords - центр - 1
+29.03.2021 01:26:57.831 [main] INFO  FoundWords - часов - 1
+29.03.2021 01:26:57.831 [main] INFO  FoundWords - что - 1
+29.03.2021 01:26:57.831 [main] INFO  FoundWords - чтобы - 3
+29.03.2021 01:26:57.831 [main] INFO  FoundWords - шить - 1
+29.03.2021 01:26:57.831 [main] INFO  FoundWords - школа - 1
+29.03.2021 01:26:57.831 [main] INFO  FoundWords - электронная - 1
+29.03.2021 01:26:57.831 [main] INFO  FoundWords - я - 1
+29.03.2021 01:27:19.690 [main] INFO  FoundWords - Actual words found on the page simbirsoft.com:
+29.03.2021 01:27:19.690 [main] INFO  FoundWords - Разработка
+29.03.2021 01:27:19.690 [main] INFO  FoundWords - программного
+29.03.2021 01:27:19.690 [main] INFO  FoundWords - обеспечения
+29.03.2021 01:27:19.690 [main] INFO  FoundWords - на
+29.03.2021 01:27:19.690 [main] INFO  FoundWords - заказ
+29.03.2021 01:27:19.690 [main] INFO  FoundWords - -
+29.03.2021 01:27:19.690 [main] INFO  FoundWords - SimbirSoft
+29.03.2021 01:27:19.690 [main] INFO  FoundWords - С
+29.03.2021 01:27:19.690 [main] INFO  FoundWords - 2001
+29.03.2021 01:27:19.690 [main] INFO  FoundWords - года
+29.03.2021 01:27:19.690 [main] INFO  FoundWords - IT
+29.03.2021 01:27:19.690 [main] INFO  FoundWords - company
+29.03.2021 01:27:19.690 [main] INFO  FoundWords - that
+29.03.2021 01:27:19.690 [main] INFO  FoundWords - cares
+29.03.2021 01:27:19.690 [main] INFO  FoundWords - Решения
+29.03.2021 01:27:19.690 [main] INFO  FoundWords - Для
+29.03.2021 01:27:19.690 [main] INFO  FoundWords - банков
+29.03.2021 01:27:19.690 [main] INFO  FoundWords - Для
+29.03.2021 01:27:19.690 [main] INFO  FoundWords - страховых
+29.03.2021 01:27:19.690 [main] INFO  FoundWords - Оценка
+29.03.2021 01:27:19.690 [main] INFO  FoundWords - IT-проектов
+29.03.2021 01:27:19.690 [main] INFO  FoundWords - Data
+29.03.2021 01:27:19.690 [main] INFO  FoundWords - Science
+29.03.2021 01:27:19.690 [main] INFO  FoundWords - Автоматизация
+29.03.2021 01:27:19.690 [main] INFO  FoundWords - бизнеса
+29.03.2021 01:27:19.690 [main] INFO  FoundWords - ShopChat
+29.03.2021 01:27:19.690 [main] INFO  FoundWords - Food
+29.03.2021 01:27:19.690 [main] INFO  FoundWords - Tech
+29.03.2021 01:27:19.690 [main] INFO  FoundWords - Для
+29.03.2021 01:27:19.690 [main] INFO  FoundWords - медицинской
+29.03.2021 01:27:19.690 [main] INFO  FoundWords - сферы
+29.03.2021 01:27:19.690 [main] INFO  FoundWords - Для
+29.03.2021 01:27:19.690 [main] INFO  FoundWords - промышленности
+29.03.2021 01:27:19.706 [main] INFO  FoundWords - Услуги
+29.03.2021 01:27:19.706 [main] INFO  FoundWords - IT-продукт
+29.03.2021 01:27:19.706 [main] INFO  FoundWords - под
+29.03.2021 01:27:19.706 [main] INFO  FoundWords - ключ
+29.03.2021 01:27:19.706 [main] INFO  FoundWords - Аутсорсинг
+29.03.2021 01:27:19.706 [main] INFO  FoundWords - Модернизация
+29.03.2021 01:27:19.706 [main] INFO  FoundWords - ПО
+29.03.2021 01:27:19.706 [main] INFO  FoundWords - «Спасти»
+29.03.2021 01:27:19.706 [main] INFO  FoundWords - продукт
+29.03.2021 01:27:19.706 [main] INFO  FoundWords - Обеспечение
+29.03.2021 01:27:19.706 [main] INFO  FoundWords - качества
+29.03.2021 01:27:19.706 [main] INFO  FoundWords - Техподдержка
+29.03.2021 01:27:19.706 [main] INFO  FoundWords - production
+29.03.2021 01:27:19.706 [main] INFO  FoundWords - и
+29.03.2021 01:27:19.706 [main] INFO  FoundWords - разработки
+29.03.2021 01:27:19.706 [main] INFO  FoundWords - Jira
+29.03.2021 01:27:19.706 [main] INFO  FoundWords - Service
+29.03.2021 01:27:19.706 [main] INFO  FoundWords - IT-архитектура
+29.03.2021 01:27:19.706 [main] INFO  FoundWords - Внедрение
+29.03.2021 01:27:19.706 [main] INFO  FoundWords - Битрикс24
+29.03.2021 01:27:19.706 [main] INFO  FoundWords - Портфолио
+29.03.2021 01:27:19.706 [main] INFO  FoundWords - Технологии
+29.03.2021 01:27:19.706 [main] INFO  FoundWords - Отрасли
+29.03.2021 01:27:19.706 [main] INFO  FoundWords - О
+29.03.2021 01:27:19.706 [main] INFO  FoundWords - нас
+29.03.2021 01:27:19.706 [main] INFO  FoundWords - О
+29.03.2021 01:27:19.706 [main] INFO  FoundWords - компании
+29.03.2021 01:27:19.706 [main] INFO  FoundWords - Награды
+29.03.2021 01:27:19.706 [main] INFO  FoundWords - Клиенты
+29.03.2021 01:27:19.706 [main] INFO  FoundWords - и
+29.03.2021 01:27:19.706 [main] INFO  FoundWords - отзывы
+29.03.2021 01:27:19.706 [main] INFO  FoundWords - Наши
+29.03.2021 01:27:19.706 [main] INFO  FoundWords - процессы
+29.03.2021 01:27:19.712 [main] INFO  FoundWords - Новости
+29.03.2021 01:27:19.712 [main] INFO  FoundWords - Менеджмент
+29.03.2021 01:27:19.712 [main] INFO  FoundWords - Контакты
+29.03.2021 01:27:19.712 [main] INFO  FoundWords - Социальная
+29.03.2021 01:27:19.712 [main] INFO  FoundWords - ответственность
+29.03.2021 01:27:19.712 [main] INFO  FoundWords - Карьера
+29.03.2021 01:27:19.712 [main] INFO  FoundWords - Работа
+29.03.2021 01:27:19.712 [main] INFO  FoundWords - Вакансии
+29.03.2021 01:27:19.712 [main] INFO  FoundWords - Начало
+29.03.2021 01:27:19.712 [main] INFO  FoundWords - карьеры
+29.03.2021 01:27:19.712 [main] INFO  FoundWords - Блог
+29.03.2021 01:27:19.714 [main] INFO  FoundWords - Напишите
+29.03.2021 01:27:19.714 [main] INFO  FoundWords - нам
+29.03.2021 01:27:19.714 [main] INFO  FoundWords - Напишите
+29.03.2021 01:27:19.714 [main] INFO  FoundWords - нам
+29.03.2021 01:27:19.714 [main] INFO  FoundWords - 8-800-200-9924
+29.03.2021 01:27:19.714 [main] INFO  FoundWords - Ок
+29.03.2021 01:27:19.714 [main] INFO  FoundWords - Наш
+29.03.2021 01:27:19.714 [main] INFO  FoundWords - сайт
+29.03.2021 01:27:19.714 [main] INFO  FoundWords - использует
+29.03.2021 01:27:19.714 [main] INFO  FoundWords - файлы
+29.03.2021 01:27:19.714 [main] INFO  FoundWords - cookie
+29.03.2021 01:27:19.714 [main] INFO  FoundWords - Оставаясь
+29.03.2021 01:27:19.714 [main] INFO  FoundWords - на
+29.03.2021 01:27:19.714 [main] INFO  FoundWords - www
+29.03.2021 01:27:19.714 [main] INFO  FoundWords - simbirsoft
+29.03.2021 01:27:19.714 [main] INFO  FoundWords - com
+29.03.2021 01:27:19.714 [main] INFO  FoundWords - вы
+29.03.2021 01:27:19.714 [main] INFO  FoundWords - подтверждаете
+29.03.2021 01:27:19.714 [main] INFO  FoundWords - свое
+29.03.2021 01:27:19.714 [main] INFO  FoundWords - согласие
+29.03.2021 01:27:19.714 [main] INFO  FoundWords - на
+29.03.2021 01:27:19.714 [main] INFO  FoundWords - использование
+29.03.2021 01:27:19.714 [main] INFO  FoundWords - данных
+29.03.2021 01:27:19.714 [main] INFO  FoundWords - файлов
+29.03.2021 01:27:19.714 [main] INFO  FoundWords - Разработка
+29.03.2021 01:27:19.714 [main] INFO  FoundWords - программного
+29.03.2021 01:27:19.714 [main] INFO  FoundWords - обеспечения
+29.03.2021 01:27:19.714 [main] INFO  FoundWords - для
+29.03.2021 01:27:19.714 [main] INFO  FoundWords - роста
+29.03.2021 01:27:19.714 [main] INFO  FoundWords - Вашего
+29.03.2021 01:27:19.714 [main] INFO  FoundWords - бизнеса
+29.03.2021 01:27:19.714 [main] INFO  FoundWords - Напишите
+29.03.2021 01:27:19.714 [main] INFO  FoundWords - нам
+29.03.2021 01:27:19.714 [main] INFO  FoundWords - 8-800-200-9924
+29.03.2021 01:27:19.714 [main] INFO  FoundWords - Лидеры
+29.03.2021 01:27:19.714 [main] INFO  FoundWords - в
+29.03.2021 01:27:19.714 [main] INFO  FoundWords - разработке
+29.03.2021 01:27:19.714 [main] INFO  FoundWords - современных
+29.03.2021 01:27:19.714 [main] INFO  FoundWords - IT-решений
+29.03.2021 01:27:19.714 [main] INFO  FoundWords - на
+29.03.2021 01:27:19.714 [main] INFO  FoundWords - заказ
+29.03.2021 01:27:19.714 [main] INFO  FoundWords - SimbirSoft
+29.03.2021 01:27:19.714 [main] INFO  FoundWords - компания
+29.03.2021 01:27:19.714 [main] INFO  FoundWords - по
+29.03.2021 01:27:19.714 [main] INFO  FoundWords - разработке
+29.03.2021 01:27:19.722 [main] INFO  FoundWords - программного
+29.03.2021 01:27:19.722 [main] INFO  FoundWords - обеспечения
+29.03.2021 01:27:19.722 [main] INFO  FoundWords - С
+29.03.2021 01:27:19.722 [main] INFO  FoundWords - 2001
+29.03.2021 01:27:19.722 [main] INFO  FoundWords - года
+29.03.2021 01:27:19.722 [main] INFO  FoundWords - мы
+29.03.2021 01:27:19.722 [main] INFO  FoundWords - занимаемся
+29.03.2021 01:27:19.722 [main] INFO  FoundWords - профессиональной
+29.03.2021 01:27:19.722 [main] INFO  FoundWords - разработкой
+29.03.2021 01:27:19.722 [main] INFO  FoundWords - софта
+29.03.2021 01:27:19.722 [main] INFO  FoundWords - на
+29.03.2021 01:27:19.724 [main] INFO  FoundWords - заказ
+29.03.2021 01:27:19.724 [main] INFO  FoundWords - Наши
+29.03.2021 01:27:19.724 [main] INFO  FoundWords - специалисты
+29.03.2021 01:27:19.724 [main] INFO  FoundWords - оказывают
+29.03.2021 01:27:19.724 [main] INFO  FoundWords - услуги
+29.03.2021 01:27:19.724 [main] INFO  FoundWords - по
+29.03.2021 01:27:19.724 [main] INFO  FoundWords - созданию
+29.03.2021 01:27:19.724 [main] INFO  FoundWords - качественного
+29.03.2021 01:27:19.724 [main] INFO  FoundWords - продукта
+29.03.2021 01:27:19.724 [main] INFO  FoundWords - отвечающего
+29.03.2021 01:27:19.724 [main] INFO  FoundWords - всем
+29.03.2021 01:27:19.724 [main] INFO  FoundWords - требованиям
+29.03.2021 01:27:19.724 [main] INFO  FoundWords - бизнеса
+29.03.2021 01:27:19.724 [main] INFO  FoundWords - Чем
+29.03.2021 01:27:19.724 [main] INFO  FoundWords - мы
+29.03.2021 01:27:19.724 [main] INFO  FoundWords - можем
+29.03.2021 01:27:19.724 [main] INFO  FoundWords - помочь
+29.03.2021 01:27:19.724 [main] INFO  FoundWords - Разработать
+29.03.2021 01:27:19.724 [main] INFO  FoundWords - IT‑продукт
+29.03.2021 01:27:19.724 [main] INFO  FoundWords - «под
+29.03.2021 01:27:19.724 [main] INFO  FoundWords - ключ»
+29.03.2021 01:27:19.724 [main] INFO  FoundWords - Быстро
+29.03.2021 01:27:19.724 [main] INFO  FoundWords - разберёмся
+29.03.2021 01:27:19.724 [main] INFO  FoundWords - в
+29.03.2021 01:27:19.724 [main] INFO  FoundWords - вашей
+29.03.2021 01:27:19.724 [main] INFO  FoundWords - задаче
+29.03.2021 01:27:19.724 [main] INFO  FoundWords - и
+29.03.2021 01:27:19.724 [main] INFO  FoundWords - предоставим
+29.03.2021 01:27:19.724 [main] INFO  FoundWords - результат
+29.03.2021 01:27:19.724 [main] INFO  FoundWords - в
+29.03.2021 01:27:19.724 [main] INFO  FoundWords - минимальные
+29.03.2021 01:27:19.724 [main] INFO  FoundWords - сроки
+29.03.2021 01:27:19.724 [main] INFO  FoundWords - Организуем
+29.03.2021 01:27:19.724 [main] INFO  FoundWords - цикл
+29.03.2021 01:27:19.724 [main] INFO  FoundWords - разработки
+29.03.2021 01:27:19.724 [main] INFO  FoundWords - тестирования
+29.03.2021 01:27:19.724 [main] INFO  FoundWords - внедрения
+29.03.2021 01:27:19.724 [main] INFO  FoundWords - и
+29.03.2021 01:27:19.724 [main] INFO  FoundWords - сопровождения
+29.03.2021 01:27:19.724 [main] INFO  FoundWords - системы
+29.03.2021 01:27:19.724 [main] INFO  FoundWords - Обеспечить
+29.03.2021 01:27:19.724 [main] INFO  FoundWords - надежную
+29.03.2021 01:27:19.724 [main] INFO  FoundWords - работу
+29.03.2021 01:27:19.724 [main] INFO  FoundWords - ваших
+29.03.2021 01:27:19.724 [main] INFO  FoundWords - IT‑систем
+29.03.2021 01:27:19.724 [main] INFO  FoundWords - Выявим
+29.03.2021 01:27:19.724 [main] INFO  FoundWords - уязвимости
+29.03.2021 01:27:19.724 [main] INFO  FoundWords - проверим
+29.03.2021 01:27:19.724 [main] INFO  FoundWords - нагрузку
+29.03.2021 01:27:19.724 [main] INFO  FoundWords - и
+29.03.2021 01:27:19.724 [main] INFO  FoundWords - работоспособность
+29.03.2021 01:27:19.733 [main] INFO  FoundWords - протестируем
+29.03.2021 01:27:19.733 [main] INFO  FoundWords - юзабилити
+29.03.2021 01:27:19.733 [main] INFO  FoundWords - Ваш
+29.03.2021 01:27:19.733 [main] INFO  FoundWords - сайт
+29.03.2021 01:27:19.733 [main] INFO  FoundWords - приложение
+29.03.2021 01:27:19.733 [main] INFO  FoundWords - и
+29.03.2021 01:27:19.733 [main] INFO  FoundWords - другое
+29.03.2021 01:27:19.733 [main] INFO  FoundWords - ПО
+29.03.2021 01:27:19.733 [main] INFO  FoundWords - принесут
+29.03.2021 01:27:19.733 [main] INFO  FoundWords - максимальную
+29.03.2021 01:27:19.733 [main] INFO  FoundWords - выгоду
+29.03.2021 01:27:19.733 [main] INFO  FoundWords - Оказать
+29.03.2021 01:27:19.733 [main] INFO  FoundWords - услуги
+29.03.2021 01:27:19.735 [main] INFO  FoundWords - IT‑аутсорсинга
+29.03.2021 01:27:19.735 [main] INFO  FoundWords - Оперативно
+29.03.2021 01:27:19.735 [main] INFO  FoundWords - сформируем
+29.03.2021 01:27:19.735 [main] INFO  FoundWords - и
+29.03.2021 01:27:19.735 [main] INFO  FoundWords - подключим
+29.03.2021 01:27:19.735 [main] INFO  FoundWords - команды
+29.03.2021 01:27:19.735 [main] INFO  FoundWords - по
+29.03.2021 01:27:19.735 [main] INFO  FoundWords - аналитике
+29.03.2021 01:27:19.735 [main] INFO  FoundWords - тестированию
+29.03.2021 01:27:19.735 [main] INFO  FoundWords - дизайну
+29.03.2021 01:27:19.735 [main] INFO  FoundWords - и
+29.03.2021 01:27:19.735 [main] INFO  FoundWords - разработке
+29.03.2021 01:27:19.735 [main] INFO  FoundWords - Спроектируем
+29.03.2021 01:27:19.735 [main] INFO  FoundWords - архитектуру
+29.03.2021 01:27:19.735 [main] INFO  FoundWords - проведём
+29.03.2021 01:27:19.735 [main] INFO  FoundWords - интеграцию
+29.03.2021 01:27:19.735 [main] INFO  FoundWords - систем
+29.03.2021 01:27:19.735 [main] INFO  FoundWords - окажем
+29.03.2021 01:27:19.735 [main] INFO  FoundWords - техническую
+29.03.2021 01:27:19.735 [main] INFO  FoundWords - поддержку
+29.03.2021 01:27:19.735 [main] INFO  FoundWords - production
+29.03.2021 01:27:19.735 [main] INFO  FoundWords - «Спасти»
+29.03.2021 01:27:19.735 [main] INFO  FoundWords - продукт
+29.03.2021 01:27:19.735 [main] INFO  FoundWords - Восстановим
+29.03.2021 01:27:19.735 [main] INFO  FoundWords - систему
+29.03.2021 01:27:19.735 [main] INFO  FoundWords - после
+29.03.2021 01:27:19.735 [main] INFO  FoundWords - неудачной
+29.03.2021 01:27:19.735 [main] INFO  FoundWords - разработки
+29.03.2021 01:27:19.735 [main] INFO  FoundWords - выпустим
+29.03.2021 01:27:19.735 [main] INFO  FoundWords - продукт
+29.03.2021 01:27:19.735 [main] INFO  FoundWords - в
+29.03.2021 01:27:19.735 [main] INFO  FoundWords - релиз
+29.03.2021 01:27:19.735 [main] INFO  FoundWords - и
+29.03.2021 01:27:19.735 [main] INFO  FoundWords - организуем
+29.03.2021 01:27:19.735 [main] INFO  FoundWords - процесс
+29.03.2021 01:27:19.735 [main] INFO  FoundWords - стабильного
+29.03.2021 01:27:19.735 [main] INFO  FoundWords - развития
+29.03.2021 01:27:19.735 [main] INFO  FoundWords - продукта
+29.03.2021 01:27:19.735 [main] INFO  FoundWords - Почему
+29.03.2021 01:27:19.735 [main] INFO  FoundWords - с
+29.03.2021 01:27:19.735 [main] INFO  FoundWords - нами
+29.03.2021 01:27:19.735 [main] INFO  FoundWords - выгодно
+29.03.2021 01:27:19.735 [main] INFO  FoundWords - Выстраиваем
+29.03.2021 01:27:19.735 [main] INFO  FoundWords - процессы
+29.03.2021 01:27:19.735 [main] INFO  FoundWords - там
+29.03.2021 01:27:19.735 [main] INFO  FoundWords - где
+29.03.2021 01:27:19.735 [main] INFO  FoundWords - их
+29.03.2021 01:27:19.735 [main] INFO  FoundWords - нет
+29.03.2021 01:27:19.735 [main] INFO  FoundWords - подстраиваемся
+29.03.2021 01:27:19.735 [main] INFO  FoundWords - там
+29.03.2021 01:27:19.735 [main] INFO  FoundWords - где
+29.03.2021 01:27:19.735 [main] INFO  FoundWords - они
+29.03.2021 01:27:19.735 [main] INFO  FoundWords - есть
+29.03.2021 01:27:19.735 [main] INFO  FoundWords - Вы
+29.03.2021 01:27:19.735 [main] INFO  FoundWords - получаете
+29.03.2021 01:27:19.745 [main] INFO  FoundWords - нужное
+29.03.2021 01:27:19.755 [main] INFO  FoundWords - IT-решение
+29.03.2021 01:27:19.755 [main] INFO  FoundWords - а
+29.03.2021 01:27:19.755 [main] INFO  FoundWords - мы
+29.03.2021 01:27:19.755 [main] INFO  FoundWords - заботимся
+29.03.2021 01:27:19.755 [main] INFO  FoundWords - о
+29.03.2021 01:27:19.755 [main] INFO  FoundWords - технических
+29.03.2021 01:27:19.755 [main] INFO  FoundWords - деталях
+29.03.2021 01:27:19.755 [main] INFO  FoundWords - проекта
+29.03.2021 01:27:19.755 [main] INFO  FoundWords - Технологическая
+29.03.2021 01:27:19.755 [main] INFO  FoundWords - экспертиза
+29.03.2021 01:27:19.755 [main] INFO  FoundWords - для
+29.03.2021 01:27:19.755 [main] INFO  FoundWords - решения
+29.03.2021 01:27:19.755 [main] INFO  FoundWords - комплексных
+29.03.2021 01:27:19.755 [main] INFO  FoundWords - задач
+29.03.2021 01:27:19.755 [main] INFO  FoundWords - Вы
+29.03.2021 01:27:19.755 [main] INFO  FoundWords - приобретаете
+29.03.2021 01:27:19.755 [main] INFO  FoundWords - единого
+29.03.2021 01:27:19.755 [main] INFO  FoundWords - партнера
+29.03.2021 01:27:19.755 [main] INFO  FoundWords - для
+29.03.2021 01:27:19.755 [main] INFO  FoundWords - ваших
+29.03.2021 01:27:19.755 [main] INFO  FoundWords - IT-потребностей
+29.03.2021 01:27:19.755 [main] INFO  FoundWords - Работа
+29.03.2021 01:27:19.755 [main] INFO  FoundWords - со
+29.03.2021 01:27:19.755 [main] INFO  FoundWords - скоростью
+29.03.2021 01:27:19.755 [main] INFO  FoundWords - потребностей
+29.03.2021 01:27:19.755 [main] INFO  FoundWords - вашего
+29.03.2021 01:27:19.755 [main] INFO  FoundWords - бизнеса
+29.03.2021 01:27:19.755 [main] INFO  FoundWords - Вы
+29.03.2021 01:27:19.755 [main] INFO  FoundWords - достигаете
+29.03.2021 01:27:19.755 [main] INFO  FoundWords - бизнес-цели
+29.03.2021 01:27:19.763 [main] INFO  FoundWords - и
+29.03.2021 01:27:19.763 [main] INFO  FoundWords - получаете
+29.03.2021 01:27:19.763 [main] INFO  FoundWords - результат
+29.03.2021 01:27:19.763 [main] INFO  FoundWords - в
+29.03.2021 01:27:19.763 [main] INFO  FoundWords - ожидаемый
+29.03.2021 01:27:19.763 [main] INFO  FoundWords - срок
+29.03.2021 01:27:19.763 [main] INFO  FoundWords - Первый
+29.03.2021 01:27:19.763 [main] INFO  FoundWords - результат
+29.03.2021 01:27:19.763 [main] INFO  FoundWords - в
+29.03.2021 01:27:19.763 [main] INFO  FoundWords - первый
+29.03.2021 01:27:19.763 [main] INFO  FoundWords - месяц
+29.03.2021 01:27:19.763 [main] INFO  FoundWords - работ
+29.03.2021 01:27:19.763 [main] INFO  FoundWords - Вы
+29.03.2021 01:27:19.765 [main] INFO  FoundWords - оперативно
+29.03.2021 01:27:19.765 [main] INFO  FoundWords - видите
+29.03.2021 01:27:19.765 [main] INFO  FoundWords - отдачу
+29.03.2021 01:27:19.765 [main] INFO  FoundWords - на
+29.03.2021 01:27:19.765 [main] INFO  FoundWords - вложения
+29.03.2021 01:27:19.765 [main] INFO  FoundWords - 100%
+29.03.2021 01:27:19.765 [main] INFO  FoundWords - релизов
+29.03.2021 01:27:19.765 [main] INFO  FoundWords - выполнено
+29.03.2021 01:27:19.765 [main] INFO  FoundWords - в
+29.03.2021 01:27:19.765 [main] INFO  FoundWords - срок
+29.03.2021 01:27:19.765 [main] INFO  FoundWords - Вы
+29.03.2021 01:27:19.765 [main] INFO  FoundWords - видите
+29.03.2021 01:27:19.765 [main] INFO  FoundWords - четкий
+29.03.2021 01:27:19.765 [main] INFO  FoundWords - результат
+29.03.2021 01:27:19.765 [main] INFO  FoundWords - на
+29.03.2021 01:27:19.765 [main] INFO  FoundWords - всех
+29.03.2021 01:27:19.765 [main] INFO  FoundWords - этапах
+29.03.2021 01:27:19.765 [main] INFO  FoundWords - в
+29.03.2021 01:27:19.765 [main] INFO  FoundWords - предсказуемые
+29.03.2021 01:27:19.765 [main] INFO  FoundWords - сроки
+29.03.2021 01:27:19.765 [main] INFO  FoundWords - Сокращаем
+29.03.2021 01:27:19.765 [main] INFO  FoundWords - time-to-market
+29.03.2021 01:27:19.765 [main] INFO  FoundWords - Вы
+29.03.2021 01:27:19.765 [main] INFO  FoundWords - получаете
+29.03.2021 01:27:19.765 [main] INFO  FoundWords - преимущество
+29.03.2021 01:27:19.765 [main] INFO  FoundWords - по
+29.03.2021 01:27:19.765 [main] INFO  FoundWords - скорости
+29.03.2021 01:27:19.765 [main] INFO  FoundWords - выхода
+29.03.2021 01:27:19.765 [main] INFO  FoundWords - вашего
+29.03.2021 01:27:19.765 [main] INFO  FoundWords - IT-продукта
+29.03.2021 01:27:19.765 [main] INFO  FoundWords - Нам
+29.03.2021 01:27:19.765 [main] INFO  FoundWords - доверяют
+29.03.2021 01:27:19.765 [main] INFO  FoundWords - Посмотреть
+29.03.2021 01:27:19.765 [main] INFO  FoundWords - все
+29.03.2021 01:27:19.765 [main] INFO  FoundWords - 100
+29.03.2021 01:27:19.765 [main] INFO  FoundWords - фраз
+29.03.2021 01:27:19.765 [main] INFO  FoundWords - о
+29.03.2021 01:27:19.765 [main] INFO  FoundWords - нас
+29.03.2021 01:27:19.765 [main] INFO  FoundWords - Оперативная
+29.03.2021 01:27:19.765 [main] INFO  FoundWords - реакция
+29.03.2021 01:27:19.765 [main] INFO  FoundWords - на
+29.03.2021 01:27:19.765 [main] INFO  FoundWords - наши
+29.03.2021 01:27:19.765 [main] INFO  FoundWords - пожелания
+29.03.2021 01:27:19.765 [main] INFO  FoundWords - Мы
+29.03.2021 01:27:19.765 [main] INFO  FoundWords - просто
+29.03.2021 01:27:19.765 [main] INFO  FoundWords - полагались
+29.03.2021 01:27:19.765 [main] INFO  FoundWords - на
+29.03.2021 01:27:19.765 [main] INFO  FoundWords - их
+29.03.2021 01:27:19.765 [main] INFO  FoundWords - опыт
+29.03.2021 01:27:19.773 [main] INFO  FoundWords - и
+29.03.2021 01:27:19.773 [main] INFO  FoundWords - получили
+29.03.2021 01:27:19.773 [main] INFO  FoundWords - блестящие
+29.03.2021 01:27:19.773 [main] INFO  FoundWords - результаты
+29.03.2021 01:27:19.773 [main] INFO  FoundWords - Свернут
+29.03.2021 01:27:19.773 [main] INFO  FoundWords - горы
+29.03.2021 01:27:19.773 [main] INFO  FoundWords - чтобы
+29.03.2021 01:27:19.773 [main] INFO  FoundWords - удовлетворить
+29.03.2021 01:27:19.773 [main] INFO  FoundWords - наши
+29.03.2021 01:27:19.773 [main] INFO  FoundWords - высокие
+29.03.2021 01:27:19.773 [main] INFO  FoundWords - требования
+29.03.2021 01:27:19.773 [main] INFO  FoundWords - Очень
+29.03.2021 01:27:19.773 [main] INFO  FoundWords - гибкий
+29.03.2021 01:27:19.773 [main] INFO  FoundWords - подход
+29.03.2021 01:27:19.773 [main] INFO  FoundWords - к
+29.03.2021 01:27:19.773 [main] INFO  FoundWords - решению
+29.03.2021 01:27:19.773 [main] INFO  FoundWords - задач
+29.03.2021 01:27:19.775 [main] INFO  FoundWords - Моментально
+29.03.2021 01:27:19.775 [main] INFO  FoundWords - реагируют
+29.03.2021 01:27:19.775 [main] INFO  FoundWords - на
+29.03.2021 01:27:19.775 [main] INFO  FoundWords - любые
+29.03.2021 01:27:19.775 [main] INFO  FoundWords - запросы
+29.03.2021 01:27:19.775 [main] INFO  FoundWords - Искренне
+29.03.2021 01:27:19.775 [main] INFO  FoundWords - хотят
+29.03.2021 01:27:19.775 [main] INFO  FoundWords - сделать
+29.03.2021 01:27:19.775 [main] INFO  FoundWords - продукт
+29.03.2021 01:27:19.775 [main] INFO  FoundWords - на
+29.03.2021 01:27:19.775 [main] INFO  FoundWords - максимум
+29.03.2021 01:27:19.775 [main] INFO  FoundWords - Предлагают
+29.03.2021 01:27:19.775 [main] INFO  FoundWords - альтернативные
+29.03.2021 01:27:19.775 [main] INFO  FoundWords - варианты
+29.03.2021 01:27:19.775 [main] INFO  FoundWords - реализации
+29.03.2021 01:27:19.775 [main] INFO  FoundWords - с
+29.03.2021 01:27:19.775 [main] INFO  FoundWords - учетом
+29.03.2021 01:27:19.775 [main] INFO  FoundWords - сроков
+29.03.2021 01:27:19.775 [main] INFO  FoundWords - и
+29.03.2021 01:27:19.775 [main] INFO  FoundWords - бюджета
+29.03.2021 01:27:19.775 [main] INFO  FoundWords - Показали
+29.03.2021 01:27:19.775 [main] INFO  FoundWords - очень
+29.03.2021 01:27:19.775 [main] INFO  FoundWords - высокий
+29.03.2021 01:27:19.775 [main] INFO  FoundWords - уровень
+29.03.2021 01:27:19.775 [main] INFO  FoundWords - разработки
+29.03.2021 01:27:19.775 [main] INFO  FoundWords - Спасли
+29.03.2021 01:27:19.775 [main] INFO  FoundWords - наш
+29.03.2021 01:27:19.775 [main] INFO  FoundWords - проект
+29.03.2021 01:27:19.775 [main] INFO  FoundWords - с
+29.03.2021 01:27:19.775 [main] INFO  FoundWords - которым
+29.03.2021 01:27:19.775 [main] INFO  FoundWords - не
+29.03.2021 01:27:19.775 [main] INFO  FoundWords - справилась
+29.03.2021 01:27:19.775 [main] INFO  FoundWords - другая
+29.03.2021 01:27:19.775 [main] INFO  FoundWords - команда
+29.03.2021 01:27:19.775 [main] INFO  FoundWords - Мы
+29.03.2021 01:27:19.775 [main] INFO  FoundWords - довольны
+29.03.2021 01:27:19.775 [main] INFO  FoundWords - вкладом
+29.03.2021 01:27:19.775 [main] INFO  FoundWords - в
+29.03.2021 01:27:19.775 [main] INFO  FoundWords - успех
+29.03.2021 01:27:19.775 [main] INFO  FoundWords - проекта
+29.03.2021 01:27:19.775 [main] INFO  FoundWords - и
+29.03.2021 01:27:19.775 [main] INFO  FoundWords - человеческими
+29.03.2021 01:27:19.775 [main] INFO  FoundWords - отношениями
+29.03.2021 01:27:19.775 [main] INFO  FoundWords - Всегда
+29.03.2021 01:27:19.775 [main] INFO  FoundWords - готовы
+29.03.2021 01:27:19.775 [main] INFO  FoundWords - предоставить
+29.03.2021 01:27:19.775 [main] INFO  FoundWords - нам
+29.03.2021 01:27:19.775 [main] INFO  FoundWords - профессиональную
+29.03.2021 01:27:19.775 [main] INFO  FoundWords - команду
+29.03.2021 01:27:19.775 [main] INFO  FoundWords - Проявляют
+29.03.2021 01:27:19.775 [main] INFO  FoundWords - инициативность
+29.03.2021 01:27:19.775 [main] INFO  FoundWords - в
+29.03.2021 01:27:19.775 [main] INFO  FoundWords - создании
+29.03.2021 01:27:19.775 [main] INFO  FoundWords - качественного
+29.03.2021 01:27:19.775 [main] INFO  FoundWords - продукта
+29.03.2021 01:27:19.775 [main] INFO  FoundWords - Создали
+29.03.2021 01:27:19.775 [main] INFO  FoundWords - комфортные
+29.03.2021 01:27:19.775 [main] INFO  FoundWords - условия
+29.03.2021 01:27:19.775 [main] INFO  FoundWords - для
+29.03.2021 01:27:19.784 [main] INFO  FoundWords - партнерских
+29.03.2021 01:27:19.784 [main] INFO  FoundWords - отношений
+29.03.2021 01:27:19.784 [main] INFO  FoundWords - Все
+29.03.2021 01:27:19.784 [main] INFO  FoundWords - задачи
+29.03.2021 01:27:19.784 [main] INFO  FoundWords - какими
+29.03.2021 01:27:19.784 [main] INFO  FoundWords - бы
+29.03.2021 01:27:19.784 [main] INFO  FoundWords - сложными
+29.03.2021 01:27:19.784 [main] INFO  FoundWords - они
+29.03.2021 01:27:19.784 [main] INFO  FoundWords - ни
+29.03.2021 01:27:19.784 [main] INFO  FoundWords - были
+29.03.2021 01:27:19.784 [main] INFO  FoundWords - выполняются
+29.03.2021 01:27:19.784 [main] INFO  FoundWords - качественно
+29.03.2021 01:27:19.784 [main] INFO  FoundWords - и
+29.03.2021 01:27:19.784 [main] INFO  FoundWords - в
+29.03.2021 01:27:19.786 [main] INFO  FoundWords - срок
+29.03.2021 01:27:19.786 [main] INFO  FoundWords - «Прозрачный»
+29.03.2021 01:27:19.786 [main] INFO  FoundWords - процесс
+29.03.2021 01:27:19.786 [main] INFO  FoundWords - разработки
+29.03.2021 01:27:19.786 [main] INFO  FoundWords - дает
+29.03.2021 01:27:19.786 [main] INFO  FoundWords - возможность
+29.03.2021 01:27:19.786 [main] INFO  FoundWords - всегда
+29.03.2021 01:27:19.786 [main] INFO  FoundWords - быть
+29.03.2021 01:27:19.786 [main] INFO  FoundWords - в
+29.03.2021 01:27:19.786 [main] INFO  FoundWords - курсе
+29.03.2021 01:27:19.786 [main] INFO  FoundWords - хода
+29.03.2021 01:27:19.786 [main] INFO  FoundWords - работ
+29.03.2021 01:27:19.786 [main] INFO  FoundWords - Мы
+29.03.2021 01:27:19.786 [main] INFO  FoundWords - очень
+29.03.2021 01:27:19.786 [main] INFO  FoundWords - довольны
+29.03.2021 01:27:19.786 [main] INFO  FoundWords - подходом
+29.03.2021 01:27:19.786 [main] INFO  FoundWords - СимбирСофт
+29.03.2021 01:27:19.786 [main] INFO  FoundWords - к
+29.03.2021 01:27:19.786 [main] INFO  FoundWords - анализу
+29.03.2021 01:27:19.786 [main] INFO  FoundWords - разработке
+29.03.2021 01:27:19.786 [main] INFO  FoundWords - контролю
+29.03.2021 01:27:19.786 [main] INFO  FoundWords - качества
+29.03.2021 01:27:19.786 [main] INFO  FoundWords - и
+29.03.2021 01:27:19.786 [main] INFO  FoundWords - управлению
+29.03.2021 01:27:19.786 [main] INFO  FoundWords - Внесли
+29.03.2021 01:27:19.786 [main] INFO  FoundWords - ясность
+29.03.2021 01:27:19.786 [main] INFO  FoundWords - в
+29.03.2021 01:27:19.786 [main] INFO  FoundWords - те
+29.03.2021 01:27:19.786 [main] INFO  FoundWords - требования
+29.03.2021 01:27:19.786 [main] INFO  FoundWords - которые
+29.03.2021 01:27:19.786 [main] INFO  FoundWords - мы
+29.03.2021 01:27:19.786 [main] INFO  FoundWords - сами
+29.03.2021 01:27:19.786 [main] INFO  FoundWords - не
+29.03.2021 01:27:19.786 [main] INFO  FoundWords - очень
+29.03.2021 01:27:19.786 [main] INFO  FoundWords - себе
+29.03.2021 01:27:19.786 [main] INFO  FoundWords - представляли
+29.03.2021 01:27:19.786 [main] INFO  FoundWords - Собранность
+29.03.2021 01:27:19.786 [main] INFO  FoundWords - и
+29.03.2021 01:27:19.786 [main] INFO  FoundWords - выполнение
+29.03.2021 01:27:19.786 [main] INFO  FoundWords - задач
+29.03.2021 01:27:19.786 [main] INFO  FoundWords - в
+29.03.2021 01:27:19.786 [main] INFO  FoundWords - очень
+29.03.2021 01:27:19.786 [main] INFO  FoundWords - короткие
+29.03.2021 01:27:19.786 [main] INFO  FoundWords - сроки
+29.03.2021 01:27:19.786 [main] INFO  FoundWords - Всегда
+29.03.2021 01:27:19.786 [main] INFO  FoundWords - корректное
+29.03.2021 01:27:19.786 [main] INFO  FoundWords - и
+29.03.2021 01:27:19.786 [main] INFO  FoundWords - приятное
+29.03.2021 01:27:19.786 [main] INFO  FoundWords - общение
+29.03.2021 01:27:19.786 [main] INFO  FoundWords - Компетентные
+29.03.2021 01:27:19.786 [main] INFO  FoundWords - ответственные
+29.03.2021 01:27:19.786 [main] INFO  FoundWords - и
+29.03.2021 01:27:19.786 [main] INFO  FoundWords - доброжелательные
+29.03.2021 01:27:19.786 [main] INFO  FoundWords - профессионалы
+29.03.2021 01:27:19.786 [main] INFO  FoundWords - Всегда
+29.03.2021 01:27:19.786 [main] INFO  FoundWords - выполняют
+29.03.2021 01:27:19.786 [main] INFO  FoundWords - работу
+29.03.2021 01:27:19.786 [main] INFO  FoundWords - на
+29.03.2021 01:27:19.786 [main] INFO  FoundWords - самом
+29.03.2021 01:27:19.786 [main] INFO  FoundWords - высоком
+29.03.2021 01:27:19.786 [main] INFO  FoundWords - уровне
+29.03.2021 01:27:19.786 [main] INFO  FoundWords - Нас
+29.03.2021 01:27:19.786 [main] INFO  FoundWords - впечатлили
+29.03.2021 01:27:19.786 [main] INFO  FoundWords - этапы
+29.03.2021 01:27:19.786 [main] INFO  FoundWords - аналитики
+29.03.2021 01:27:19.786 [main] INFO  FoundWords - подготовки
+29.03.2021 01:27:19.786 [main] INFO  FoundWords - прототипов
+29.03.2021 01:27:19.786 [main] INFO  FoundWords - и
+29.03.2021 01:27:19.786 [main] INFO  FoundWords - дизайна
+29.03.2021 01:27:19.786 [main] INFO  FoundWords - В
+29.03.2021 01:27:19.786 [main] INFO  FoundWords - СимбирСофт
+29.03.2021 01:27:19.786 [main] INFO  FoundWords - всегда
+29.03.2021 01:27:19.786 [main] INFO  FoundWords - предлагают
+29.03.2021 01:27:19.794 [main] INFO  FoundWords - креативные
+29.03.2021 01:27:19.794 [main] INFO  FoundWords - и
+29.03.2021 01:27:19.794 [main] INFO  FoundWords - инновационные
+29.03.2021 01:27:19.794 [main] INFO  FoundWords - подходы
+29.03.2021 01:27:19.794 [main] INFO  FoundWords - к
+29.03.2021 01:27:19.794 [main] INFO  FoundWords - решению
+29.03.2021 01:27:19.794 [main] INFO  FoundWords - сложных
+29.03.2021 01:27:19.794 [main] INFO  FoundWords - задач
+29.03.2021 01:27:19.794 [main] INFO  FoundWords - Быстро
+29.03.2021 01:27:19.794 [main] INFO  FoundWords - погрузились
+29.03.2021 01:27:19.794 [main] INFO  FoundWords - в
+29.03.2021 01:27:19.794 [main] INFO  FoundWords - наши
+29.03.2021 01:27:19.796 [main] INFO  FoundWords - бизнес-процессы
+29.03.2021 01:27:19.796 [main] INFO  FoundWords - и
+29.03.2021 01:27:19.796 [main] INFO  FoundWords - показали
+29.03.2021 01:27:19.796 [main] INFO  FoundWords - отличный
+29.03.2021 01:27:19.796 [main] INFO  FoundWords - результат
+29.03.2021 01:27:19.796 [main] INFO  FoundWords - Опыт
+29.03.2021 01:27:19.796 [main] INFO  FoundWords - СимбирСофт
+29.03.2021 01:27:19.796 [main] INFO  FoundWords - внес
+29.03.2021 01:27:19.796 [main] INFO  FoundWords - свой
+29.03.2021 01:27:19.796 [main] INFO  FoundWords - вклад
+29.03.2021 01:27:19.796 [main] INFO  FoundWords - в
+29.03.2021 01:27:19.796 [main] INFO  FoundWords - общий
+29.03.2021 01:27:19.796 [main] INFO  FoundWords - успех
+29.03.2021 01:27:19.796 [main] INFO  FoundWords - нашего
+29.03.2021 01:27:19.796 [main] INFO  FoundWords - сотрудничества
+29.03.2021 01:27:19.796 [main] INFO  FoundWords - Мы
+29.03.2021 01:27:19.796 [main] INFO  FoundWords - получаем
+29.03.2021 01:27:19.796 [main] INFO  FoundWords - хорошую
+29.03.2021 01:27:19.796 [main] INFO  FoundWords - отдачу
+29.03.2021 01:27:19.796 [main] INFO  FoundWords - инвестиций
+29.03.2021 01:27:19.796 [main] INFO  FoundWords - от
+29.03.2021 01:27:19.796 [main] INFO  FoundWords - этого
+29.03.2021 01:27:19.796 [main] INFO  FoundWords - сотрудничества
+29.03.2021 01:27:19.796 [main] INFO  FoundWords - Соблюдены
+29.03.2021 01:27:19.796 [main] INFO  FoundWords - все
+29.03.2021 01:27:19.796 [main] INFO  FoundWords - обязательства
+29.03.2021 01:27:19.796 [main] INFO  FoundWords - по
+29.03.2021 01:27:19.796 [main] INFO  FoundWords - срокам
+29.03.2021 01:27:19.796 [main] INFO  FoundWords - реализации
+29.03.2021 01:27:19.796 [main] INFO  FoundWords - и
+29.03.2021 01:27:19.796 [main] INFO  FoundWords - качеству
+29.03.2021 01:27:19.796 [main] INFO  FoundWords - работы
+29.03.2021 01:27:19.796 [main] INFO  FoundWords - Предлагали
+29.03.2021 01:27:19.796 [main] INFO  FoundWords - пути
+29.03.2021 01:27:19.796 [main] INFO  FoundWords - улучшения
+29.03.2021 01:27:19.796 [main] INFO  FoundWords - логики
+29.03.2021 01:27:19.796 [main] INFO  FoundWords - работы
+29.03.2021 01:27:19.796 [main] INFO  FoundWords - приложения
+29.03.2021 01:27:19.796 [main] INFO  FoundWords - и
+29.03.2021 01:27:19.796 [main] INFO  FoundWords - увеличения
+29.03.2021 01:27:19.796 [main] INFO  FoundWords - производительности
+29.03.2021 01:27:19.796 [main] INFO  FoundWords - Превзошли
+29.03.2021 01:27:19.796 [main] INFO  FoundWords - ожидания
+29.03.2021 01:27:19.796 [main] INFO  FoundWords - и
+29.03.2021 01:27:19.796 [main] INFO  FoundWords - выполнили
+29.03.2021 01:27:19.796 [main] INFO  FoundWords - даже
+29.03.2021 01:27:19.796 [main] INFO  FoundWords - больше
+29.03.2021 01:27:19.796 [main] INFO  FoundWords - запланированного
+29.03.2021 01:27:19.796 [main] INFO  FoundWords - Команда
+29.03.2021 01:27:19.796 [main] INFO  FoundWords - работала
+29.03.2021 01:27:19.796 [main] INFO  FoundWords - очень
+29.03.2021 01:27:19.796 [main] INFO  FoundWords - быстро
+29.03.2021 01:27:19.796 [main] INFO  FoundWords - что
+29.03.2021 01:27:19.796 [main] INFO  FoundWords - позволило
+29.03.2021 01:27:19.796 [main] INFO  FoundWords - уложиться
+29.03.2021 01:27:19.796 [main] INFO  FoundWords - в
+29.03.2021 01:27:19.796 [main] INFO  FoundWords - обещанные
+29.03.2021 01:27:19.796 [main] INFO  FoundWords - сроки
+29.03.2021 01:27:19.796 [main] INFO  FoundWords - Готовы
+29.03.2021 01:27:19.796 [main] INFO  FoundWords - обсуждать
+29.03.2021 01:27:19.796 [main] INFO  FoundWords - смену
+29.03.2021 01:27:19.796 [main] INFO  FoundWords - приоритетов
+29.03.2021 01:27:19.796 [main] INFO  FoundWords - действий
+29.03.2021 01:27:19.796 [main] INFO  FoundWords - и
+29.03.2021 01:27:19.796 [main] INFO  FoundWords - разбивку
+29.03.2021 01:27:19.796 [main] INFO  FoundWords - по
+29.03.2021 01:27:19.796 [main] INFO  FoundWords - срокам
+29.03.2021 01:27:19.796 [main] INFO  FoundWords - Буквально
+29.03.2021 01:27:19.796 [main] INFO  FoundWords - через
+29.03.2021 01:27:19.796 [main] INFO  FoundWords - несколько
+29.03.2021 01:27:19.796 [main] INFO  FoundWords - месяцев
+29.03.2021 01:27:19.796 [main] INFO  FoundWords - мы
+29.03.2021 01:27:19.796 [main] INFO  FoundWords - получили
+29.03.2021 01:27:19.796 [main] INFO  FoundWords - первые
+29.03.2021 01:27:19.796 [main] INFO  FoundWords - результаты
+29.03.2021 01:27:19.796 [main] INFO  FoundWords - работ
+29.03.2021 01:27:19.796 [main] INFO  FoundWords - Мы
+29.03.2021 01:27:19.796 [main] INFO  FoundWords - прекрасно
+29.03.2021 01:27:19.796 [main] INFO  FoundWords - понимали
+29.03.2021 01:27:19.796 [main] INFO  FoundWords - какой
+29.03.2021 01:27:19.796 [main] INFO  FoundWords - результат
+29.03.2021 01:27:19.796 [main] INFO  FoundWords - ожидать
+29.03.2021 01:27:19.796 [main] INFO  FoundWords - по
+29.03.2021 01:27:19.796 [main] INFO  FoundWords - окончанию
+29.03.2021 01:27:19.804 [main] INFO  FoundWords - этапа
+29.03.2021 01:27:19.804 [main] INFO  FoundWords - Они
+29.03.2021 01:27:19.804 [main] INFO  FoundWords - полностью
+29.03.2021 01:27:19.804 [main] INFO  FoundWords - оправдали
+29.03.2021 01:27:19.804 [main] INFO  FoundWords - наши
+29.03.2021 01:27:19.804 [main] INFO  FoundWords - ожидания
+29.03.2021 01:27:19.804 [main] INFO  FoundWords - Быстро
+29.03.2021 01:27:19.804 [main] INFO  FoundWords - включились
+29.03.2021 01:27:19.804 [main] INFO  FoundWords - в
+29.03.2021 01:27:19.804 [main] INFO  FoundWords - проект
+29.03.2021 01:27:19.804 [main] INFO  FoundWords - освоив
+29.03.2021 01:27:19.804 [main] INFO  FoundWords - незнакомую
+29.03.2021 01:27:19.804 [main] INFO  FoundWords - технологическую
+29.03.2021 01:27:19.804 [main] INFO  FoundWords - платформу
+29.03.2021 01:27:19.804 [main] INFO  FoundWords - Мы
+29.03.2021 01:27:19.804 [main] INFO  FoundWords - опирались
+29.03.2021 01:27:19.804 [main] INFO  FoundWords - на
+29.03.2021 01:27:19.804 [main] INFO  FoundWords - их
+29.03.2021 01:27:19.806 [main] INFO  FoundWords - опыт
+29.03.2021 01:27:19.806 [main] INFO  FoundWords - и
+29.03.2021 01:27:19.806 [main] INFO  FoundWords - преданность
+29.03.2021 01:27:19.806 [main] INFO  FoundWords - делу
+29.03.2021 01:27:19.806 [main] INFO  FoundWords - Предельно
+29.03.2021 01:27:19.806 [main] INFO  FoundWords - адаптировали
+29.03.2021 01:27:19.806 [main] INFO  FoundWords - всех
+29.03.2021 01:27:19.806 [main] INFO  FoundWords - участников
+29.03.2021 01:27:19.806 [main] INFO  FoundWords - команды
+29.03.2021 01:27:19.806 [main] INFO  FoundWords - к
+29.03.2021 01:27:19.806 [main] INFO  FoundWords - нашим
+29.03.2021 01:27:19.806 [main] INFO  FoundWords - требованиям
+29.03.2021 01:27:19.806 [main] INFO  FoundWords - Они
+29.03.2021 01:27:19.806 [main] INFO  FoundWords - буквально
+29.03.2021 01:27:19.806 [main] INFO  FoundWords - прочитали
+29.03.2021 01:27:19.806 [main] INFO  FoundWords - наши
+29.03.2021 01:27:19.806 [main] INFO  FoundWords - мысли
+29.03.2021 01:27:19.806 [main] INFO  FoundWords - и
+29.03.2021 01:27:19.806 [main] INFO  FoundWords - предоставили
+29.03.2021 01:27:19.806 [main] INFO  FoundWords - прототип
+29.03.2021 01:27:19.806 [main] INFO  FoundWords - самого
+29.03.2021 01:27:19.806 [main] INFO  FoundWords - высокого
+29.03.2021 01:27:19.806 [main] INFO  FoundWords - качества
+29.03.2021 01:27:19.806 [main] INFO  FoundWords - Нацелены
+29.03.2021 01:27:19.806 [main] INFO  FoundWords - на
+29.03.2021 01:27:19.806 [main] INFO  FoundWords - долгосрочную
+29.03.2021 01:27:19.806 [main] INFO  FoundWords - работу
+29.03.2021 01:27:19.806 [main] INFO  FoundWords - Мы
+29.03.2021 01:27:19.806 [main] INFO  FoundWords - увидели
+29.03.2021 01:27:19.806 [main] INFO  FoundWords - качественные
+29.03.2021 01:27:19.806 [main] INFO  FoundWords - результаты
+29.03.2021 01:27:19.806 [main] INFO  FoundWords - после
+29.03.2021 01:27:19.806 [main] INFO  FoundWords - первой
+29.03.2021 01:27:19.806 [main] INFO  FoundWords - недели
+29.03.2021 01:27:19.806 [main] INFO  FoundWords - работы
+29.03.2021 01:27:19.806 [main] INFO  FoundWords - Первый
+29.03.2021 01:27:19.806 [main] INFO  FoundWords - адаптер
+29.03.2021 01:27:19.806 [main] INFO  FoundWords - был
+29.03.2021 01:27:19.806 [main] INFO  FoundWords - готов
+29.03.2021 01:27:19.806 [main] INFO  FoundWords - через
+29.03.2021 01:27:19.806 [main] INFO  FoundWords - несколько
+29.03.2021 01:27:19.806 [main] INFO  FoundWords - недель
+29.03.2021 01:27:19.806 [main] INFO  FoundWords - после
+29.03.2021 01:27:19.806 [main] INFO  FoundWords - заключения
+29.03.2021 01:27:19.806 [main] INFO  FoundWords - договора
+29.03.2021 01:27:19.806 [main] INFO  FoundWords - Их
+29.03.2021 01:27:19.806 [main] INFO  FoundWords - ежедневная
+29.03.2021 01:27:19.806 [main] INFO  FoundWords - вовлеченность
+29.03.2021 01:27:19.806 [main] INFO  FoundWords - в
+29.03.2021 01:27:19.806 [main] INFO  FoundWords - наши
+29.03.2021 01:27:19.806 [main] INFO  FoundWords - задачи
+29.03.2021 01:27:19.806 [main] INFO  FoundWords - дала
+29.03.2021 01:27:19.806 [main] INFO  FoundWords - нам
+29.03.2021 01:27:19.806 [main] INFO  FoundWords - понять
+29.03.2021 01:27:19.806 [main] INFO  FoundWords - что
+29.03.2021 01:27:19.806 [main] INFO  FoundWords - мы
+29.03.2021 01:27:19.806 [main] INFO  FoundWords - выбрали
+29.03.2021 01:27:19.806 [main] INFO  FoundWords - отличного
+29.03.2021 01:27:19.806 [main] INFO  FoundWords - партнера
+29.03.2021 01:27:19.806 [main] INFO  FoundWords - Создали
+29.03.2021 01:27:19.806 [main] INFO  FoundWords - реально
+29.03.2021 01:27:19.806 [main] INFO  FoundWords - работающий
+29.03.2021 01:27:19.806 [main] INFO  FoundWords - продукт
+29.03.2021 01:27:19.806 [main] INFO  FoundWords - за
+29.03.2021 01:27:19.806 [main] INFO  FoundWords - разумные
+29.03.2021 01:27:19.806 [main] INFO  FoundWords - деньги
+29.03.2021 01:27:19.806 [main] INFO  FoundWords - Всегда
+29.03.2021 01:27:19.806 [main] INFO  FoundWords - слышат
+29.03.2021 01:27:19.806 [main] INFO  FoundWords - чего
+29.03.2021 01:27:19.806 [main] INFO  FoundWords - хочет
+29.03.2021 01:27:19.806 [main] INFO  FoundWords - клиент
+29.03.2021 01:27:19.806 [main] INFO  FoundWords - Мы
+29.03.2021 01:27:19.806 [main] INFO  FoundWords - с
+29.03.2021 01:27:19.806 [main] INFO  FoundWords - уверенностью
+29.03.2021 01:27:19.806 [main] INFO  FoundWords - смотрим
+29.03.2021 01:27:19.806 [main] INFO  FoundWords - в
+29.03.2021 01:27:19.806 [main] INFO  FoundWords - будущее
+29.03.2021 01:27:19.806 [main] INFO  FoundWords - В
+29.03.2021 01:27:19.806 [main] INFO  FoundWords - ходе
+29.03.2021 01:27:19.806 [main] INFO  FoundWords - работ
+29.03.2021 01:27:19.806 [main] INFO  FoundWords - максимально
+29.03.2021 01:27:19.806 [main] INFO  FoundWords - учитывались
+29.03.2021 01:27:19.806 [main] INFO  FoundWords - пожелания
+29.03.2021 01:27:19.806 [main] INFO  FoundWords - заказчика
+29.03.2021 01:27:19.806 [main] INFO  FoundWords - Все
+29.03.2021 01:27:19.806 [main] INFO  FoundWords - поставленные
+29.03.2021 01:27:19.806 [main] INFO  FoundWords - задачи
+29.03.2021 01:27:19.806 [main] INFO  FoundWords - были
+29.03.2021 01:27:19.814 [main] INFO  FoundWords - выполнены
+29.03.2021 01:27:19.814 [main] INFO  FoundWords - в
+29.03.2021 01:27:19.814 [main] INFO  FoundWords - срок
+29.03.2021 01:27:19.814 [main] INFO  FoundWords - Дают
+29.03.2021 01:27:19.814 [main] INFO  FoundWords - четкое
+29.03.2021 01:27:19.814 [main] INFO  FoundWords - понимание
+29.03.2021 01:27:19.814 [main] INFO  FoundWords - того
+29.03.2021 01:27:19.814 [main] INFO  FoundWords - какой
+29.03.2021 01:27:19.814 [main] INFO  FoundWords - результат
+29.03.2021 01:27:19.814 [main] INFO  FoundWords - ожидать
+29.03.2021 01:27:19.814 [main] INFO  FoundWords - Они
+29.03.2021 01:27:19.814 [main] INFO  FoundWords - креативно
+29.03.2021 01:27:19.814 [main] INFO  FoundWords - мыслят
+29.03.2021 01:27:19.814 [main] INFO  FoundWords - чтобы
+29.03.2021 01:27:19.814 [main] INFO  FoundWords - достичь
+29.03.2021 01:27:19.814 [main] INFO  FoundWords - целей
+29.03.2021 01:27:19.814 [main] INFO  FoundWords - клиента
+29.03.2021 01:27:19.814 [main] INFO  FoundWords - наилучшим
+29.03.2021 01:27:19.814 [main] INFO  FoundWords - образом
+29.03.2021 01:27:19.814 [main] INFO  FoundWords - Мы
+29.03.2021 01:27:19.814 [main] INFO  FoundWords - ценим
+29.03.2021 01:27:19.816 [main] INFO  FoundWords - интересные
+29.03.2021 01:27:19.816 [main] INFO  FoundWords - идеи
+29.03.2021 01:27:19.816 [main] INFO  FoundWords - по
+29.03.2021 01:27:19.816 [main] INFO  FoundWords - разработке
+29.03.2021 01:27:19.816 [main] INFO  FoundWords - нашего
+29.03.2021 01:27:19.816 [main] INFO  FoundWords - сервиса
+29.03.2021 01:27:19.816 [main] INFO  FoundWords - Высокая
+29.03.2021 01:27:19.816 [main] INFO  FoundWords - организованность
+29.03.2021 01:27:19.816 [main] INFO  FoundWords - процессов
+29.03.2021 01:27:19.816 [main] INFO  FoundWords - и
+29.03.2021 01:27:19.816 [main] INFO  FoundWords - ведения
+29.03.2021 01:27:19.816 [main] INFO  FoundWords - проектов
+29.03.2021 01:27:19.816 [main] INFO  FoundWords - Темп
+29.03.2021 01:27:19.816 [main] INFO  FoundWords - работы
+29.03.2021 01:27:19.816 [main] INFO  FoundWords - команды
+29.03.2021 01:27:19.816 [main] INFO  FoundWords - точно
+29.03.2021 01:27:19.816 [main] INFO  FoundWords - соответствовал
+29.03.2021 01:27:19.816 [main] INFO  FoundWords - нашим
+29.03.2021 01:27:19.816 [main] INFO  FoundWords - ожиданиям
+29.03.2021 01:27:19.816 [main] INFO  FoundWords - и
+29.03.2021 01:27:19.816 [main] INFO  FoundWords - оценкам
+29.03.2021 01:27:19.816 [main] INFO  FoundWords - Всегда
+29.03.2021 01:27:19.816 [main] INFO  FoundWords - делают
+29.03.2021 01:27:19.816 [main] INFO  FoundWords - все
+29.03.2021 01:27:19.816 [main] INFO  FoundWords - возможное
+29.03.2021 01:27:19.816 [main] INFO  FoundWords - чтобы
+29.03.2021 01:27:19.816 [main] INFO  FoundWords - удовлетворить
+29.03.2021 01:27:19.816 [main] INFO  FoundWords - наши
+29.03.2021 01:27:19.816 [main] INFO  FoundWords - высокие
+29.03.2021 01:27:19.816 [main] INFO  FoundWords - требования
+29.03.2021 01:27:19.816 [main] INFO  FoundWords - Благодаря
+29.03.2021 01:27:19.816 [main] INFO  FoundWords - им
+29.03.2021 01:27:19.816 [main] INFO  FoundWords - мы
+29.03.2021 01:27:19.816 [main] INFO  FoundWords - разработали
+29.03.2021 01:27:19.816 [main] INFO  FoundWords - 6
+29.03.2021 01:27:19.816 [main] INFO  FoundWords - крупных
+29.03.2021 01:27:19.816 [main] INFO  FoundWords - продуктов
+29.03.2021 01:27:19.816 [main] INFO  FoundWords - Оперативно
+29.03.2021 01:27:19.816 [main] INFO  FoundWords - подключили
+29.03.2021 01:27:19.816 [main] INFO  FoundWords - необходимых
+29.03.2021 01:27:19.816 [main] INFO  FoundWords - специалистов
+29.03.2021 01:27:19.816 [main] INFO  FoundWords - Хорошо
+29.03.2021 01:27:19.816 [main] INFO  FoundWords - сработанная
+29.03.2021 01:27:19.816 [main] INFO  FoundWords - команда
+29.03.2021 01:27:19.816 [main] INFO  FoundWords - с
+29.03.2021 01:27:19.816 [main] INFO  FoundWords - высоким
+29.03.2021 01:27:19.816 [main] INFO  FoundWords - потенциалом
+29.03.2021 01:27:19.816 [main] INFO  FoundWords - к
+29.03.2021 01:27:19.816 [main] INFO  FoundWords - взаимовыгодному
+29.03.2021 01:27:19.816 [main] INFO  FoundWords - сотрудничеству
+29.03.2021 01:27:19.816 [main] INFO  FoundWords - Через
+29.03.2021 01:27:19.816 [main] INFO  FoundWords - два
+29.03.2021 01:27:19.816 [main] INFO  FoundWords - месяца
+29.03.2021 01:27:19.816 [main] INFO  FoundWords - после
+29.03.2021 01:27:19.816 [main] INFO  FoundWords - начала
+29.03.2021 01:27:19.816 [main] INFO  FoundWords - работы
+29.03.2021 01:27:19.816 [main] INFO  FoundWords - первая
+29.03.2021 01:27:19.816 [main] INFO  FoundWords - версия
+29.03.2021 01:27:19.816 [main] INFO  FoundWords - системы
+29.03.2021 01:27:19.816 [main] INFO  FoundWords - была
+29.03.2021 01:27:19.816 [main] INFO  FoundWords - готова
+29.03.2021 01:27:19.816 [main] INFO  FoundWords - Адаптировались
+29.03.2021 01:27:19.816 [main] INFO  FoundWords - под
+29.03.2021 01:27:19.816 [main] INFO  FoundWords - потребности
+29.03.2021 01:27:19.816 [main] INFO  FoundWords - нашего
+29.03.2021 01:27:19.816 [main] INFO  FoundWords - агентства
+29.03.2021 01:27:19.816 [main] INFO  FoundWords - Преимущество
+29.03.2021 01:27:19.816 [main] INFO  FoundWords - компании
+29.03.2021 01:27:19.816 [main] INFO  FoundWords - в
+29.03.2021 01:27:19.816 [main] INFO  FoundWords - наличии
+29.03.2021 01:27:19.816 [main] INFO  FoundWords - собственных
+29.03.2021 01:27:19.816 [main] INFO  FoundWords - сертифицированных
+29.03.2021 01:27:19.816 [main] INFO  FoundWords - экспертов
+29.03.2021 01:27:19.816 [main] INFO  FoundWords - Всегда
+29.03.2021 01:27:19.816 [main] INFO  FoundWords - можем
+29.03.2021 01:27:19.816 [main] INFO  FoundWords - рассчитывать
+29.03.2021 01:27:19.816 [main] INFO  FoundWords - на
+29.03.2021 01:27:19.816 [main] INFO  FoundWords - дополнительных
+29.03.2021 01:27:19.816 [main] INFO  FoundWords - специалистов
+29.03.2021 01:27:19.816 [main] INFO  FoundWords - в
+29.03.2021 01:27:19.816 [main] INFO  FoundWords - течение
+29.03.2021 01:27:19.816 [main] INFO  FoundWords - нескольких
+29.03.2021 01:27:19.816 [main] INFO  FoundWords - часов
+29.03.2021 01:27:19.816 [main] INFO  FoundWords - Предоставляют
+29.03.2021 01:27:19.816 [main] INFO  FoundWords - специалистов
+29.03.2021 01:27:19.816 [main] INFO  FoundWords - которые
+29.03.2021 01:27:19.816 [main] INFO  FoundWords - становятся
+29.03.2021 01:27:19.816 [main] INFO  FoundWords - частью
+29.03.2021 01:27:19.816 [main] INFO  FoundWords - нашей
+29.03.2021 01:27:19.816 [main] INFO  FoundWords - команды
+29.03.2021 01:27:19.816 [main] INFO  FoundWords - Разработали
+29.03.2021 01:27:19.816 [main] INFO  FoundWords - для
+29.03.2021 01:27:19.816 [main] INFO  FoundWords - нас
+29.03.2021 01:27:19.816 [main] INFO  FoundWords - несколько
+29.03.2021 01:27:19.816 [main] INFO  FoundWords - мобильных
+29.03.2021 01:27:19.816 [main] INFO  FoundWords - приложений
+29.03.2021 01:27:19.824 [main] INFO  FoundWords - для
+29.03.2021 01:27:19.824 [main] INFO  FoundWords - интернета
+29.03.2021 01:27:19.824 [main] INFO  FoundWords - вещей
+29.03.2021 01:27:19.824 [main] INFO  FoundWords - Мы
+29.03.2021 01:27:19.824 [main] INFO  FoundWords - получили
+29.03.2021 01:27:19.824 [main] INFO  FoundWords - все
+29.03.2021 01:27:19.824 [main] INFO  FoundWords - демонстрационные
+29.03.2021 01:27:19.824 [main] INFO  FoundWords - варианты
+29.03.2021 01:27:19.824 [main] INFO  FoundWords - вовремя
+29.03.2021 01:27:19.824 [main] INFO  FoundWords - и
+29.03.2021 01:27:19.824 [main] INFO  FoundWords - с
+29.03.2021 01:27:19.824 [main] INFO  FoundWords - работающим
+29.03.2021 01:27:19.824 [main] INFO  FoundWords - функционалом
+29.03.2021 01:27:19.824 [main] INFO  FoundWords - Реализовали
+29.03.2021 01:27:19.824 [main] INFO  FoundWords - мобильное
+29.03.2021 01:27:19.824 [main] INFO  FoundWords - приложение
+29.03.2021 01:27:19.824 [main] INFO  FoundWords - в
+29.03.2021 01:27:19.824 [main] INFO  FoundWords - точности
+29.03.2021 01:27:19.824 [main] INFO  FoundWords - так
+29.03.2021 01:27:19.824 [main] INFO  FoundWords - как
+29.03.2021 01:27:19.824 [main] INFO  FoundWords - я
+29.03.2021 01:27:19.824 [main] INFO  FoundWords - планировал
+29.03.2021 01:27:19.826 [main] INFO  FoundWords - Мы
+29.03.2021 01:27:19.826 [main] INFO  FoundWords - получили
+29.03.2021 01:27:19.826 [main] INFO  FoundWords - готовый
+29.03.2021 01:27:19.826 [main] INFO  FoundWords - продукт
+29.03.2021 01:27:19.826 [main] INFO  FoundWords - отвечающий
+29.03.2021 01:27:19.826 [main] INFO  FoundWords - нашим
+29.03.2021 01:27:19.826 [main] INFO  FoundWords - ожиданиям
+29.03.2021 01:27:19.826 [main] INFO  FoundWords - Я
+29.03.2021 01:27:19.826 [main] INFO  FoundWords - доволен
+29.03.2021 01:27:19.826 [main] INFO  FoundWords - теми
+29.03.2021 01:27:19.826 [main] INFO  FoundWords - IT
+29.03.2021 01:27:19.826 [main] INFO  FoundWords - продуктами
+29.03.2021 01:27:19.826 [main] INFO  FoundWords - которые
+29.03.2021 01:27:19.826 [main] INFO  FoundWords - мы
+29.03.2021 01:27:19.826 [main] INFO  FoundWords - получаем
+29.03.2021 01:27:19.826 [main] INFO  FoundWords - в
+29.03.2021 01:27:19.826 [main] INFO  FoundWords - результате
+29.03.2021 01:27:19.826 [main] INFO  FoundWords - разработки
+29.03.2021 01:27:19.826 [main] INFO  FoundWords - Качество
+29.03.2021 01:27:19.826 [main] INFO  FoundWords - и
+29.03.2021 01:27:19.826 [main] INFO  FoundWords - демонстрация
+29.03.2021 01:27:19.826 [main] INFO  FoundWords - прототипа
+29.03.2021 01:27:19.826 [main] INFO  FoundWords - превзошли
+29.03.2021 01:27:19.826 [main] INFO  FoundWords - все
+29.03.2021 01:27:19.826 [main] INFO  FoundWords - наши
+29.03.2021 01:27:19.826 [main] INFO  FoundWords - ожидания
+29.03.2021 01:27:19.826 [main] INFO  FoundWords - Заботятся
+29.03.2021 01:27:19.826 [main] INFO  FoundWords - о
+29.03.2021 01:27:19.826 [main] INFO  FoundWords - потребностях
+29.03.2021 01:27:19.826 [main] INFO  FoundWords - и
+29.03.2021 01:27:19.826 [main] INFO  FoundWords - бизнес
+29.03.2021 01:27:19.826 [main] INFO  FoundWords - целях
+29.03.2021 01:27:19.826 [main] INFO  FoundWords - заказчика
+29.03.2021 01:27:19.826 [main] INFO  FoundWords - Всегда
+29.03.2021 01:27:19.826 [main] INFO  FoundWords - находят
+29.03.2021 01:27:19.826 [main] INFO  FoundWords - творческие
+29.03.2021 01:27:19.826 [main] INFO  FoundWords - и
+29.03.2021 01:27:19.826 [main] INFO  FoundWords - нетривиальные
+29.03.2021 01:27:19.826 [main] INFO  FoundWords - подходы
+29.03.2021 01:27:19.826 [main] INFO  FoundWords - к
+29.03.2021 01:27:19.826 [main] INFO  FoundWords - решению
+29.03.2021 01:27:19.826 [main] INFO  FoundWords - задач
+29.03.2021 01:27:19.826 [main] INFO  FoundWords - Проактивность
+29.03.2021 01:27:19.826 [main] INFO  FoundWords - специалистов
+29.03.2021 01:27:19.826 [main] INFO  FoundWords - приятно
+29.03.2021 01:27:19.826 [main] INFO  FoundWords - удивляет
+29.03.2021 01:27:19.826 [main] INFO  FoundWords - Наш
+29.03.2021 01:27:19.826 [main] INFO  FoundWords - проект
+29.03.2021 01:27:19.826 [main] INFO  FoundWords - был
+29.03.2021 01:27:19.826 [main] INFO  FoundWords - исключительно
+29.03.2021 01:27:19.826 [main] INFO  FoundWords - успешным
+29.03.2021 01:27:19.826 [main] INFO  FoundWords - Мы
+29.03.2021 01:27:19.826 [main] INFO  FoundWords - успешно
+29.03.2021 01:27:19.826 [main] INFO  FoundWords - завершили
+29.03.2021 01:27:19.826 [main] INFO  FoundWords - десятки
+29.03.2021 01:27:19.826 [main] INFO  FoundWords - проектов
+29.03.2021 01:27:19.826 [main] INFO  FoundWords - сотрудничая
+29.03.2021 01:27:19.826 [main] INFO  FoundWords - с
+29.03.2021 01:27:19.826 [main] INFO  FoundWords - ними
+29.03.2021 01:27:19.826 [main] INFO  FoundWords - Удалось
+29.03.2021 01:27:19.826 [main] INFO  FoundWords - быстро
+29.03.2021 01:27:19.826 [main] INFO  FoundWords - вникнуть
+29.03.2021 01:27:19.826 [main] INFO  FoundWords - в
+29.03.2021 01:27:19.826 [main] INFO  FoundWords - необходимую
+29.03.2021 01:27:19.826 [main] INFO  FoundWords - предметную
+29.03.2021 01:27:19.826 [main] INFO  FoundWords - область
+29.03.2021 01:27:19.826 [main] INFO  FoundWords - Всегда
+29.03.2021 01:27:19.826 [main] INFO  FoundWords - быстро
+29.03.2021 01:27:19.826 [main] INFO  FoundWords - реагируют
+29.03.2021 01:27:19.826 [main] INFO  FoundWords - на
+29.03.2021 01:27:19.826 [main] INFO  FoundWords - пожелания
+29.03.2021 01:27:19.826 [main] INFO  FoundWords - Выполнили
+29.03.2021 01:27:19.826 [main] INFO  FoundWords - работу
+29.03.2021 01:27:19.826 [main] INFO  FoundWords - на
+29.03.2021 01:27:19.826 [main] INFO  FoundWords - высоком
+29.03.2021 01:27:19.826 [main] INFO  FoundWords - уровне
+29.03.2021 01:27:19.826 [main] INFO  FoundWords - и
+29.03.2021 01:27:19.826 [main] INFO  FoundWords - эффективно
+29.03.2021 01:27:19.826 [main] INFO  FoundWords - решили
+29.03.2021 01:27:19.826 [main] INFO  FoundWords - наши
+29.03.2021 01:27:19.826 [main] INFO  FoundWords - задачи
+29.03.2021 01:27:19.826 [main] INFO  FoundWords - Я
+29.03.2021 01:27:19.826 [main] INFO  FoundWords - не
+29.03.2021 01:27:19.826 [main] INFO  FoundWords - знаю
+29.03.2021 01:27:19.826 [main] INFO  FoundWords - более
+29.03.2021 01:27:19.826 [main] INFO  FoundWords - клиентоориентированной
+29.03.2021 01:27:19.826 [main] INFO  FoundWords - IT-компании
+29.03.2021 01:27:19.826 [main] INFO  FoundWords - Мы
+29.03.2021 01:27:19.826 [main] INFO  FoundWords - ценим
+29.03.2021 01:27:19.826 [main] INFO  FoundWords - их
+29.03.2021 01:27:19.826 [main] INFO  FoundWords - подход
+29.03.2021 01:27:19.826 [main] INFO  FoundWords - к
+29.03.2021 01:27:19.826 [main] INFO  FoundWords - анализу
+29.03.2021 01:27:19.826 [main] INFO  FoundWords - разработке
+29.03.2021 01:27:19.826 [main] INFO  FoundWords - обеспечению
+29.03.2021 01:27:19.826 [main] INFO  FoundWords - качества
+29.03.2021 01:27:19.826 [main] INFO  FoundWords - и
+29.03.2021 01:27:19.826 [main] INFO  FoundWords - управлению
+29.03.2021 01:27:19.826 [main] INFO  FoundWords - Нам
+29.03.2021 01:27:19.826 [main] INFO  FoundWords - очень
+29.03.2021 01:27:19.826 [main] INFO  FoundWords - понравилось
+29.03.2021 01:27:19.826 [main] INFO  FoundWords - сотрудничать
+29.03.2021 01:27:19.826 [main] INFO  FoundWords - с
+29.03.2021 01:27:19.826 [main] INFO  FoundWords - ними
+29.03.2021 01:27:19.826 [main] INFO  FoundWords - Вся
+29.03.2021 01:27:19.834 [main] INFO  FoundWords - необходимая
+29.03.2021 01:27:19.834 [main] INFO  FoundWords - для
+29.03.2021 01:27:19.834 [main] INFO  FoundWords - разработки
+29.03.2021 01:27:19.834 [main] INFO  FoundWords - информация
+29.03.2021 01:27:19.834 [main] INFO  FoundWords - поступала
+29.03.2021 01:27:19.834 [main] INFO  FoundWords - вовремя
+29.03.2021 01:27:19.834 [main] INFO  FoundWords - Ориентируют
+29.03.2021 01:27:19.834 [main] INFO  FoundWords - свой
+29.03.2021 01:27:19.834 [main] INFO  FoundWords - бизнес
+29.03.2021 01:27:19.834 [main] INFO  FoundWords - в
+29.03.2021 01:27:19.834 [main] INFO  FoundWords - соответствии
+29.03.2021 01:27:19.834 [main] INFO  FoundWords - с
+29.03.2021 01:27:19.834 [main] INFO  FoundWords - тенденциями
+29.03.2021 01:27:19.834 [main] INFO  FoundWords - мирового
+29.03.2021 01:27:19.834 [main] INFO  FoundWords - IT-рынка
+29.03.2021 01:27:19.834 [main] INFO  FoundWords - Качественно
+29.03.2021 01:27:19.834 [main] INFO  FoundWords - разработали
+29.03.2021 01:27:19.834 [main] INFO  FoundWords - компоненты
+29.03.2021 01:27:19.834 [main] INFO  FoundWords - нашего
+29.03.2021 01:27:19.834 [main] INFO  FoundWords - флагманского
+29.03.2021 01:27:19.834 [main] INFO  FoundWords - продукта
+29.03.2021 01:27:19.834 [main] INFO  FoundWords - Очень
+29.03.2021 01:27:19.834 [main] INFO  FoundWords - довольны
+29.03.2021 01:27:19.834 [main] INFO  FoundWords - сотрудничеством
+29.03.2021 01:27:19.834 [main] INFO  FoundWords - в
+29.03.2021 01:27:19.834 [main] INFO  FoundWords - сфере
+29.03.2021 01:27:19.834 [main] INFO  FoundWords - мобильной
+29.03.2021 01:27:19.836 [main] INFO  FoundWords - разработки
+29.03.2021 01:27:19.836 [main] INFO  FoundWords - Еженедельно
+29.03.2021 01:27:19.836 [main] INFO  FoundWords - выделенный
+29.03.2021 01:27:19.836 [main] INFO  FoundWords - менеджер
+29.03.2021 01:27:19.836 [main] INFO  FoundWords - демонстрировал
+29.03.2021 01:27:19.836 [main] INFO  FoundWords - нам
+29.03.2021 01:27:19.836 [main] INFO  FoundWords - текущую
+29.03.2021 01:27:19.836 [main] INFO  FoundWords - версию
+29.03.2021 01:27:19.836 [main] INFO  FoundWords - продукта
+29.03.2021 01:27:19.836 [main] INFO  FoundWords - Достойный
+29.03.2021 01:27:19.836 [main] INFO  FoundWords - партнер
+29.03.2021 01:27:19.836 [main] INFO  FoundWords - для
+29.03.2021 01:27:19.836 [main] INFO  FoundWords - реализации
+29.03.2021 01:27:19.836 [main] INFO  FoundWords - сложных
+29.03.2021 01:27:19.836 [main] INFO  FoundWords - и
+29.03.2021 01:27:19.836 [main] INFO  FoundWords - ответственных
+29.03.2021 01:27:19.836 [main] INFO  FoundWords - проектов
+29.03.2021 01:27:19.836 [main] INFO  FoundWords - С
+29.03.2021 01:27:19.836 [main] INFO  FoundWords - менеджментом
+29.03.2021 01:27:19.836 [main] INFO  FoundWords - всегда
+29.03.2021 01:27:19.836 [main] INFO  FoundWords - можно
+29.03.2021 01:27:19.836 [main] INFO  FoundWords - найти
+29.03.2021 01:27:19.836 [main] INFO  FoundWords - общий
+29.03.2021 01:27:19.836 [main] INFO  FoundWords - язык
+29.03.2021 01:27:19.836 [main] INFO  FoundWords - Укладываются
+29.03.2021 01:27:19.836 [main] INFO  FoundWords - в
+29.03.2021 01:27:19.836 [main] INFO  FoundWords - сжатые
+29.03.2021 01:27:19.836 [main] INFO  FoundWords - сроки
+29.03.2021 01:27:19.836 [main] INFO  FoundWords - Подходят
+29.03.2021 01:27:19.836 [main] INFO  FoundWords - к
+29.03.2021 01:27:19.836 [main] INFO  FoundWords - выполнению
+29.03.2021 01:27:19.836 [main] INFO  FoundWords - задач
+29.03.2021 01:27:19.836 [main] INFO  FoundWords - с
+29.03.2021 01:27:19.836 [main] INFO  FoundWords - душой
+29.03.2021 01:27:19.836 [main] INFO  FoundWords - и
+29.03.2021 01:27:19.836 [main] INFO  FoundWords - выполняют
+29.03.2021 01:27:19.836 [main] INFO  FoundWords - их
+29.03.2021 01:27:19.836 [main] INFO  FoundWords - в
+29.03.2021 01:27:19.836 [main] INFO  FoundWords - сроки
+29.03.2021 01:27:19.836 [main] INFO  FoundWords - Взяли
+29.03.2021 01:27:19.836 [main] INFO  FoundWords - на
+29.03.2021 01:27:19.836 [main] INFO  FoundWords - себя
+29.03.2021 01:27:19.836 [main] INFO  FoundWords - ведущую
+29.03.2021 01:27:19.836 [main] INFO  FoundWords - роль
+29.03.2021 01:27:19.836 [main] INFO  FoundWords - в
+29.03.2021 01:27:19.836 [main] INFO  FoundWords - разработке
+29.03.2021 01:27:19.836 [main] INFO  FoundWords - Мы
+29.03.2021 01:27:19.836 [main] INFO  FoundWords - получили
+29.03.2021 01:27:19.836 [main] INFO  FoundWords - качественные
+29.03.2021 01:27:19.836 [main] INFO  FoundWords - результаты
+29.03.2021 01:27:19.836 [main] INFO  FoundWords - уже
+29.03.2021 01:27:19.836 [main] INFO  FoundWords - через
+29.03.2021 01:27:19.836 [main] INFO  FoundWords - два
+29.03.2021 01:27:19.836 [main] INFO  FoundWords - месяца
+29.03.2021 01:27:19.836 [main] INFO  FoundWords - Всегда
+29.03.2021 01:27:19.836 [main] INFO  FoundWords - найдут
+29.03.2021 01:27:19.836 [main] INFO  FoundWords - способ
+29.03.2021 01:27:19.836 [main] INFO  FoundWords - разработать
+29.03.2021 01:27:19.836 [main] INFO  FoundWords - лучший
+29.03.2021 01:27:19.836 [main] INFO  FoundWords - продукт
+29.03.2021 01:27:19.836 [main] INFO  FoundWords - даже
+29.03.2021 01:27:19.836 [main] INFO  FoundWords - в
+29.03.2021 01:27:19.836 [main] INFO  FoundWords - условиях
+29.03.2021 01:27:19.836 [main] INFO  FoundWords - стресса
+29.03.2021 01:27:19.836 [main] INFO  FoundWords - Ответственная
+29.03.2021 01:27:19.836 [main] INFO  FoundWords - и
+29.03.2021 01:27:19.836 [main] INFO  FoundWords - профессиональная
+29.03.2021 01:27:19.836 [main] INFO  FoundWords - команда
+29.03.2021 01:27:19.836 [main] INFO  FoundWords - Способны
+29.03.2021 01:27:19.836 [main] INFO  FoundWords - решать
+29.03.2021 01:27:19.836 [main] INFO  FoundWords - задачи
+29.03.2021 01:27:19.836 [main] INFO  FoundWords - широкого
+29.03.2021 01:27:19.836 [main] INFO  FoundWords - технологического
+29.03.2021 01:27:19.836 [main] INFO  FoundWords - спектра
+29.03.2021 01:27:19.836 [main] INFO  FoundWords - Уделяют
+29.03.2021 01:27:19.836 [main] INFO  FoundWords - внимание
+29.03.2021 01:27:19.836 [main] INFO  FoundWords - деталям
+29.03.2021 01:27:19.836 [main] INFO  FoundWords - Наши
+29.03.2021 01:27:19.836 [main] INFO  FoundWords - пользователи
+29.03.2021 01:27:19.836 [main] INFO  FoundWords - остались
+29.03.2021 01:27:19.836 [main] INFO  FoundWords - довольны
+29.03.2021 01:27:19.836 [main] INFO  FoundWords - приложением
+29.03.2021 01:27:19.836 [main] INFO  FoundWords - В
+29.03.2021 01:27:19.836 [main] INFO  FoundWords - графическом
+29.03.2021 01:27:19.836 [main] INFO  FoundWords - интерфейсе
+29.03.2021 01:27:19.836 [main] INFO  FoundWords - реализуются
+29.03.2021 01:27:19.836 [main] INFO  FoundWords - все
+29.03.2021 01:27:19.836 [main] INFO  FoundWords - самые
+29.03.2021 01:27:19.836 [main] INFO  FoundWords - смелые
+29.03.2021 01:27:19.836 [main] INFO  FoundWords - пожелания
+29.03.2021 01:27:19.836 [main] INFO  FoundWords - Задачи
+29.03.2021 01:27:19.836 [main] INFO  FoundWords - были
+29.03.2021 01:27:19.836 [main] INFO  FoundWords - выполнены
+29.03.2021 01:27:19.836 [main] INFO  FoundWords - гораздо
+29.03.2021 01:27:19.836 [main] INFO  FoundWords - быстрее
+29.03.2021 01:27:19.836 [main] INFO  FoundWords - запланированного
+29.03.2021 01:27:19.836 [main] INFO  FoundWords - срока
+29.03.2021 01:27:19.836 [main] INFO  FoundWords - Высоко
+29.03.2021 01:27:19.836 [main] INFO  FoundWords - квалифицированная
+29.03.2021 01:27:19.836 [main] INFO  FoundWords - команда
+29.03.2021 01:27:19.836 [main] INFO  FoundWords - С
+29.03.2021 01:27:19.836 [main] INFO  FoundWords - их
+29.03.2021 01:27:19.836 [main] INFO  FoundWords - помощью
+29.03.2021 01:27:19.836 [main] INFO  FoundWords - мы
+29.03.2021 01:27:19.836 [main] INFO  FoundWords - прошли
+29.03.2021 01:27:19.836 [main] INFO  FoundWords - инвестиционный
+29.03.2021 01:27:19.836 [main] INFO  FoundWords - раунд
+29.03.2021 01:27:19.836 [main] INFO  FoundWords - и
+29.03.2021 01:27:19.836 [main] INFO  FoundWords - выиграли
+29.03.2021 01:27:19.836 [main] INFO  FoundWords - грант
+29.03.2021 01:27:19.845 [main] INFO  FoundWords - Сколково
+29.03.2021 01:27:19.845 [main] INFO  FoundWords - Уверенное
+29.03.2021 01:27:19.845 [main] INFO  FoundWords - владение
+29.03.2021 01:27:19.845 [main] INFO  FoundWords - английским
+29.03.2021 01:27:19.845 [main] INFO  FoundWords - языком
+29.03.2021 01:27:19.845 [main] INFO  FoundWords - Мы
+29.03.2021 01:27:19.845 [main] INFO  FoundWords - полностью
+29.03.2021 01:27:19.845 [main] INFO  FoundWords - видели
+29.03.2021 01:27:19.845 [main] INFO  FoundWords - и
+29.03.2021 01:27:19.845 [main] INFO  FoundWords - контролировали
+29.03.2021 01:27:19.845 [main] INFO  FoundWords - весь
+29.03.2021 01:27:19.845 [main] INFO  FoundWords - процесс
+29.03.2021 01:27:19.845 [main] INFO  FoundWords - разработки
+29.03.2021 01:27:19.845 [main] INFO  FoundWords - Читать
+29.03.2021 01:27:19.845 [main] INFO  FoundWords - все
+29.03.2021 01:27:19.845 [main] INFO  FoundWords - Наши
+29.03.2021 01:27:19.845 [main] INFO  FoundWords - награды
+29.03.2021 01:27:19.845 [main] INFO  FoundWords - Подробнее
+29.03.2021 01:27:19.845 [main] INFO  FoundWords - Не
+29.03.2021 01:27:19.845 [main] INFO  FoundWords - знаете
+29.03.2021 01:27:19.847 [main] INFO  FoundWords - с
+29.03.2021 01:27:19.847 [main] INFO  FoundWords - чего
+29.03.2021 01:27:19.847 [main] INFO  FoundWords - начать
+29.03.2021 01:27:19.847 [main] INFO  FoundWords - Напишите
+29.03.2021 01:27:19.847 [main] INFO  FoundWords - нам
+29.03.2021 01:27:19.847 [main] INFO  FoundWords - Новости
+29.03.2021 01:27:19.847 [main] INFO  FoundWords - SimbirSoft
+29.03.2021 01:27:19.847 [main] INFO  FoundWords - и
+29.03.2021 01:27:19.847 [main] INFO  FoundWords - Oracle
+29.03.2021 01:27:19.847 [main] INFO  FoundWords - проведут
+29.03.2021 01:27:19.847 [main] INFO  FoundWords - конкурс
+29.03.2021 01:27:19.847 [main] INFO  FoundWords - «Базы
+29.03.2021 01:27:19.847 [main] INFO  FoundWords - данных»
+29.03.2021 01:27:19.847 [main] INFO  FoundWords - на
+29.03.2021 01:27:19.847 [main] INFO  FoundWords - олимпиаде
+29.03.2021 01:27:19.847 [main] INFO  FoundWords - «IT-Планета»
+29.03.2021 01:27:19.847 [main] INFO  FoundWords - 22
+29.03.2021 01:27:19.847 [main] INFO  FoundWords - 03
+29.03.2021 01:27:19.847 [main] INFO  FoundWords - 2021
+29.03.2021 01:27:19.847 [main] INFO  FoundWords - Skillbox
+29.03.2021 01:27:19.847 [main] INFO  FoundWords - и
+29.03.2021 01:27:19.847 [main] INFO  FoundWords - SimbirSoft
+29.03.2021 01:27:19.847 [main] INFO  FoundWords - выпустили
+29.03.2021 01:27:19.847 [main] INFO  FoundWords - расширенный
+29.03.2021 01:27:19.847 [main] INFO  FoundWords - курс
+29.03.2021 01:27:19.847 [main] INFO  FoundWords - по
+29.03.2021 01:27:19.847 [main] INFO  FoundWords - кросс-платформенной
+29.03.2021 01:27:19.847 [main] INFO  FoundWords - разработке
+29.03.2021 01:27:19.847 [main] INFO  FoundWords - на
+29.03.2021 01:27:19.847 [main] INFO  FoundWords - Flutter
+29.03.2021 01:27:19.847 [main] INFO  FoundWords - 18
+29.03.2021 01:27:19.847 [main] INFO  FoundWords - 03
+29.03.2021 01:27:19.847 [main] INFO  FoundWords - 2021
+29.03.2021 01:27:19.847 [main] INFO  FoundWords - SimbirSoft
+29.03.2021 01:27:19.847 [main] INFO  FoundWords - в
+29.03.2021 01:27:19.847 [main] INFO  FoundWords - сотне
+29.03.2021 01:27:19.847 [main] INFO  FoundWords - мировых
+29.03.2021 01:27:19.847 [main] INFO  FoundWords - IT-лидеров
+29.03.2021 01:27:19.847 [main] INFO  FoundWords - 12
+29.03.2021 01:27:19.847 [main] INFO  FoundWords - 03
+29.03.2021 01:27:19.847 [main] INFO  FoundWords - 2021
+29.03.2021 01:27:19.847 [main] INFO  FoundWords - Все
+29.03.2021 01:27:19.847 [main] INFO  FoundWords - новости
+29.03.2021 01:27:19.847 [main] INFO  FoundWords - С
+29.03.2021 01:27:19.847 [main] INFO  FoundWords - 2001
+29.03.2021 01:27:19.847 [main] INFO  FoundWords - года
+29.03.2021 01:27:19.847 [main] INFO  FoundWords - IT
+29.03.2021 01:27:19.847 [main] INFO  FoundWords - company
+29.03.2021 01:27:19.847 [main] INFO  FoundWords - that
+29.03.2021 01:27:19.847 [main] INFO  FoundWords - cares
+29.03.2021 01:27:19.847 [main] INFO  FoundWords - С
+29.03.2021 01:27:19.847 [main] INFO  FoundWords - 2001
+29.03.2021 01:27:19.847 [main] INFO  FoundWords - года
+29.03.2021 01:27:19.847 [main] INFO  FoundWords - СимбирСофт
+29.03.2021 01:27:19.847 [main] INFO  FoundWords - разрабатывает
+29.03.2021 01:27:19.847 [main] INFO  FoundWords - уникальные
+29.03.2021 01:27:19.847 [main] INFO  FoundWords - программные
+29.03.2021 01:27:19.847 [main] INFO  FoundWords - решения
+29.03.2021 01:27:19.847 [main] INFO  FoundWords - для
+29.03.2021 01:27:19.847 [main] INFO  FoundWords - компаний
+29.03.2021 01:27:19.847 [main] INFO  FoundWords - из
+29.03.2021 01:27:19.847 [main] INFO  FoundWords - России
+29.03.2021 01:27:19.847 [main] INFO  FoundWords - США
+29.03.2021 01:27:19.847 [main] INFO  FoundWords - и
+29.03.2021 01:27:19.847 [main] INFO  FoundWords - стран
+29.03.2021 01:27:19.847 [main] INFO  FoundWords - Европы
+29.03.2021 01:27:19.847 [main] INFO  FoundWords - 8-800-200-9924
+29.03.2021 01:27:19.847 [main] INFO  FoundWords - REQUEST
+29.03.2021 01:27:19.847 [main] INFO  FoundWords - SIMBIRSOFT
+29.03.2021 01:27:19.847 [main] INFO  FoundWords - COM
+29.03.2021 01:27:19.847 [main] INFO  FoundWords - SimbirSoft
+29.03.2021 01:27:19.847 [main] INFO  FoundWords - проспект
+29.03.2021 01:27:19.847 [main] INFO  FoundWords - Нариманова
+29.03.2021 01:27:19.847 [main] INFO  FoundWords - дом
+29.03.2021 01:27:19.847 [main] INFO  FoundWords - 1
+29.03.2021 01:27:19.847 [main] INFO  FoundWords - строение
+29.03.2021 01:27:19.847 [main] INFO  FoundWords - 2
+29.03.2021 01:27:19.847 [main] INFO  FoundWords - 3-й
+29.03.2021 01:27:19.847 [main] INFO  FoundWords - этаж
+29.03.2021 01:27:19.847 [main] INFO  FoundWords - главный
+29.03.2021 01:27:19.847 [main] INFO  FoundWords - офис
+29.03.2021 01:27:19.847 [main] INFO  FoundWords - Решения
+29.03.2021 01:27:19.847 [main] INFO  FoundWords - Для
+29.03.2021 01:27:19.847 [main] INFO  FoundWords - банков
+29.03.2021 01:27:19.847 [main] INFO  FoundWords - Для
+29.03.2021 01:27:19.847 [main] INFO  FoundWords - страховых
+29.03.2021 01:27:19.847 [main] INFO  FoundWords - Оценка
+29.03.2021 01:27:19.847 [main] INFO  FoundWords - IT-проектов
+29.03.2021 01:27:19.847 [main] INFO  FoundWords - Data
+29.03.2021 01:27:19.847 [main] INFO  FoundWords - Science
+29.03.2021 01:27:19.847 [main] INFO  FoundWords - Автоматизация
+29.03.2021 01:27:19.847 [main] INFO  FoundWords - бизнеса
+29.03.2021 01:27:19.847 [main] INFO  FoundWords - ShopChat
+29.03.2021 01:27:19.847 [main] INFO  FoundWords - Food
+29.03.2021 01:27:19.847 [main] INFO  FoundWords - Tech
+29.03.2021 01:27:19.847 [main] INFO  FoundWords - Для
+29.03.2021 01:27:19.847 [main] INFO  FoundWords - медицинской
+29.03.2021 01:27:19.847 [main] INFO  FoundWords - сферы
+29.03.2021 01:27:19.847 [main] INFO  FoundWords - Для
+29.03.2021 01:27:19.847 [main] INFO  FoundWords - промышленности
+29.03.2021 01:27:19.847 [main] INFO  FoundWords - Услуги
+29.03.2021 01:27:19.847 [main] INFO  FoundWords - IT-продукт
+29.03.2021 01:27:19.847 [main] INFO  FoundWords - под
+29.03.2021 01:27:19.847 [main] INFO  FoundWords - ключ
+29.03.2021 01:27:19.847 [main] INFO  FoundWords - Аутсорсинг
+29.03.2021 01:27:19.847 [main] INFO  FoundWords - Модернизация
+29.03.2021 01:27:19.847 [main] INFO  FoundWords - ПО
+29.03.2021 01:27:19.847 [main] INFO  FoundWords - «Спасти»
+29.03.2021 01:27:19.847 [main] INFO  FoundWords - продукт
+29.03.2021 01:27:19.847 [main] INFO  FoundWords - Обеспечение
+29.03.2021 01:27:19.847 [main] INFO  FoundWords - качества
+29.03.2021 01:27:19.847 [main] INFO  FoundWords - Техподдержка
+29.03.2021 01:27:19.847 [main] INFO  FoundWords - production
+29.03.2021 01:27:19.847 [main] INFO  FoundWords - и
+29.03.2021 01:27:19.847 [main] INFO  FoundWords - разработки
+29.03.2021 01:27:19.847 [main] INFO  FoundWords - Jira
+29.03.2021 01:27:19.847 [main] INFO  FoundWords - Service
+29.03.2021 01:27:19.847 [main] INFO  FoundWords - IT-архитектура
+29.03.2021 01:27:19.847 [main] INFO  FoundWords - Внедрение
+29.03.2021 01:27:19.847 [main] INFO  FoundWords - Битрикс24
+29.03.2021 01:27:19.847 [main] INFO  FoundWords - Портфолио
+29.03.2021 01:27:19.847 [main] INFO  FoundWords - Технологии
+29.03.2021 01:27:19.847 [main] INFO  FoundWords - Отрасли
+29.03.2021 01:27:19.855 [main] INFO  FoundWords - О
+29.03.2021 01:27:19.855 [main] INFO  FoundWords - нас
+29.03.2021 01:27:19.855 [main] INFO  FoundWords - О
+29.03.2021 01:27:19.855 [main] INFO  FoundWords - компании
+29.03.2021 01:27:19.855 [main] INFO  FoundWords - Награды
+29.03.2021 01:27:19.855 [main] INFO  FoundWords - Клиенты
+29.03.2021 01:27:19.855 [main] INFO  FoundWords - Наши
+29.03.2021 01:27:19.855 [main] INFO  FoundWords - процессы
+29.03.2021 01:27:19.855 [main] INFO  FoundWords - Новости
+29.03.2021 01:27:19.855 [main] INFO  FoundWords - Менеджмент
+29.03.2021 01:27:19.855 [main] INFO  FoundWords - Контакты
+29.03.2021 01:27:19.855 [main] INFO  FoundWords - Социальная
+29.03.2021 01:27:19.855 [main] INFO  FoundWords - ответственность
+29.03.2021 01:27:19.855 [main] INFO  FoundWords - Блог
+29.03.2021 01:27:19.855 [main] INFO  FoundWords - Технологии
+29.03.2021 01:27:19.855 [main] INFO  FoundWords - Android
+29.03.2021 01:27:19.855 [main] INFO  FoundWords - Bitrix
+29.03.2021 01:27:19.855 [main] INFO  FoundWords - C#/
+29.03.2021 01:27:19.855 [main] INFO  FoundWords - NET
+29.03.2021 01:27:19.855 [main] INFO  FoundWords - C++
+29.03.2021 01:27:19.855 [main] INFO  FoundWords - DevOps
+29.03.2021 01:27:19.855 [main] INFO  FoundWords - Go
+29.03.2021 01:27:19.855 [main] INFO  FoundWords - iOS
+29.03.2021 01:27:19.855 [main] INFO  FoundWords - Java
+29.03.2021 01:27:19.855 [main] INFO  FoundWords - JavaScript
+29.03.2021 01:27:19.855 [main] INFO  FoundWords - PHP
+29.03.2021 01:27:19.855 [main] INFO  FoundWords - Python
+29.03.2021 01:27:19.855 [main] INFO  FoundWords - QA
+29.03.2021 01:27:19.855 [main] INFO  FoundWords - SDET
+29.03.2021 01:27:19.855 [main] INFO  FoundWords - ©
+29.03.2021 01:27:19.855 [main] INFO  FoundWords - 2001
+29.03.2021 01:27:19.855 [main] INFO  FoundWords - -
+29.03.2021 01:27:19.855 [main] INFO  FoundWords - 2021
+29.03.2021 01:27:19.855 [main] INFO  FoundWords - SimbirSoft
+29.03.2021 01:27:19.857 [main] INFO  FoundWords - ISO
+29.03.2021 01:27:19.857 [main] INFO  FoundWords - 9001
+29.03.2021 01:27:19.857 [main] INFO  FoundWords - 2015
+29.03.2021 01:27:20.019 [main] INFO  FoundWords - Unique words usage statistics for page simbirsoft.com:
+29.03.2021 01:27:20.019 [main] INFO  FoundWords - android - 1
+29.03.2021 01:27:20.019 [main] INFO  FoundWords - bitrix - 1
+29.03.2021 01:27:20.019 [main] INFO  FoundWords - c - 2
+29.03.2021 01:27:20.019 [main] INFO  FoundWords - cares - 2
+29.03.2021 01:27:20.019 [main] INFO  FoundWords - com - 2
+29.03.2021 01:27:20.019 [main] INFO  FoundWords - company - 2
+29.03.2021 01:27:20.019 [main] INFO  FoundWords - cookie - 1
+29.03.2021 01:27:20.019 [main] INFO  FoundWords - data - 2
+29.03.2021 01:27:20.019 [main] INFO  FoundWords - devops - 1
+29.03.2021 01:27:20.019 [main] INFO  FoundWords - flutter - 1
+29.03.2021 01:27:20.019 [main] INFO  FoundWords - food - 2
+29.03.2021 01:27:20.019 [main] INFO  FoundWords - go - 1
+29.03.2021 01:27:20.019 [main] INFO  FoundWords - ios - 1
+29.03.2021 01:27:20.019 [main] INFO  FoundWords - iso - 1
+29.03.2021 01:27:20.019 [main] INFO  FoundWords - it - 3
+29.03.2021 01:27:20.019 [main] INFO  FoundWords - it-архитектура - 2
+29.03.2021 01:27:20.019 [main] INFO  FoundWords - it-компании - 1
+29.03.2021 01:27:20.019 [main] INFO  FoundWords - it-лидеров - 1
+29.03.2021 01:27:20.019 [main] INFO  FoundWords - it-планета - 1
+29.03.2021 01:27:20.019 [main] INFO  FoundWords - it-потребностей - 1
+29.03.2021 01:27:20.019 [main] INFO  FoundWords - it-продукт - 2
+29.03.2021 01:27:20.019 [main] INFO  FoundWords - it-продукта - 1
+29.03.2021 01:27:20.019 [main] INFO  FoundWords - it-проектов - 2
+29.03.2021 01:27:20.019 [main] INFO  FoundWords - it-решение - 1
+29.03.2021 01:27:20.019 [main] INFO  FoundWords - it-решений - 1
+29.03.2021 01:27:20.019 [main] INFO  FoundWords - it-рынка - 1
+29.03.2021 01:27:20.019 [main] INFO  FoundWords - itаутсорсинга - 1
+29.03.2021 01:27:20.019 [main] INFO  FoundWords - itпродукт - 1
+29.03.2021 01:27:20.027 [main] INFO  FoundWords - itсистем - 1
+29.03.2021 01:27:20.027 [main] INFO  FoundWords - java - 1
+29.03.2021 01:27:20.027 [main] INFO  FoundWords - javascript - 1
+29.03.2021 01:27:20.027 [main] INFO  FoundWords - jira - 2
+29.03.2021 01:27:20.027 [main] INFO  FoundWords - net - 1
+29.03.2021 01:27:20.027 [main] INFO  FoundWords - oracle - 1
+29.03.2021 01:27:20.027 [main] INFO  FoundWords - php - 1
+29.03.2021 01:27:20.027 [main] INFO  FoundWords - production - 3
+29.03.2021 01:27:20.027 [main] INFO  FoundWords - python - 1
+29.03.2021 01:27:20.027 [main] INFO  FoundWords - qa - 1
+29.03.2021 01:27:20.027 [main] INFO  FoundWords - request - 1
+29.03.2021 01:27:20.027 [main] INFO  FoundWords - science - 2
+29.03.2021 01:27:20.027 [main] INFO  FoundWords - sdet - 1
+29.03.2021 01:27:20.027 [main] INFO  FoundWords - service - 2
+29.03.2021 01:27:20.027 [main] INFO  FoundWords - shopchat - 2
+29.03.2021 01:27:20.027 [main] INFO  FoundWords - simbirsoft - 9
+29.03.2021 01:27:20.027 [main] INFO  FoundWords - skillbox - 1
+29.03.2021 01:27:20.027 [main] INFO  FoundWords - tech - 2
+29.03.2021 01:27:20.027 [main] INFO  FoundWords - that - 2
+29.03.2021 01:27:20.027 [main] INFO  FoundWords - time-to-market - 1
+29.03.2021 01:27:20.027 [main] INFO  FoundWords - www - 1
+29.03.2021 01:27:20.027 [main] INFO  FoundWords - а - 1
+29.03.2021 01:27:20.027 [main] INFO  FoundWords - автоматизация - 2
+29.03.2021 01:27:20.027 [main] INFO  FoundWords - агентства - 1
+29.03.2021 01:27:20.027 [main] INFO  FoundWords - адаптер - 1
+29.03.2021 01:27:20.027 [main] INFO  FoundWords - адаптировали - 1
+29.03.2021 01:27:20.027 [main] INFO  FoundWords - адаптировались - 1
+29.03.2021 01:27:20.027 [main] INFO  FoundWords - альтернативные - 1
+29.03.2021 01:27:20.029 [main] INFO  FoundWords - анализу - 2
+29.03.2021 01:27:20.029 [main] INFO  FoundWords - аналитике - 1
+29.03.2021 01:27:20.029 [main] INFO  FoundWords - аналитики - 1
+29.03.2021 01:27:20.029 [main] INFO  FoundWords - английским - 1
+29.03.2021 01:27:20.029 [main] INFO  FoundWords - архитектуру - 1
+29.03.2021 01:27:20.029 [main] INFO  FoundWords - аутсорсинг - 2
+29.03.2021 01:27:20.029 [main] INFO  FoundWords - базы - 1
+29.03.2021 01:27:20.029 [main] INFO  FoundWords - банков - 2
+29.03.2021 01:27:20.029 [main] INFO  FoundWords - бизнес - 2
+29.03.2021 01:27:20.029 [main] INFO  FoundWords - бизнес-процессы - 1
+29.03.2021 01:27:20.029 [main] INFO  FoundWords - бизнес-цели - 1
+29.03.2021 01:27:20.029 [main] INFO  FoundWords - бизнеса - 5
+29.03.2021 01:27:20.029 [main] INFO  FoundWords - битрикс - 2
+29.03.2021 01:27:20.029 [main] INFO  FoundWords - благодаря - 1
+29.03.2021 01:27:20.029 [main] INFO  FoundWords - блестящие - 1
+29.03.2021 01:27:20.029 [main] INFO  FoundWords - блог - 2
+29.03.2021 01:27:20.029 [main] INFO  FoundWords - более - 1
+29.03.2021 01:27:20.029 [main] INFO  FoundWords - больше - 1
+29.03.2021 01:27:20.029 [main] INFO  FoundWords - будущее - 1
+29.03.2021 01:27:20.029 [main] INFO  FoundWords - буквально - 2
+29.03.2021 01:27:20.029 [main] INFO  FoundWords - бы - 1
+29.03.2021 01:27:20.029 [main] INFO  FoundWords - был - 2
+29.03.2021 01:27:20.029 [main] INFO  FoundWords - была - 1
+29.03.2021 01:27:20.029 [main] INFO  FoundWords - были - 3
+29.03.2021 01:27:20.029 [main] INFO  FoundWords - быстрее - 1
+29.03.2021 01:27:20.029 [main] INFO  FoundWords - быстро - 6
+29.03.2021 01:27:20.029 [main] INFO  FoundWords - быть - 1
+29.03.2021 01:27:20.029 [main] INFO  FoundWords - бюджета - 1
+29.03.2021 01:27:20.029 [main] INFO  FoundWords - в - 36
+29.03.2021 01:27:20.029 [main] INFO  FoundWords - вакансии - 1
+29.03.2021 01:27:20.029 [main] INFO  FoundWords - варианты - 2
+29.03.2021 01:27:20.029 [main] INFO  FoundWords - ваш - 1
+29.03.2021 01:27:20.029 [main] INFO  FoundWords - вашего - 3
+29.03.2021 01:27:20.029 [main] INFO  FoundWords - вашей - 1
+29.03.2021 01:27:20.029 [main] INFO  FoundWords - ваших - 2
+29.03.2021 01:27:20.029 [main] INFO  FoundWords - ведения - 1
+29.03.2021 01:27:20.029 [main] INFO  FoundWords - ведущую - 1
+29.03.2021 01:27:20.029 [main] INFO  FoundWords - версию - 1
+29.03.2021 01:27:20.029 [main] INFO  FoundWords - версия - 1
+29.03.2021 01:27:20.029 [main] INFO  FoundWords - весь - 1
+29.03.2021 01:27:20.029 [main] INFO  FoundWords - вещей - 1
+29.03.2021 01:27:20.029 [main] INFO  FoundWords - взаимовыгодному - 1
+29.03.2021 01:27:20.029 [main] INFO  FoundWords - взяли - 1
+29.03.2021 01:27:20.029 [main] INFO  FoundWords - видели - 1
+29.03.2021 01:27:20.029 [main] INFO  FoundWords - видите - 2
+29.03.2021 01:27:20.029 [main] INFO  FoundWords - вклад - 1
+29.03.2021 01:27:20.029 [main] INFO  FoundWords - вкладом - 1
+29.03.2021 01:27:20.029 [main] INFO  FoundWords - включились - 1
+29.03.2021 01:27:20.029 [main] INFO  FoundWords - владение - 1
+29.03.2021 01:27:20.029 [main] INFO  FoundWords - вложения - 1
+29.03.2021 01:27:20.029 [main] INFO  FoundWords - внедрение - 2
+29.03.2021 01:27:20.029 [main] INFO  FoundWords - внедрения - 1
+29.03.2021 01:27:20.029 [main] INFO  FoundWords - внес - 1
+29.03.2021 01:27:20.029 [main] INFO  FoundWords - внесли - 1
+29.03.2021 01:27:20.029 [main] INFO  FoundWords - вникнуть - 1
+29.03.2021 01:27:20.029 [main] INFO  FoundWords - внимание - 1
+29.03.2021 01:27:20.029 [main] INFO  FoundWords - вовлеченность - 1
+29.03.2021 01:27:20.029 [main] INFO  FoundWords - вовремя - 2
+29.03.2021 01:27:20.029 [main] INFO  FoundWords - возможное - 1
+29.03.2021 01:27:20.029 [main] INFO  FoundWords - возможность - 1
+29.03.2021 01:27:20.029 [main] INFO  FoundWords - восстановим - 1
+29.03.2021 01:27:20.029 [main] INFO  FoundWords - впечатлили - 1
+29.03.2021 01:27:20.029 [main] INFO  FoundWords - все - 10
+29.03.2021 01:27:20.029 [main] INFO  FoundWords - всегда - 12
+29.03.2021 01:27:20.029 [main] INFO  FoundWords - всем - 1
+29.03.2021 01:27:20.029 [main] INFO  FoundWords - всех - 2
+29.03.2021 01:27:20.029 [main] INFO  FoundWords - вся - 1
+29.03.2021 01:27:20.029 [main] INFO  FoundWords - вы - 7
+29.03.2021 01:27:20.029 [main] INFO  FoundWords - выбрали - 1
+29.03.2021 01:27:20.029 [main] INFO  FoundWords - выгодно - 1
+29.03.2021 01:27:20.029 [main] INFO  FoundWords - выгоду - 1
+29.03.2021 01:27:20.029 [main] INFO  FoundWords - выделенный - 1
+29.03.2021 01:27:20.029 [main] INFO  FoundWords - выиграли - 1
+29.03.2021 01:27:20.029 [main] INFO  FoundWords - выполнение - 1
+29.03.2021 01:27:20.029 [main] INFO  FoundWords - выполнению - 1
+29.03.2021 01:27:20.029 [main] INFO  FoundWords - выполнено - 1
+29.03.2021 01:27:20.029 [main] INFO  FoundWords - выполнены - 2
+29.03.2021 01:27:20.029 [main] INFO  FoundWords - выполнили - 2
+29.03.2021 01:27:20.029 [main] INFO  FoundWords - выполняют - 2
+29.03.2021 01:27:20.029 [main] INFO  FoundWords - выполняются - 1
+29.03.2021 01:27:20.029 [main] INFO  FoundWords - выпустили - 1
+29.03.2021 01:27:20.029 [main] INFO  FoundWords - выпустим - 1
+29.03.2021 01:27:20.029 [main] INFO  FoundWords - высокая - 1
+29.03.2021 01:27:20.029 [main] INFO  FoundWords - высокие - 2
+29.03.2021 01:27:20.029 [main] INFO  FoundWords - высокий - 1
+29.03.2021 01:27:20.029 [main] INFO  FoundWords - высоким - 1
+29.03.2021 01:27:20.029 [main] INFO  FoundWords - высоко - 1
+29.03.2021 01:27:20.029 [main] INFO  FoundWords - высокого - 1
+29.03.2021 01:27:20.029 [main] INFO  FoundWords - высоком - 2
+29.03.2021 01:27:20.029 [main] INFO  FoundWords - выстраиваем - 1
+29.03.2021 01:27:20.029 [main] INFO  FoundWords - выхода - 1
+29.03.2021 01:27:20.029 [main] INFO  FoundWords - выявим - 1
+29.03.2021 01:27:20.029 [main] INFO  FoundWords - где - 2
+29.03.2021 01:27:20.029 [main] INFO  FoundWords - гибкий - 1
+29.03.2021 01:27:20.029 [main] INFO  FoundWords - главный - 1
+29.03.2021 01:27:20.029 [main] INFO  FoundWords - года - 4
+29.03.2021 01:27:20.029 [main] INFO  FoundWords - гораздо - 1
+29.03.2021 01:27:20.029 [main] INFO  FoundWords - горы - 1
+29.03.2021 01:27:20.029 [main] INFO  FoundWords - готов - 1
+29.03.2021 01:27:20.029 [main] INFO  FoundWords - готова - 1
+29.03.2021 01:27:20.029 [main] INFO  FoundWords - готовы - 2
+29.03.2021 01:27:20.029 [main] INFO  FoundWords - готовый - 1
+29.03.2021 01:27:20.029 [main] INFO  FoundWords - грант - 1
+29.03.2021 01:27:20.029 [main] INFO  FoundWords - графическом - 1
+29.03.2021 01:27:20.029 [main] INFO  FoundWords - дает - 1
+29.03.2021 01:27:20.029 [main] INFO  FoundWords - даже - 2
+29.03.2021 01:27:20.029 [main] INFO  FoundWords - дала - 1
+29.03.2021 01:27:20.029 [main] INFO  FoundWords - данных - 2
+29.03.2021 01:27:20.029 [main] INFO  FoundWords - дают - 1
+29.03.2021 01:27:20.029 [main] INFO  FoundWords - два - 2
+29.03.2021 01:27:20.029 [main] INFO  FoundWords - действий - 1
+29.03.2021 01:27:20.029 [main] INFO  FoundWords - делают - 1
+29.03.2021 01:27:20.029 [main] INFO  FoundWords - делу - 1
+29.03.2021 01:27:20.029 [main] INFO  FoundWords - демонстрационные - 1
+29.03.2021 01:27:20.029 [main] INFO  FoundWords - демонстрация - 1
+29.03.2021 01:27:20.029 [main] INFO  FoundWords - демонстрировал - 1
+29.03.2021 01:27:20.029 [main] INFO  FoundWords - деньги - 1
+29.03.2021 01:27:20.037 [main] INFO  FoundWords - десятки - 1
+29.03.2021 01:27:20.037 [main] INFO  FoundWords - деталям - 1
+29.03.2021 01:27:20.037 [main] INFO  FoundWords - деталях - 1
+29.03.2021 01:27:20.037 [main] INFO  FoundWords - дизайна - 1
+29.03.2021 01:27:20.037 [main] INFO  FoundWords - дизайну - 1
+29.03.2021 01:27:20.037 [main] INFO  FoundWords - для - 17
+29.03.2021 01:27:20.037 [main] INFO  FoundWords - доброжелательные - 1
+29.03.2021 01:27:20.037 [main] INFO  FoundWords - доверяют - 1
+29.03.2021 01:27:20.037 [main] INFO  FoundWords - доволен - 1
+29.03.2021 01:27:20.037 [main] INFO  FoundWords - довольны - 4
+29.03.2021 01:27:20.037 [main] INFO  FoundWords - договора - 1
+29.03.2021 01:27:20.037 [main] INFO  FoundWords - долгосрочную - 1
+29.03.2021 01:27:20.037 [main] INFO  FoundWords - дом - 1
+29.03.2021 01:27:20.037 [main] INFO  FoundWords - дополнительных - 1
+29.03.2021 01:27:20.037 [main] INFO  FoundWords - достигаете - 1
+29.03.2021 01:27:20.037 [main] INFO  FoundWords - достичь - 1
+29.03.2021 01:27:20.037 [main] INFO  FoundWords - достойный - 1
+29.03.2021 01:27:20.037 [main] INFO  FoundWords - другая - 1
+29.03.2021 01:27:20.037 [main] INFO  FoundWords - другое - 1
+29.03.2021 01:27:20.037 [main] INFO  FoundWords - душой - 1
+29.03.2021 01:27:20.037 [main] INFO  FoundWords - европы - 1
+29.03.2021 01:27:20.037 [main] INFO  FoundWords - единого - 1
+29.03.2021 01:27:20.037 [main] INFO  FoundWords - ежедневная - 1
+29.03.2021 01:27:20.037 [main] INFO  FoundWords - еженедельно - 1
+29.03.2021 01:27:20.037 [main] INFO  FoundWords - есть - 1
+29.03.2021 01:27:20.037 [main] INFO  FoundWords - за - 1
+29.03.2021 01:27:20.037 [main] INFO  FoundWords - заботимся - 1
+29.03.2021 01:27:20.037 [main] INFO  FoundWords - заботятся - 1
+29.03.2021 01:27:20.037 [main] INFO  FoundWords - завершили - 1
+29.03.2021 01:27:20.039 [main] INFO  FoundWords - задач - 6
+29.03.2021 01:27:20.039 [main] INFO  FoundWords - задаче - 1
+29.03.2021 01:27:20.039 [main] INFO  FoundWords - задачи - 6
+29.03.2021 01:27:20.039 [main] INFO  FoundWords - заказ - 3
+29.03.2021 01:27:20.039 [main] INFO  FoundWords - заказчика - 2
+29.03.2021 01:27:20.039 [main] INFO  FoundWords - заключения - 1
+29.03.2021 01:27:20.039 [main] INFO  FoundWords - занимаемся - 1
+29.03.2021 01:27:20.039 [main] INFO  FoundWords - запланированного - 2
+29.03.2021 01:27:20.039 [main] INFO  FoundWords - запросы - 1
+29.03.2021 01:27:20.039 [main] INFO  FoundWords - знаете - 1
+29.03.2021 01:27:20.039 [main] INFO  FoundWords - знаю - 1
+29.03.2021 01:27:20.039 [main] INFO  FoundWords - и - 44
+29.03.2021 01:27:20.039 [main] INFO  FoundWords - идеи - 1
+29.03.2021 01:27:20.039 [main] INFO  FoundWords - из - 1
+29.03.2021 01:27:20.039 [main] INFO  FoundWords - им - 1
+29.03.2021 01:27:20.039 [main] INFO  FoundWords - инвестиций - 1
+29.03.2021 01:27:20.039 [main] INFO  FoundWords - инвестиционный - 1
+29.03.2021 01:27:20.039 [main] INFO  FoundWords - инициативность - 1
+29.03.2021 01:27:20.039 [main] INFO  FoundWords - инновационные - 1
+29.03.2021 01:27:20.039 [main] INFO  FoundWords - интеграцию - 1
+29.03.2021 01:27:20.039 [main] INFO  FoundWords - интересные - 1
+29.03.2021 01:27:20.039 [main] INFO  FoundWords - интернета - 1
+29.03.2021 01:27:20.039 [main] INFO  FoundWords - интерфейсе - 1
+29.03.2021 01:27:20.039 [main] INFO  FoundWords - информация - 1
+29.03.2021 01:27:20.039 [main] INFO  FoundWords - исключительно - 1
+29.03.2021 01:27:20.039 [main] INFO  FoundWords - искренне - 1
+29.03.2021 01:27:20.039 [main] INFO  FoundWords - использование - 1
+29.03.2021 01:27:20.039 [main] INFO  FoundWords - использует - 1
+29.03.2021 01:27:20.039 [main] INFO  FoundWords - их - 7
+29.03.2021 01:27:20.039 [main] INFO  FoundWords - к - 8
+29.03.2021 01:27:20.039 [main] INFO  FoundWords - как - 1
+29.03.2021 01:27:20.039 [main] INFO  FoundWords - какими - 1
+29.03.2021 01:27:20.039 [main] INFO  FoundWords - какой - 2
+29.03.2021 01:27:20.039 [main] INFO  FoundWords - карьера - 1
+29.03.2021 01:27:20.039 [main] INFO  FoundWords - карьеры - 1
+29.03.2021 01:27:20.039 [main] INFO  FoundWords - качества - 5
+29.03.2021 01:27:20.039 [main] INFO  FoundWords - качественно - 2
+29.03.2021 01:27:20.039 [main] INFO  FoundWords - качественного - 2
+29.03.2021 01:27:20.039 [main] INFO  FoundWords - качественные - 2
+29.03.2021 01:27:20.039 [main] INFO  FoundWords - качество - 1
+29.03.2021 01:27:20.039 [main] INFO  FoundWords - качеству - 1
+29.03.2021 01:27:20.039 [main] INFO  FoundWords - квалифицированная - 1
+29.03.2021 01:27:20.039 [main] INFO  FoundWords - клиент - 1
+29.03.2021 01:27:20.039 [main] INFO  FoundWords - клиента - 1
+29.03.2021 01:27:20.039 [main] INFO  FoundWords - клиентоориентированной - 1
+29.03.2021 01:27:20.039 [main] INFO  FoundWords - клиенты - 2
+29.03.2021 01:27:20.039 [main] INFO  FoundWords - ключ - 3
+29.03.2021 01:27:20.039 [main] INFO  FoundWords - команда - 5
+29.03.2021 01:27:20.039 [main] INFO  FoundWords - команду - 1
+29.03.2021 01:27:20.039 [main] INFO  FoundWords - команды - 4
+29.03.2021 01:27:20.039 [main] INFO  FoundWords - компании - 3
+29.03.2021 01:27:20.039 [main] INFO  FoundWords - компаний - 1
+29.03.2021 01:27:20.039 [main] INFO  FoundWords - компания - 1
+29.03.2021 01:27:20.039 [main] INFO  FoundWords - компетентные - 1
+29.03.2021 01:27:20.039 [main] INFO  FoundWords - комплексных - 1
+29.03.2021 01:27:20.039 [main] INFO  FoundWords - компоненты - 1
+29.03.2021 01:27:20.039 [main] INFO  FoundWords - комфортные - 1
+29.03.2021 01:27:20.039 [main] INFO  FoundWords - конкурс - 1
+29.03.2021 01:27:20.039 [main] INFO  FoundWords - контакты - 2
+29.03.2021 01:27:20.039 [main] INFO  FoundWords - контролировали - 1
+29.03.2021 01:27:20.039 [main] INFO  FoundWords - контролю - 1
+29.03.2021 01:27:20.039 [main] INFO  FoundWords - короткие - 1
+29.03.2021 01:27:20.039 [main] INFO  FoundWords - корректное - 1
+29.03.2021 01:27:20.039 [main] INFO  FoundWords - которые - 3
+29.03.2021 01:27:20.039 [main] INFO  FoundWords - которым - 1
+29.03.2021 01:27:20.039 [main] INFO  FoundWords - креативно - 1
+29.03.2021 01:27:20.039 [main] INFO  FoundWords - креативные - 1
+29.03.2021 01:27:20.039 [main] INFO  FoundWords - кросс-платформенной - 1
+29.03.2021 01:27:20.039 [main] INFO  FoundWords - крупных - 1
+29.03.2021 01:27:20.039 [main] INFO  FoundWords - курс - 1
+29.03.2021 01:27:20.039 [main] INFO  FoundWords - курсе - 1
+29.03.2021 01:27:20.039 [main] INFO  FoundWords - лидеры - 1
+29.03.2021 01:27:20.039 [main] INFO  FoundWords - логики - 1
+29.03.2021 01:27:20.039 [main] INFO  FoundWords - лучший - 1
+29.03.2021 01:27:20.039 [main] INFO  FoundWords - любые - 1
+29.03.2021 01:27:20.039 [main] INFO  FoundWords - максимально - 1
+29.03.2021 01:27:20.039 [main] INFO  FoundWords - максимальную - 1
+29.03.2021 01:27:20.039 [main] INFO  FoundWords - максимум - 1
+29.03.2021 01:27:20.039 [main] INFO  FoundWords - медицинской - 2
+29.03.2021 01:27:20.039 [main] INFO  FoundWords - менеджер - 1
+29.03.2021 01:27:20.039 [main] INFO  FoundWords - менеджмент - 2
+29.03.2021 01:27:20.039 [main] INFO  FoundWords - менеджментом - 1
+29.03.2021 01:27:20.039 [main] INFO  FoundWords - месяц - 1
+29.03.2021 01:27:20.039 [main] INFO  FoundWords - месяца - 2
+29.03.2021 01:27:20.039 [main] INFO  FoundWords - месяцев - 1
+29.03.2021 01:27:20.039 [main] INFO  FoundWords - минимальные - 1
+29.03.2021 01:27:20.039 [main] INFO  FoundWords - мирового - 1
+29.03.2021 01:27:20.039 [main] INFO  FoundWords - мировых - 1
+29.03.2021 01:27:20.039 [main] INFO  FoundWords - мобильное - 1
+29.03.2021 01:27:20.039 [main] INFO  FoundWords - мобильной - 1
+29.03.2021 01:27:20.039 [main] INFO  FoundWords - мобильных - 1
+29.03.2021 01:27:20.039 [main] INFO  FoundWords - модернизация - 2
+29.03.2021 01:27:20.039 [main] INFO  FoundWords - можем - 2
+29.03.2021 01:27:20.039 [main] INFO  FoundWords - можно - 1
+29.03.2021 01:27:20.039 [main] INFO  FoundWords - моментально - 1
+29.03.2021 01:27:20.039 [main] INFO  FoundWords - мы - 24
+29.03.2021 01:27:20.039 [main] INFO  FoundWords - мысли - 1
+29.03.2021 01:27:20.039 [main] INFO  FoundWords - мыслят - 1
+29.03.2021 01:27:20.039 [main] INFO  FoundWords - на - 20
+29.03.2021 01:27:20.039 [main] INFO  FoundWords - награды - 3
+29.03.2021 01:27:20.039 [main] INFO  FoundWords - нагрузку - 1
+29.03.2021 01:27:20.039 [main] INFO  FoundWords - надежную - 1
+29.03.2021 01:27:20.039 [main] INFO  FoundWords - наилучшим - 1
+29.03.2021 01:27:20.039 [main] INFO  FoundWords - найдут - 1
+29.03.2021 01:27:20.039 [main] INFO  FoundWords - найти - 1
+29.03.2021 01:27:20.039 [main] INFO  FoundWords - наличии - 1
+29.03.2021 01:27:20.039 [main] INFO  FoundWords - нам - 9
+29.03.2021 01:27:20.039 [main] INFO  FoundWords - нами - 1
+29.03.2021 01:27:20.039 [main] INFO  FoundWords - напишите - 4
+29.03.2021 01:27:20.039 [main] INFO  FoundWords - нариманова - 1
+29.03.2021 01:27:20.039 [main] INFO  FoundWords - нас - 5
+29.03.2021 01:27:20.039 [main] INFO  FoundWords - находят - 1
+29.03.2021 01:27:20.039 [main] INFO  FoundWords - нацелены - 1
+29.03.2021 01:27:20.039 [main] INFO  FoundWords - начала - 1
+29.03.2021 01:27:20.039 [main] INFO  FoundWords - начало - 1
+29.03.2021 01:27:20.039 [main] INFO  FoundWords - начать - 1
+29.03.2021 01:27:20.039 [main] INFO  FoundWords - наш - 3
+29.03.2021 01:27:20.039 [main] INFO  FoundWords - нашего - 4
+29.03.2021 01:27:20.039 [main] INFO  FoundWords - нашей - 1
+29.03.2021 01:27:20.039 [main] INFO  FoundWords - наши - 14
+29.03.2021 01:27:20.039 [main] INFO  FoundWords - нашим - 3
+29.03.2021 01:27:20.039 [main] INFO  FoundWords - не - 4
+29.03.2021 01:27:20.039 [main] INFO  FoundWords - недели - 1
+29.03.2021 01:27:20.039 [main] INFO  FoundWords - недель - 1
+29.03.2021 01:27:20.039 [main] INFO  FoundWords - незнакомую - 1
+29.03.2021 01:27:20.039 [main] INFO  FoundWords - необходимая - 1
+29.03.2021 01:27:20.039 [main] INFO  FoundWords - необходимую - 1
+29.03.2021 01:27:20.039 [main] INFO  FoundWords - необходимых - 1
+29.03.2021 01:27:20.039 [main] INFO  FoundWords - нескольких - 1
+29.03.2021 01:27:20.047 [main] INFO  FoundWords - несколько - 3
+29.03.2021 01:27:20.048 [main] INFO  FoundWords - нет - 1
+29.03.2021 01:27:20.048 [main] INFO  FoundWords - нетривиальные - 1
+29.03.2021 01:27:20.048 [main] INFO  FoundWords - неудачной - 1
+29.03.2021 01:27:20.048 [main] INFO  FoundWords - ни - 1
+29.03.2021 01:27:20.048 [main] INFO  FoundWords - ними - 2
+29.03.2021 01:27:20.048 [main] INFO  FoundWords - новости - 4
+29.03.2021 01:27:20.048 [main] INFO  FoundWords - нужное - 1
+29.03.2021 01:27:20.048 [main] INFO  FoundWords - о - 7
+29.03.2021 01:27:20.048 [main] INFO  FoundWords - обеспечение - 2
+29.03.2021 01:27:20.048 [main] INFO  FoundWords - обеспечению - 1
+29.03.2021 01:27:20.048 [main] INFO  FoundWords - обеспечения - 3
+29.03.2021 01:27:20.048 [main] INFO  FoundWords - обеспечить - 1
+29.03.2021 01:27:20.048 [main] INFO  FoundWords - обещанные - 1
+29.03.2021 01:27:20.048 [main] INFO  FoundWords - область - 1
+29.03.2021 01:27:20.048 [main] INFO  FoundWords - образом - 1
+29.03.2021 01:27:20.048 [main] INFO  FoundWords - обсуждать - 1
+29.03.2021 01:27:20.048 [main] INFO  FoundWords - общение - 1
+29.03.2021 01:27:20.048 [main] INFO  FoundWords - общий - 2
+29.03.2021 01:27:20.048 [main] INFO  FoundWords - обязательства - 1
+29.03.2021 01:27:20.048 [main] INFO  FoundWords - ожидаемый - 1
+29.03.2021 01:27:20.048 [main] INFO  FoundWords - ожидания - 3
+29.03.2021 01:27:20.048 [main] INFO  FoundWords - ожиданиям - 2
+29.03.2021 01:27:20.048 [main] INFO  FoundWords - ожидать - 2
+29.03.2021 01:27:20.048 [main] INFO  FoundWords - ок - 1
+29.03.2021 01:27:20.048 [main] INFO  FoundWords - окажем - 1
+29.03.2021 01:27:20.048 [main] INFO  FoundWords - оказать - 1
+29.03.2021 01:27:20.048 [main] INFO  FoundWords - оказывают - 1
+29.03.2021 01:27:20.048 [main] INFO  FoundWords - окончанию - 1
+29.03.2021 01:27:20.048 [main] INFO  FoundWords - олимпиаде - 1
+29.03.2021 01:27:20.048 [main] INFO  FoundWords - они - 5
+29.03.2021 01:27:20.048 [main] INFO  FoundWords - оперативная - 1
+29.03.2021 01:27:20.048 [main] INFO  FoundWords - оперативно - 3
+29.03.2021 01:27:20.048 [main] INFO  FoundWords - опирались - 1
+29.03.2021 01:27:20.048 [main] INFO  FoundWords - оправдали - 1
+29.03.2021 01:27:20.050 [main] INFO  FoundWords - опыт - 3
+29.03.2021 01:27:20.050 [main] INFO  FoundWords - организованность - 1
+29.03.2021 01:27:20.050 [main] INFO  FoundWords - организуем - 2
+29.03.2021 01:27:20.050 [main] INFO  FoundWords - ориентируют - 1
+29.03.2021 01:27:20.050 [main] INFO  FoundWords - освоив - 1
+29.03.2021 01:27:20.050 [main] INFO  FoundWords - оставаясь - 1
+29.03.2021 01:27:20.050 [main] INFO  FoundWords - остались - 1
+29.03.2021 01:27:20.050 [main] INFO  FoundWords - от - 1
+29.03.2021 01:27:20.050 [main] INFO  FoundWords - ответственная - 1
+29.03.2021 01:27:20.050 [main] INFO  FoundWords - ответственность - 2
+29.03.2021 01:27:20.050 [main] INFO  FoundWords - ответственные - 1
+29.03.2021 01:27:20.050 [main] INFO  FoundWords - ответственных - 1
+29.03.2021 01:27:20.050 [main] INFO  FoundWords - отвечающего - 1
+29.03.2021 01:27:20.050 [main] INFO  FoundWords - отвечающий - 1
+29.03.2021 01:27:20.050 [main] INFO  FoundWords - отдачу - 2
+29.03.2021 01:27:20.050 [main] INFO  FoundWords - отзывы - 1
+29.03.2021 01:27:20.050 [main] INFO  FoundWords - отличного - 1
+29.03.2021 01:27:20.050 [main] INFO  FoundWords - отличный - 1
+29.03.2021 01:27:20.050 [main] INFO  FoundWords - отношений - 1
+29.03.2021 01:27:20.050 [main] INFO  FoundWords - отношениями - 1
+29.03.2021 01:27:20.050 [main] INFO  FoundWords - отрасли - 2
+29.03.2021 01:27:20.050 [main] INFO  FoundWords - офис - 1
+29.03.2021 01:27:20.050 [main] INFO  FoundWords - оценка - 2
+29.03.2021 01:27:20.050 [main] INFO  FoundWords - оценкам - 1
+29.03.2021 01:27:20.050 [main] INFO  FoundWords - очень - 8
+29.03.2021 01:27:20.050 [main] INFO  FoundWords - партнер - 1
+29.03.2021 01:27:20.050 [main] INFO  FoundWords - партнера - 2
+29.03.2021 01:27:20.050 [main] INFO  FoundWords - партнерских - 1
+29.03.2021 01:27:20.050 [main] INFO  FoundWords - первая - 1
+29.03.2021 01:27:20.050 [main] INFO  FoundWords - первой - 1
+29.03.2021 01:27:20.050 [main] INFO  FoundWords - первые - 1
+29.03.2021 01:27:20.050 [main] INFO  FoundWords - первый - 3
+29.03.2021 01:27:20.050 [main] INFO  FoundWords - планировал - 1
+29.03.2021 01:27:20.050 [main] INFO  FoundWords - платформу - 1
+29.03.2021 01:27:20.050 [main] INFO  FoundWords - по - 12
+29.03.2021 01:27:20.050 [main] INFO  FoundWords - погрузились - 1
+29.03.2021 01:27:20.050 [main] INFO  FoundWords - под - 4
+29.03.2021 01:27:20.050 [main] INFO  FoundWords - подготовки - 1
+29.03.2021 01:27:20.050 [main] INFO  FoundWords - поддержку - 1
+29.03.2021 01:27:20.050 [main] INFO  FoundWords - подключили - 1
+29.03.2021 01:27:20.050 [main] INFO  FoundWords - подключим - 1
+29.03.2021 01:27:20.050 [main] INFO  FoundWords - подробнее - 1
+29.03.2021 01:27:20.050 [main] INFO  FoundWords - подстраиваемся - 1
+29.03.2021 01:27:20.050 [main] INFO  FoundWords - подтверждаете - 1
+29.03.2021 01:27:20.050 [main] INFO  FoundWords - подход - 2
+29.03.2021 01:27:20.050 [main] INFO  FoundWords - подходом - 1
+29.03.2021 01:27:20.050 [main] INFO  FoundWords - подходы - 2
+29.03.2021 01:27:20.050 [main] INFO  FoundWords - подходят - 1
+29.03.2021 01:27:20.050 [main] INFO  FoundWords - пожелания - 4
+29.03.2021 01:27:20.050 [main] INFO  FoundWords - позволило - 1
+29.03.2021 01:27:20.050 [main] INFO  FoundWords - показали - 2
+29.03.2021 01:27:20.050 [main] INFO  FoundWords - полагались - 1
+29.03.2021 01:27:20.050 [main] INFO  FoundWords - полностью - 2
+29.03.2021 01:27:20.050 [main] INFO  FoundWords - получаем - 2
+29.03.2021 01:27:20.050 [main] INFO  FoundWords - получаете - 3
+29.03.2021 01:27:20.050 [main] INFO  FoundWords - получили - 5
+29.03.2021 01:27:20.050 [main] INFO  FoundWords - пользователи - 1
+29.03.2021 01:27:20.050 [main] INFO  FoundWords - помочь - 1
+29.03.2021 01:27:20.050 [main] INFO  FoundWords - помощью - 1
+29.03.2021 01:27:20.050 [main] INFO  FoundWords - понимали - 1
+29.03.2021 01:27:20.050 [main] INFO  FoundWords - понимание - 1
+29.03.2021 01:27:20.050 [main] INFO  FoundWords - понравилось - 1
+29.03.2021 01:27:20.050 [main] INFO  FoundWords - понять - 1
+29.03.2021 01:27:20.050 [main] INFO  FoundWords - портфолио - 2
+29.03.2021 01:27:20.050 [main] INFO  FoundWords - после - 4
+29.03.2021 01:27:20.050 [main] INFO  FoundWords - посмотреть - 1
+29.03.2021 01:27:20.050 [main] INFO  FoundWords - поставленные - 1
+29.03.2021 01:27:20.050 [main] INFO  FoundWords - поступала - 1
+29.03.2021 01:27:20.050 [main] INFO  FoundWords - потенциалом - 1
+29.03.2021 01:27:20.050 [main] INFO  FoundWords - потребностей - 1
+29.03.2021 01:27:20.050 [main] INFO  FoundWords - потребности - 1
+29.03.2021 01:27:20.050 [main] INFO  FoundWords - потребностях - 1
+29.03.2021 01:27:20.050 [main] INFO  FoundWords - почему - 1
+29.03.2021 01:27:20.050 [main] INFO  FoundWords - превзошли - 2
+29.03.2021 01:27:20.050 [main] INFO  FoundWords - преданность - 1
+29.03.2021 01:27:20.050 [main] INFO  FoundWords - предельно - 1
+29.03.2021 01:27:20.050 [main] INFO  FoundWords - предлагали - 1
+29.03.2021 01:27:20.050 [main] INFO  FoundWords - предлагают - 2
+29.03.2021 01:27:20.050 [main] INFO  FoundWords - предметную - 1
+29.03.2021 01:27:20.050 [main] INFO  FoundWords - предоставили - 1
+29.03.2021 01:27:20.050 [main] INFO  FoundWords - предоставим - 1
+29.03.2021 01:27:20.050 [main] INFO  FoundWords - предоставить - 1
+29.03.2021 01:27:20.050 [main] INFO  FoundWords - предоставляют - 1
+29.03.2021 01:27:20.050 [main] INFO  FoundWords - предсказуемые - 1
+29.03.2021 01:27:20.050 [main] INFO  FoundWords - представляли - 1
+29.03.2021 01:27:20.050 [main] INFO  FoundWords - преимущество - 2
+29.03.2021 01:27:20.050 [main] INFO  FoundWords - прекрасно - 1
+29.03.2021 01:27:20.050 [main] INFO  FoundWords - приложение - 2
+29.03.2021 01:27:20.050 [main] INFO  FoundWords - приложением - 1
+29.03.2021 01:27:20.050 [main] INFO  FoundWords - приложений - 1
+29.03.2021 01:27:20.050 [main] INFO  FoundWords - приложения - 1
+29.03.2021 01:27:20.050 [main] INFO  FoundWords - принесут - 1
+29.03.2021 01:27:20.050 [main] INFO  FoundWords - приобретаете - 1
+29.03.2021 01:27:20.050 [main] INFO  FoundWords - приоритетов - 1
+29.03.2021 01:27:20.050 [main] INFO  FoundWords - приятно - 1
+29.03.2021 01:27:20.050 [main] INFO  FoundWords - приятное - 1
+29.03.2021 01:27:20.050 [main] INFO  FoundWords - проактивность - 1
+29.03.2021 01:27:20.050 [main] INFO  FoundWords - проведм - 1
+29.03.2021 01:27:20.050 [main] INFO  FoundWords - проведут - 1
+29.03.2021 01:27:20.050 [main] INFO  FoundWords - проверим - 1
+29.03.2021 01:27:20.050 [main] INFO  FoundWords - программного - 3
+29.03.2021 01:27:20.050 [main] INFO  FoundWords - программные - 1
+29.03.2021 01:27:20.050 [main] INFO  FoundWords - продукт - 8
+29.03.2021 01:27:20.050 [main] INFO  FoundWords - продукта - 5
+29.03.2021 01:27:20.050 [main] INFO  FoundWords - продуктами - 1
+29.03.2021 01:27:20.050 [main] INFO  FoundWords - продуктов - 1
+29.03.2021 01:27:20.050 [main] INFO  FoundWords - проект - 3
+29.03.2021 01:27:20.050 [main] INFO  FoundWords - проекта - 2
+29.03.2021 01:27:20.050 [main] INFO  FoundWords - проектов - 3
+29.03.2021 01:27:20.050 [main] INFO  FoundWords - прозрачный - 1
+29.03.2021 01:27:20.050 [main] INFO  FoundWords - производительности - 1
+29.03.2021 01:27:20.050 [main] INFO  FoundWords - промышленности - 2
+29.03.2021 01:27:20.050 [main] INFO  FoundWords - проспект - 1
+29.03.2021 01:27:20.050 [main] INFO  FoundWords - просто - 1
+29.03.2021 01:27:20.050 [main] INFO  FoundWords - протестируем - 1
+29.03.2021 01:27:20.050 [main] INFO  FoundWords - прототип - 1
+29.03.2021 01:27:20.050 [main] INFO  FoundWords - прототипа - 1
+29.03.2021 01:27:20.050 [main] INFO  FoundWords - прототипов - 1
+29.03.2021 01:27:20.050 [main] INFO  FoundWords - профессионалы - 1
+29.03.2021 01:27:20.050 [main] INFO  FoundWords - профессиональная - 1
+29.03.2021 01:27:20.050 [main] INFO  FoundWords - профессиональной - 1
+29.03.2021 01:27:20.050 [main] INFO  FoundWords - профессиональную - 1
+29.03.2021 01:27:20.050 [main] INFO  FoundWords - процесс - 3
+29.03.2021 01:27:20.050 [main] INFO  FoundWords - процессов - 1
+29.03.2021 01:27:20.050 [main] INFO  FoundWords - процессы - 3
+29.03.2021 01:27:20.050 [main] INFO  FoundWords - прочитали - 1
+29.03.2021 01:27:20.050 [main] INFO  FoundWords - прошли - 1
+29.03.2021 01:27:20.050 [main] INFO  FoundWords - проявляют - 1
+29.03.2021 01:27:20.050 [main] INFO  FoundWords - пути - 1
+29.03.2021 01:27:20.050 [main] INFO  FoundWords - работ - 4
+29.03.2021 01:27:20.050 [main] INFO  FoundWords - работа - 2
+29.03.2021 01:27:20.050 [main] INFO  FoundWords - работала - 1
+29.03.2021 01:27:20.050 [main] INFO  FoundWords - работающий - 1
+29.03.2021 01:27:20.050 [main] INFO  FoundWords - работающим - 1
+29.03.2021 01:27:20.050 [main] INFO  FoundWords - работоспособность - 1
+29.03.2021 01:27:20.050 [main] INFO  FoundWords - работу - 4
+29.03.2021 01:27:20.050 [main] INFO  FoundWords - работы - 5
+29.03.2021 01:27:20.050 [main] INFO  FoundWords - разбермся - 1
+29.03.2021 01:27:20.050 [main] INFO  FoundWords - разбивку - 1
+29.03.2021 01:27:20.050 [main] INFO  FoundWords - развития - 1
+29.03.2021 01:27:20.050 [main] INFO  FoundWords - разрабатывает - 1
+29.03.2021 01:27:20.050 [main] INFO  FoundWords - разработали - 3
+29.03.2021 01:27:20.050 [main] INFO  FoundWords - разработать - 2
+29.03.2021 01:27:20.050 [main] INFO  FoundWords - разработка - 2
+29.03.2021 01:27:20.058 [main] INFO  FoundWords - разработке - 8
+29.03.2021 01:27:20.058 [main] INFO  FoundWords - разработки - 10
+29.03.2021 01:27:20.058 [main] INFO  FoundWords - разработкой - 1
+29.03.2021 01:27:20.058 [main] INFO  FoundWords - разумные - 1
+29.03.2021 01:27:20.058 [main] INFO  FoundWords - рассчитывать - 1
+29.03.2021 01:27:20.058 [main] INFO  FoundWords - расширенный - 1
+29.03.2021 01:27:20.058 [main] INFO  FoundWords - раунд - 1
+29.03.2021 01:27:20.058 [main] INFO  FoundWords - реагируют - 2
+29.03.2021 01:27:20.058 [main] INFO  FoundWords - реакция - 1
+29.03.2021 01:27:20.058 [main] INFO  FoundWords - реализации - 3
+29.03.2021 01:27:20.058 [main] INFO  FoundWords - реализовали - 1
+29.03.2021 01:27:20.058 [main] INFO  FoundWords - реализуются - 1
+29.03.2021 01:27:20.058 [main] INFO  FoundWords - реально - 1
+29.03.2021 01:27:20.058 [main] INFO  FoundWords - результат - 7
+29.03.2021 01:27:20.058 [main] INFO  FoundWords - результате - 1
+29.03.2021 01:27:20.058 [main] INFO  FoundWords - результаты - 4
+29.03.2021 01:27:20.058 [main] INFO  FoundWords - релиз - 1
+29.03.2021 01:27:20.058 [main] INFO  FoundWords - релизов - 1
+29.03.2021 01:27:20.058 [main] INFO  FoundWords - решать - 1
+29.03.2021 01:27:20.058 [main] INFO  FoundWords - решению - 3
+29.03.2021 01:27:20.058 [main] INFO  FoundWords - решения - 4
+29.03.2021 01:27:20.058 [main] INFO  FoundWords - решили - 1
+29.03.2021 01:27:20.058 [main] INFO  FoundWords - роль - 1
+29.03.2021 01:27:20.058 [main] INFO  FoundWords - россии - 1
+29.03.2021 01:27:20.058 [main] INFO  FoundWords - роста - 1
+29.03.2021 01:27:20.058 [main] INFO  FoundWords - с - 17
+29.03.2021 01:27:20.058 [main] INFO  FoundWords - сайт - 2
+29.03.2021 01:27:20.058 [main] INFO  FoundWords - сами - 1
+29.03.2021 01:27:20.058 [main] INFO  FoundWords - самого - 1
+29.03.2021 01:27:20.058 [main] INFO  FoundWords - самом - 1
+29.03.2021 01:27:20.058 [main] INFO  FoundWords - самые - 1
+29.03.2021 01:27:20.058 [main] INFO  FoundWords - свернут - 1
+29.03.2021 01:27:20.058 [main] INFO  FoundWords - свое - 1
+29.03.2021 01:27:20.058 [main] INFO  FoundWords - свой - 2
+29.03.2021 01:27:20.058 [main] INFO  FoundWords - сделать - 1
+29.03.2021 01:27:20.058 [main] INFO  FoundWords - себе - 1
+29.03.2021 01:27:20.060 [main] INFO  FoundWords - себя - 1
+29.03.2021 01:27:20.060 [main] INFO  FoundWords - сервиса - 1
+29.03.2021 01:27:20.060 [main] INFO  FoundWords - сертифицированных - 1
+29.03.2021 01:27:20.060 [main] INFO  FoundWords - сжатые - 1
+29.03.2021 01:27:20.060 [main] INFO  FoundWords - симбирсофт - 4
+29.03.2021 01:27:20.060 [main] INFO  FoundWords - систем - 1
+29.03.2021 01:27:20.060 [main] INFO  FoundWords - систему - 1
+29.03.2021 01:27:20.060 [main] INFO  FoundWords - системы - 2
+29.03.2021 01:27:20.060 [main] INFO  FoundWords - сколково - 1
+29.03.2021 01:27:20.060 [main] INFO  FoundWords - скорости - 1
+29.03.2021 01:27:20.060 [main] INFO  FoundWords - скоростью - 1
+29.03.2021 01:27:20.060 [main] INFO  FoundWords - сложными - 1
+29.03.2021 01:27:20.060 [main] INFO  FoundWords - сложных - 2
+29.03.2021 01:27:20.060 [main] INFO  FoundWords - слышат - 1
+29.03.2021 01:27:20.060 [main] INFO  FoundWords - смелые - 1
+29.03.2021 01:27:20.060 [main] INFO  FoundWords - смену - 1
+29.03.2021 01:27:20.060 [main] INFO  FoundWords - смотрим - 1
+29.03.2021 01:27:20.060 [main] INFO  FoundWords - со - 1
+29.03.2021 01:27:20.060 [main] INFO  FoundWords - соблюдены - 1
+29.03.2021 01:27:20.060 [main] INFO  FoundWords - собранность - 1
+29.03.2021 01:27:20.060 [main] INFO  FoundWords - собственных - 1
+29.03.2021 01:27:20.060 [main] INFO  FoundWords - современных - 1
+29.03.2021 01:27:20.060 [main] INFO  FoundWords - согласие - 1
+29.03.2021 01:27:20.060 [main] INFO  FoundWords - создали - 2
+29.03.2021 01:27:20.060 [main] INFO  FoundWords - создании - 1
+29.03.2021 01:27:20.060 [main] INFO  FoundWords - созданию - 1
+29.03.2021 01:27:20.060 [main] INFO  FoundWords - сокращаем - 1
+29.03.2021 01:27:20.060 [main] INFO  FoundWords - соответствии - 1
+29.03.2021 01:27:20.060 [main] INFO  FoundWords - соответствовал - 1
+29.03.2021 01:27:20.060 [main] INFO  FoundWords - сопровождения - 1
+29.03.2021 01:27:20.060 [main] INFO  FoundWords - сотне - 1
+29.03.2021 01:27:20.060 [main] INFO  FoundWords - сотрудничать - 1
+29.03.2021 01:27:20.060 [main] INFO  FoundWords - сотрудничая - 1
+29.03.2021 01:27:20.060 [main] INFO  FoundWords - сотрудничества - 2
+29.03.2021 01:27:20.060 [main] INFO  FoundWords - сотрудничеством - 1
+29.03.2021 01:27:20.060 [main] INFO  FoundWords - сотрудничеству - 1
+29.03.2021 01:27:20.060 [main] INFO  FoundWords - софта - 1
+29.03.2021 01:27:20.060 [main] INFO  FoundWords - социальная - 2
+29.03.2021 01:27:20.060 [main] INFO  FoundWords - спасли - 1
+29.03.2021 01:27:20.060 [main] INFO  FoundWords - спасти - 3
+29.03.2021 01:27:20.060 [main] INFO  FoundWords - спектра - 1
+29.03.2021 01:27:20.060 [main] INFO  FoundWords - специалистов - 4
+29.03.2021 01:27:20.060 [main] INFO  FoundWords - специалисты - 1
+29.03.2021 01:27:20.060 [main] INFO  FoundWords - способ - 1
+29.03.2021 01:27:20.060 [main] INFO  FoundWords - способны - 1
+29.03.2021 01:27:20.060 [main] INFO  FoundWords - справилась - 1
+29.03.2021 01:27:20.060 [main] INFO  FoundWords - спроектируем - 1
+29.03.2021 01:27:20.060 [main] INFO  FoundWords - сработанная - 1
+29.03.2021 01:27:20.060 [main] INFO  FoundWords - срок - 4
+29.03.2021 01:27:20.060 [main] INFO  FoundWords - срока - 1
+29.03.2021 01:27:20.060 [main] INFO  FoundWords - срокам - 2
+29.03.2021 01:27:20.060 [main] INFO  FoundWords - сроки - 6
+29.03.2021 01:27:20.060 [main] INFO  FoundWords - сроков - 1
+29.03.2021 01:27:20.060 [main] INFO  FoundWords - стабильного - 1
+29.03.2021 01:27:20.060 [main] INFO  FoundWords - становятся - 1
+29.03.2021 01:27:20.060 [main] INFO  FoundWords - стран - 1
+29.03.2021 01:27:20.060 [main] INFO  FoundWords - страховых - 2
+29.03.2021 01:27:20.060 [main] INFO  FoundWords - стресса - 1
+29.03.2021 01:27:20.060 [main] INFO  FoundWords - строение - 1
+29.03.2021 01:27:20.060 [main] INFO  FoundWords - сфере - 1
+29.03.2021 01:27:20.060 [main] INFO  FoundWords - сферы - 2
+29.03.2021 01:27:20.060 [main] INFO  FoundWords - сформируем - 1
+29.03.2021 01:27:20.060 [main] INFO  FoundWords - сша - 1
+29.03.2021 01:27:20.060 [main] INFO  FoundWords - так - 1
+29.03.2021 01:27:20.060 [main] INFO  FoundWords - там - 2
+29.03.2021 01:27:20.060 [main] INFO  FoundWords - творческие - 1
+29.03.2021 01:27:20.060 [main] INFO  FoundWords - те - 1
+29.03.2021 01:27:20.060 [main] INFO  FoundWords - текущую - 1
+29.03.2021 01:27:20.060 [main] INFO  FoundWords - теми - 1
+29.03.2021 01:27:20.060 [main] INFO  FoundWords - темп - 1
+29.03.2021 01:27:20.060 [main] INFO  FoundWords - тенденциями - 1
+29.03.2021 01:27:20.060 [main] INFO  FoundWords - тестированию - 1
+29.03.2021 01:27:20.060 [main] INFO  FoundWords - тестирования - 1
+29.03.2021 01:27:20.060 [main] INFO  FoundWords - технических - 1
+29.03.2021 01:27:20.060 [main] INFO  FoundWords - техническую - 1
+29.03.2021 01:27:20.060 [main] INFO  FoundWords - технологии - 3
+29.03.2021 01:27:20.060 [main] INFO  FoundWords - технологическая - 1
+29.03.2021 01:27:20.060 [main] INFO  FoundWords - технологического - 1
+29.03.2021 01:27:20.060 [main] INFO  FoundWords - технологическую - 1
+29.03.2021 01:27:20.060 [main] INFO  FoundWords - техподдержка - 2
+29.03.2021 01:27:20.060 [main] INFO  FoundWords - течение - 1
+29.03.2021 01:27:20.060 [main] INFO  FoundWords - того - 1
+29.03.2021 01:27:20.060 [main] INFO  FoundWords - точно - 1
+29.03.2021 01:27:20.060 [main] INFO  FoundWords - точности - 1
+29.03.2021 01:27:20.060 [main] INFO  FoundWords - требования - 3
+29.03.2021 01:27:20.060 [main] INFO  FoundWords - требованиям - 2
+29.03.2021 01:27:20.060 [main] INFO  FoundWords - увеличения - 1
+29.03.2021 01:27:20.060 [main] INFO  FoundWords - уверенное - 1
+29.03.2021 01:27:20.060 [main] INFO  FoundWords - уверенностью - 1
+29.03.2021 01:27:20.060 [main] INFO  FoundWords - увидели - 1
+29.03.2021 01:27:20.060 [main] INFO  FoundWords - удалось - 1
+29.03.2021 01:27:20.060 [main] INFO  FoundWords - уделяют - 1
+29.03.2021 01:27:20.060 [main] INFO  FoundWords - удивляет - 1
+29.03.2021 01:27:20.060 [main] INFO  FoundWords - удовлетворить - 2
+29.03.2021 01:27:20.060 [main] INFO  FoundWords - уже - 1
+29.03.2021 01:27:20.060 [main] INFO  FoundWords - укладываются - 1
+29.03.2021 01:27:20.060 [main] INFO  FoundWords - уложиться - 1
+29.03.2021 01:27:20.060 [main] INFO  FoundWords - улучшения - 1
+29.03.2021 01:27:20.060 [main] INFO  FoundWords - уникальные - 1
+29.03.2021 01:27:20.060 [main] INFO  FoundWords - управлению - 2
+29.03.2021 01:27:20.060 [main] INFO  FoundWords - уровень - 1
+29.03.2021 01:27:20.060 [main] INFO  FoundWords - уровне - 2
+29.03.2021 01:27:20.060 [main] INFO  FoundWords - условия - 1
+29.03.2021 01:27:20.060 [main] INFO  FoundWords - условиях - 1
+29.03.2021 01:27:20.060 [main] INFO  FoundWords - услуги - 4
+29.03.2021 01:27:20.060 [main] INFO  FoundWords - успех - 2
+29.03.2021 01:27:20.060 [main] INFO  FoundWords - успешно - 1
+29.03.2021 01:27:20.060 [main] INFO  FoundWords - успешным - 1
+29.03.2021 01:27:20.060 [main] INFO  FoundWords - участников - 1
+29.03.2021 01:27:20.060 [main] INFO  FoundWords - учетом - 1
+29.03.2021 01:27:20.060 [main] INFO  FoundWords - учитывались - 1
+29.03.2021 01:27:20.060 [main] INFO  FoundWords - уязвимости - 1
+29.03.2021 01:27:20.060 [main] INFO  FoundWords - файлов - 1
+29.03.2021 01:27:20.060 [main] INFO  FoundWords - файлы - 1
+29.03.2021 01:27:20.060 [main] INFO  FoundWords - флагманского - 1
+29.03.2021 01:27:20.060 [main] INFO  FoundWords - фраз - 1
+29.03.2021 01:27:20.060 [main] INFO  FoundWords - функционалом - 1
+29.03.2021 01:27:20.060 [main] INFO  FoundWords - хода - 1
+29.03.2021 01:27:20.060 [main] INFO  FoundWords - ходе - 1
+29.03.2021 01:27:20.060 [main] INFO  FoundWords - хорошо - 1
+29.03.2021 01:27:20.060 [main] INFO  FoundWords - хорошую - 1
+29.03.2021 01:27:20.060 [main] INFO  FoundWords - хотят - 1
+29.03.2021 01:27:20.060 [main] INFO  FoundWords - хочет - 1
+29.03.2021 01:27:20.060 [main] INFO  FoundWords - целей - 1
+29.03.2021 01:27:20.060 [main] INFO  FoundWords - целях - 1
+29.03.2021 01:27:20.060 [main] INFO  FoundWords - ценим - 2
+29.03.2021 01:27:20.060 [main] INFO  FoundWords - цикл - 1
+29.03.2021 01:27:20.060 [main] INFO  FoundWords - часов - 1
+29.03.2021 01:27:20.060 [main] INFO  FoundWords - частью - 1
+29.03.2021 01:27:20.060 [main] INFO  FoundWords - чего - 2
+29.03.2021 01:27:20.060 [main] INFO  FoundWords - человеческими - 1
+29.03.2021 01:27:20.060 [main] INFO  FoundWords - чем - 1
+29.03.2021 01:27:20.060 [main] INFO  FoundWords - через - 4
+29.03.2021 01:27:20.060 [main] INFO  FoundWords - четкий - 1
+29.03.2021 01:27:20.060 [main] INFO  FoundWords - четкое - 1
+29.03.2021 01:27:20.060 [main] INFO  FoundWords - читать - 1
+29.03.2021 01:27:20.060 [main] INFO  FoundWords - что - 2
+29.03.2021 01:27:20.060 [main] INFO  FoundWords - чтобы - 3
+29.03.2021 01:27:20.060 [main] INFO  FoundWords - широкого - 1
+29.03.2021 01:27:20.060 [main] INFO  FoundWords - экспертиза - 1
+29.03.2021 01:27:20.068 [main] INFO  FoundWords - экспертов - 1
+29.03.2021 01:27:20.068 [main] INFO  FoundWords - этаж - 1
+29.03.2021 01:27:20.068 [main] INFO  FoundWords - этапа - 1
+29.03.2021 01:27:20.068 [main] INFO  FoundWords - этапах - 1
+29.03.2021 01:27:20.068 [main] INFO  FoundWords - этапы - 1
+29.03.2021 01:27:20.068 [main] INFO  FoundWords - этого - 1
+29.03.2021 01:27:20.068 [main] INFO  FoundWords - эффективно - 1
+29.03.2021 01:27:20.068 [main] INFO  FoundWords - юзабилити - 1
+29.03.2021 01:27:20.068 [main] INFO  FoundWords - я - 3
+29.03.2021 01:27:20.068 [main] INFO  FoundWords - язык - 1
+29.03.2021 01:27:20.068 [main] INFO  FoundWords - языком - 1
+29.03.2021 01:27:20.068 [main] INFO  FoundWords - ясность - 1
+29.03.2021 01:33:29.802 [main] INFO  FoundWords - Actual words found on the page vk.com:
+29.03.2021 01:33:29.818 [main] INFO  FoundWords - Мобильная
+29.03.2021 01:33:29.818 [main] INFO  FoundWords - версия
+29.03.2021 01:33:29.818 [main] INFO  FoundWords - ВКонтакте
+29.03.2021 01:33:29.818 [main] INFO  FoundWords - |
+29.03.2021 01:33:29.818 [main] INFO  FoundWords - ВКонтакте
+29.03.2021 01:33:29.818 [main] INFO  FoundWords - Установить
+29.03.2021 01:33:29.818 [main] INFO  FoundWords - приложение
+29.03.2021 01:33:29.818 [main] INFO  FoundWords - ВКонтакте
+29.03.2021 01:33:29.818 [main] INFO  FoundWords - Мобильная
+29.03.2021 01:33:29.818 [main] INFO  FoundWords - версия
+29.03.2021 01:33:29.818 [main] INFO  FoundWords - поможет
+29.03.2021 01:33:29.818 [main] INFO  FoundWords - вам
+29.03.2021 01:33:29.818 [main] INFO  FoundWords - оставаться
+29.03.2021 01:33:29.833 [main] INFO  FoundWords - ВКонтакте
+29.03.2021 01:33:29.833 [main] INFO  FoundWords - даже
+29.03.2021 01:33:29.833 [main] INFO  FoundWords - если
+29.03.2021 01:33:29.833 [main] INFO  FoundWords - вы
+29.03.2021 01:33:29.833 [main] INFO  FoundWords - далеко
+29.03.2021 01:33:29.833 [main] INFO  FoundWords - от
+29.03.2021 01:33:29.833 [main] INFO  FoundWords - компьютера
+29.03.2021 01:33:29.833 [main] INFO  FoundWords - Забыли
+29.03.2021 01:33:29.833 [main] INFO  FoundWords - пароль
+29.03.2021 01:33:29.833 [main] INFO  FoundWords - Впервые
+29.03.2021 01:33:29.833 [main] INFO  FoundWords - ВКонтакте
+29.03.2021 01:33:29.833 [main] INFO  FoundWords - Зарегистрироваться
+29.03.2021 01:33:29.833 [main] INFO  FoundWords - Войти
+29.03.2021 01:33:29.833 [main] INFO  FoundWords - через
+29.03.2021 01:33:29.833 [main] INFO  FoundWords - Facebook
+29.03.2021 01:33:29.833 [main] INFO  FoundWords - Українська
+29.03.2021 01:33:29.833 [main] INFO  FoundWords - English
+29.03.2021 01:33:29.833 [main] INFO  FoundWords - all
+29.03.2021 01:33:29.833 [main] INFO  FoundWords - languages
+29.03.2021 01:33:29.833 [main] INFO  FoundWords - »
+29.03.2021 01:33:29.833 [main] INFO  FoundWords - Версия
+29.03.2021 01:33:29.833 [main] INFO  FoundWords - для
+29.03.2021 01:33:29.833 [main] INFO  FoundWords - компьютера
+29.03.2021 01:33:29.918 [main] INFO  FoundWords - Unique words usage statistics for page vk.com:
+29.03.2021 01:33:29.918 [main] INFO  FoundWords - all - 1
+29.03.2021 01:33:29.918 [main] INFO  FoundWords - english - 1
+29.03.2021 01:33:29.918 [main] INFO  FoundWords - facebook - 1
+29.03.2021 01:33:29.918 [main] INFO  FoundWords - languages - 1
+29.03.2021 01:33:29.918 [main] INFO  FoundWords - вам - 1
+29.03.2021 01:33:29.918 [main] INFO  FoundWords - версия - 3
+29.03.2021 01:33:29.918 [main] INFO  FoundWords - вконтакте - 5
+29.03.2021 01:33:29.918 [main] INFO  FoundWords - войти - 1
+29.03.2021 01:33:29.918 [main] INFO  FoundWords - впервые - 1
+29.03.2021 01:33:29.918 [main] INFO  FoundWords - вы - 1
+29.03.2021 01:33:29.918 [main] INFO  FoundWords - даже - 1
+29.03.2021 01:33:29.918 [main] INFO  FoundWords - далеко - 1
+29.03.2021 01:33:29.918 [main] INFO  FoundWords - для - 1
+29.03.2021 01:33:29.918 [main] INFO  FoundWords - если - 1
+29.03.2021 01:33:29.918 [main] INFO  FoundWords - забыли - 1
+29.03.2021 01:33:29.918 [main] INFO  FoundWords - зарегистрироваться - 1
+29.03.2021 01:33:29.918 [main] INFO  FoundWords - компьютера - 2
+29.03.2021 01:33:29.918 [main] INFO  FoundWords - мобильная - 2
+29.03.2021 01:33:29.918 [main] INFO  FoundWords - оставаться - 1
+29.03.2021 01:33:29.918 [main] INFO  FoundWords - от - 1
+29.03.2021 01:33:29.918 [main] INFO  FoundWords - пароль - 1
+29.03.2021 01:33:29.918 [main] INFO  FoundWords - поможет - 1
+29.03.2021 01:33:29.918 [main] INFO  FoundWords - приложение - 1
+29.03.2021 01:33:29.918 [main] INFO  FoundWords - укранська - 1
+29.03.2021 01:33:29.918 [main] INFO  FoundWords - установить - 1
+29.03.2021 01:33:29.918 [main] INFO  FoundWords - через - 1
